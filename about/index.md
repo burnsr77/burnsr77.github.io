@@ -16,9 +16,9 @@ I am also affiliated with UW’s Simpson Center through its Certificate in Publi
 
 Before coming to UW, I earned a M.S. in Geography at San Diego State University (2009). There, I worked with André Skupin to visualize people’s perceptions of San Diego neighborhoods. I created 5 Self-organizing Maps (SOM) to explore the relationship between people’s personal characteristics, visual representations of place, and the ways they describe those neighborhoods. Going even further back, in 2006 I graduated Magna Cum Laude from Eastern Kentucky University with a B.A. in Geography. My senior thesis, which I wrote under the guidance of David Zurick, explored the ways the cultural significance of bookstores in Ho Chi Minh City, Vietnam, is changing in response to increasing globalization. 
 
-But most importantly, I am more than my academic interests. I have traveled to over a dozen countries and most of the 50 states. I am fanatic about: 1)music, 2)Belgian & IPA beer, 3)reading, 4)backpacking, 5)tea, 6)technology, and 7)my wife (yes, really). I would like to climb Mt. Kilimanjaro before the permanent snow melts. If I could go back in history to meet someone, I wouldn’t go far — probably mid-1920s and meet ee Cummings.
+But most importantly, I am more than my academic interests. I have traveled to over a dozen countries and most of the 50 states. I am fanatic about: 1)music, 2)Belgian & IPA beer, 3)reading, 4)backpacking, 5)tea, 6)technology, and 7)my wife (yes, really). I would like to climb Mt. Kilimanjaro before the permanent snow melts. If I could go back in history to meet someone, I wouldn’t go far - probably mid-1920s and meet ee Cummings.
 
-* * *
+- -
 
 ## contact details
 
@@ -28,7 +28,7 @@ But most importantly, I am more than my academic interests. I have traveled to o
 
 **gmail:**
 
-burnsr77[at]gmail[dot]com
+burnsr77\[at\]gmail\[dot\]com
 
 **web 2.0:**
 

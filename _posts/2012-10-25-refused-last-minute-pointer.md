@@ -1,5 +1,5 @@
 ---
-title: 'refused &#8211; last minute pointer'
+title: 'refused - last minute pointer'
 author: rlburns
 layout: post
 permalink: /2012/10/refused-last-minute-pointer/
@@ -12,7 +12,7 @@ heard this song for the first time in a long time, and thought it apropos the el
 
   
 Is there a single thing  
-That’d make you comprehend  
+That'd make you comprehend  
 As long as we shut up  
 We still sanction them?
 
@@ -32,5 +32,5 @@ Continuation
 With our silence  
 We vote for  
 Continuation  
-—  
+-  
 Lyrics from http://www.songmeanings.net/songs/view/3458764513820543987/#gkPxjRWDTRYhzTT2.99

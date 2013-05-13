@@ -8,4 +8,4 @@ categories:
 ---
 # 
 
-Where to stalk me… My own presentation is Friday morning, 8 AM in the “Theorizing the Geoweb” session.
+Where to stalk me... My own presentation is Friday morning, 8 AM in the "Theorizing the Geoweb" session.

@@ -23,6 +23,6 @@ This spring quarter (March 26-June 8) will be a big one if I sit back and cruise
  [3]: http://www.springer.com/social sciences/population studies/journal/10708
  [4]: http://www.aag.org/cs/annualmeeting
 
-I think these are all do-able if I focus my energy and work efficiently (which was one of my [New Year’s resolutions][5]!). Productivity/efficiency tips are welcome!
+I think these are all do-able if I focus my energy and work efficiently (which was one of my [New Year's resolutions][5]!). Productivity/efficiency tips are welcome!
 
- [5]: http://students.washington.edu/rlburns/2012/01/new-years-resolutions/
+ [5]: http://burnsr77.github.io/2012/01/new-years-resolutions/

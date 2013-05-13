@@ -10,14 +10,17 @@ categories:
 ---
 # 
 
-![Pfew!][1]
+**THIS POST IS BEING REDONE BECAUSE IT DIDN'T MIGRATE FROM WORDPRESS TO JEKYLL**
+
+
+\!\[Pfew!\]\[1\]
 This is me after every one of my dissertation interviews
 
-…or this:
+...or this:
 
- [1]: http://media.tumblr.com/tumblr_m7tqzvn0Ot1qmg4ti.gif "Mind blown"
+ \[1\]\: http://media.tumblr.com/tumblr_m7tqzvn0Ot1qmg4ti.gif
 
-![][2]
-This is what I’m like after every interview
+\!\[\]\[2\]
+This is what I'm like after every interview
 
- [2]: http://media.tumblr.com/tumblr_mf4vfnui9k1rxx2de.gif "...or this"
+ \[2\]\: http://media.tumblr.com/tumblr_mf4vfnui9k1rxx2de.gif

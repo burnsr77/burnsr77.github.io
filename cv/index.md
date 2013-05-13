@@ -5,40 +5,42 @@ layout: page
 ---
 # 
 
-[Click here for the much neater, and up-to-date PDF version][1]
+--THIS PAGE UNDER CONSTRUCTION AS I MOVE FROM WORDPRESS TO JEKYLL. CONTACT ME FOR MOST RECENT CV--
 
- [1]: http://students.washington.edu/rlburns/cv/burns_cv/
+\[Click here for the much neater, and up-to-date PDF version\]\[1\]
+
+ \[1\]: http://students.washington.edu/rlburns/cv/burns_cv/
 
 See below for HTML version, with links (where available).
 
 go to:  
-[education][2]  
-[affiliations][3]  
-[publications][4]  
-[leadership][5]  
-[awards][6]  
-[teaching][7]  
-[research][8]  
-[presentations][9]  
-[press coverage][10]  
-[memberships][11]  
-[peer reviews][12]  
-[work][13]  
-[technology experience][14] 
+\[education\]\[2\]  
+\[affiliations\]\[3\]  
+\[publications\]\[4\]  
+\[leadership\]\[5\]  
+\[awards\]\[6\]  
+\[teaching\]\[7\]  
+\[research\]\[8\]  
+\[presentations\]\[9\]  
+\[press coverage\]\[10\]  
+\[memberships\]\[11\]  
+\[peer reviews\]\[12\]  
+\[work\]\[13\]  
+\[technology experience\]\[14\] 
 
- [2]: #education
- [3]: #affiliations
- [4]: #pubs
- [5]: #leadership
- [6]: #awards
- [7]: #teaching
- [8]: #research
- [9]: #presentations
- [10]: #press
- [11]: #memberships
- [12]: #peerReview
- [13]: #work
- [14]: #tech
+ \[2\]: #education
+ \[3\]: #affiliations
+ \[4\]: #pubs
+ \[5\]: #leadership
+ \[6\]: #awards
+ \[7\]: #teaching
+ \[8\]: #research
+ \[9\]: #presentations
+ \[10\]: #press
+ \[11\]: #memberships
+ \[12\]: #peerReview
+ \[13\]: #work
+ \[14\]: #tech
 
 ## Education
 
@@ -78,24 +80,24 @@ Articles
 
 2012 Burns, Ryan, A. Skupin. Towards Qualitative Geovisual Analytics: A Case Study Involving Places, People, and Mediated Experience. Cartographica. Submitted. 
 
-2012 Burns, Ryan. [Connecting Grassroots to Government for Disaster Management][15]. Woodrow Wilson International Center for Scholars. http://bit.ly/OC4kmD (last accessed 9/18/2012).
+2012 Burns, Ryan. \[Connecting Grassroots to Government for Disaster Management\]\[15\]. Woodrow Wilson International Center for Scholars. http://bit.ly/OC4kmD (last accessed 9/18/2012).
 
- [15]: ../wordpress/wp-content/uploads/2012/11/Workshop_BackgroundReading.pdf
+ \[15\]: ../wordpress/wp-content/uploads/2012/11/Workshop_BackgroundReading.pdf
 
 2012 Burns, Ryan, D. Meek. “The Politics of Knowledge Production in the Geoweb”. Special Issue of ACME: An International E-Journal for Critical Geographies. Accepted. 
 
-2009 Burns, Ryan, A. Skupin. [Mapping Places, People, and Utterances to Visualize the Experience of Place][16]. In Proceedings of the 24th International Cartographic Conference, Santiago, Chile (CD-ROM). Click [here][17] for another link.
+2009 Burns, Ryan, A. Skupin. \[Mapping Places, People, and Utterances to Visualize the Experience of Place\]\[16\]. In Proceedings of the 24th International Cartographic Conference, Santiago, Chile (CD-ROM). Click \[here\]\[17\] for another link.
 
- [16]: ../wordpress/wp-content/uploads/2012/11/burns-skupin-visualization-of-attribute-spaces-involving-places-people-and-utterances.pdf
- [17]: http://ns1.icaci.org/files/documents/ICC_proceedings/ICC2009/html/nonref/20_9.pdf
+ \[16\]: ../wordpress/wp-content/uploads/2012/11/burns-skupin-visualization-of-attribute-spaces-involving-places-people-and-utterances.pdf
+ \[17\]: http://ns1.icaci.org/files/documents/ICC_proceedings/ICC2009/html/nonref/20_9.pdf
 
 Maps
 
-Drafting [Collection of 3 maps about Andra Pradesh, India] In P. Ramamurthy, Untitled
+Drafting \[Collection of 3 maps about Andra Pradesh, India\] In P. Ramamurthy, Untitled
 
 2011 Collection of 5 maps/screenshots from the Mapping Youth Journeys project website. In K. Mitchell, S. Elwood, “Engaging Students through Mapping Local History,” Journal of Geography. In press.
 
-2010 [Collection of 6 maps about poverty in the Pacific Northwest] In V. Lawson, L. Jarosz and A. Bonds, “Dumping Grounds and Unseen Grounds: Placing Race, Ethnicity and Poverty in the American Northwest,” Annals of the Association of American Geographers 100(3): 655-677.
+2010 \[Collection of 6 maps about poverty in the Pacific Northwest\] In V. Lawson, L. Jarosz and A. Bonds, “Dumping Grounds and Unseen Grounds: Placing Race, Ethnicity and Poverty in the American Northwest,” Annals of the Association of American Geographers 100(3): 655-677.
 
 2007 Map of Ecuador, Including the Extension of Páramo Grasslands and the Location of the Aglomerados, S.A. (ACOSA) Plantation. In K. Farley, “Grasslands to Tree Plantations: Forest Transition in the Andes of Ecuador,” Annals of the Association of American Geographers 97(4): 760.
 
@@ -201,7 +203,7 @@ Presentations
 
 2011 “Software-sorted Geographies of the Urban Global South”. Annual meeting of the AAG. Seattle WA.
 
-2010 Mitchell, K. & R. Burns [equal contribution] “Mapping Engagement: Using Basic Geovisualization Technologies to Help Children Become Better Geographers and Better Citizens”. Plenary session, Fall meeting of the Association of Washington Geographers.
+2010 Mitchell, K. & R. Burns \[equal contribution\] “Mapping Engagement: Using Basic Geovisualization Technologies to Help Children Become Better Geographers and Better Citizens”. Plenary session, Fall meeting of the Association of Washington Geographers.
 
 2010 “’Exploring Geovisualization’: Reflections, Ideas, and Questions”. Expected presentation at the Annual meeting of the AAG. Washington, D.C.
 
@@ -231,15 +233,15 @@ Presentations
 
 ## Mentions in Press
 
-2012 [“Doctoral Student Ryan Burns Selected to Present on Digital Scholarship at UW HuskyFest 2012”][18]. Simpson Center for the Humanities Center News.  
-2012 [“UW Leads in Connecting Scholarship with Community”][19]. UW Today.  
-2011 [“Certificate in Public Scholarship Fellows Represent UW at Imagining America Conference”][20]. Simpson Center for the Humanities Center News.  
-2005 [“Researchers Hope to Map, Identify Graves in Abandoned Cemetery”][21]. Diverse Issues in Higher Education.
+2012 \[“Doctoral Student Ryan Burns Selected to Present on Digital Scholarship at UW HuskyFest 2012”\]\[18\]. Simpson Center for the Humanities Center News.  
+2012 \[“UW Leads in Connecting Scholarship with Community”\]\[19\]. UW Today.  
+2011 \[“Certificate in Public Scholarship Fellows Represent UW at Imagining America Conference”\]\[20\]. Simpson Center for the Humanities Center News.  
+2005 \[“Researchers Hope to Map, Identify Graves in Abandoned Cemetery”\]\[21\]. Diverse Issues in Higher Education.
 
- [18]: http://bit.ly/HUCIQS
- [19]: http://bit.ly/yQ77sX.
- [20]: http://bit.ly/IgG6bl
- [21]: http://bit.ly/Jx7d2h
+ \[18\]: http://bit.ly/HUCIQS
+ \[19\]: http://bit.ly/yQ77sX.
+ \[20\]: http://bit.ly/IgG6bl
+ \[21\]: http://bit.ly/Jx7d2h
 
 ## Honorary and Professional Memberships Held
 
@@ -263,7 +265,7 @@ Past:
 
 ## Peer Reviews Provided
 
-*Geography Compass 
+-Geography Compass 
 Cartographica
 
 Plenum: A Journal of Geography
@@ -298,6 +300,6 @@ Summary of duties: Prepare clothing for cleaning, manage inventory maintenance, 
 
 ## Technological Proficiency (messy)
 
-[![][23]][23]
+\[!\[\]\[23\]\]\[23\]
 
- []: http://students.washington.edu/rlburns/wordpress/wp-content/uploads/2013/04/Digital-technology-proficiency.png
+ \[\]: http://students.washington.edu/rlburns/wordpress/wp-content/uploads/2013/04/Digital-technology-proficiency.png
