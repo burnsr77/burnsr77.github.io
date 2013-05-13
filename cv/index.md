@@ -1,15 +1,15 @@
 ---
 title: CV
 author: rlburns
-layout: page
+layout: layout
 ---
 # 
 
 --THIS PAGE UNDER CONSTRUCTION AS I MOVE FROM WORDPRESS TO JEKYLL. CONTACT ME FOR MOST RECENT CV--
 
-\[Click here for the much neater, and up-to-date PDF version\]\[1\]
+[Click here for the much neater, and up-to-date PDF version][1]
 
- \[1\]: http://students.washington.edu/rlburns/cv/burns_cv/
+[1]: /assets/uploads/Burns_CV.pdf
 
 See below for HTML version, with links (where available).
 

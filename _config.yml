@@ -6,6 +6,7 @@ exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
 auto: true
 pygments: true
 
+
 # Themes are encouraged to use these universal variables
 # so be sure to set them if your theme uses them.
 #
@@ -16,6 +17,7 @@ author :
   email : burnsr77@gmail.com
   github : burnsr77
   twitter : burnsr77
+  gravatar_url: http://www.gravatar.com/avatar/88ca2927dab21eacddc9fba3c3341f29.png
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt

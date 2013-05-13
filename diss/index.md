@@ -1,7 +1,7 @@
 ---
-title: dissertation
+title: "dissertation"
 author: rlburns
-layout: page
+layout: layout
 ---
 # 
 

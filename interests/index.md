@@ -1,7 +1,7 @@
 ---
 title: personal
 author: rlburns
-layout: page
+layout: layout
 ---
 # 
 
