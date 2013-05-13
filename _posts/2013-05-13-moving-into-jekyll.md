@@ -1,5 +1,5 @@
 ---
-title: My 2013 AAG Plans
+title: Moving from WordPress to Jekyll
 author: rlburns
 layout: post
 permalink: /2013/05/moving-into-jekyll/
