@@ -21,6 +21,12 @@ ul {
   padding-left: 20px;
 }
 
+ol {
+  width: 90%;
+  margin: 0 auto;
+
+}
+
 b, strong {
   color: #555;
 }
@@ -289,3 +295,5 @@ h1 {
   border: none;
   padding: 0;
 }
+
+ol
