@@ -6,8 +6,6 @@ permalink: /2012/07/soundtrack-to-seattle/
 categories:
   - Uncategorized
 ---
-# 
-
 The last week has been filled with goodbyes since I'm leaving Seattle this Wednesday(tomorrow. 7/18.). It's been hard to get work done because I'm trying to soak in every last bit of this wonderful city. Project memories against the cityscape as I walk through it. Some tunes will always remind me of my time here, and they've been on replay a lot lately as I try to account for every memory made here. Below is a list of 41 albums that for me will always take me back to Seattle. They weren't all released between 2009-2012, and *tons* of individual tracks didn't make it onto this list. Maybe I'll leave them in the comment section.
 
 1.  Yeasayer - All Hours Cymbals

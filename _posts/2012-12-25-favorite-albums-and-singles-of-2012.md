@@ -6,8 +6,6 @@ permalink: /2012/12/favorite-albums-and-singles-of-2012/
 categories:
   - Uncategorized
 ---
-# 
-
 I wasn't going to post a list this year because I didn't put too much effort into staying up-to-date with the scene. This is despite falling in love with nearly everything I heard from 2012. In fact, there were very few albums I heard that I didn't like. Perhaps that's why I somewhat stalled out around September. Anyway, enough babble, here's my top 30 albums. After the first 10 or so the order becomes somewhat ambiguous in my mind.
 
 1. Purity Ring - Shrines  

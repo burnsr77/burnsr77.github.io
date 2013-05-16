@@ -6,8 +6,6 @@ permalink: /2012/04/short-position-statement-on-gender-and-the-geoweb/
 categories:
   - Uncategorized
 ---
-# 
-
 Note: although this post sounds like it's scolding people, i intend it more as a provocation.
 
 I've participated in a few conversations recently about "gender and the geoweb". Since these conversations took place either on social media (FB & Twitter) or over pitchers of beer, I haven't quite managed to make a full-on argument about 1) what I think this phrase means, 2) why it's important to consider, 3) how I think gender can be a useful analytic through which to explore the geoweb, and 4) how an emphasis on gender can move us beyond pure description within geoweb studies. Here I want to briefly flesh out these ideas.

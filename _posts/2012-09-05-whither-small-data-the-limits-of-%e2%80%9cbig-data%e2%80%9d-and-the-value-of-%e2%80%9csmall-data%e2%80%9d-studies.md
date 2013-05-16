@@ -6,11 +6,7 @@ permalink: /2012/09/whither-small-data/
 categories:
   - Uncategorized
 ---
-# 
-
-A call for papers written by a colleague of mine and me. Thought some of the people interested in [my previous blog post][1] might like to attend/submit.
-
- [1]: http://burnsr77.github.io/2012/07/big-data-and-the-geoweb/
+A call for papers written by a colleague of mine and me. Thought some of the people interested in [my previous blog post](http://burnsr77.github.io/2012/07/big-data-and-the-geoweb/) might like to attend/submit.
 
 Whither Small Data?: The limits of "big data" and the value of "small data" studies  
 Call for Papers 

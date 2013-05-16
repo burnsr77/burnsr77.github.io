@@ -6,8 +6,6 @@ permalink: /2012/11/preparing-for-dissertation-writing/
 categories:
   - Uncategorized
 ---
-# 
-
 *Update below*  
 As you can see, I have installed a new theme plugin package for my personal site. Its aesthetics are terrible (ugh!), but I'll be tweaking it slightly over the next several weeks in order to make it more pleasant. The switch is coming at a time when I'm in the throes of my dissertation fieldwork and am beginning to think ahead toward the writing process. In case I'm speaking Greek to you, the process usually moves from taking classes -> conducting a research project -> writing about the project in your dissertation. My work with the Commons Lab at the Woodrow Wilson Center will double as my fieldwork, and when I return to the East Coast I'll begin the process of analysis and then, as I analyze, writing the dissertation. 
 

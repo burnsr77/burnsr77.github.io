@@ -6,8 +6,6 @@ permalink: /2012/01/new-years-resolutions/
 categories:
   - nonAcademic
 ---
-# 
-
 in true ryan burns style, i’ve come up with a few new year’s resolutions - almost 2 weeks into the new year.
 
 Ordered by importance:  
@@ -23,6 +21,4 @@ Ordered by importance:
 -   write crisis mapping paper
 
 6. watch all those movies i’ve been wanting to watch - with the time i now have to spare from working more efficiently  
-7. finish that reading list i made [a while back][1]
-
- [1]: http://burnsr77.github.io/2011/11/reading-list/
+7. finish that reading list i made [a while back](http://burnsr77.github.io/2011/11/reading-list/)

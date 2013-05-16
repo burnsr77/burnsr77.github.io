@@ -6,8 +6,6 @@ permalink: /2012/10/refused-last-minute-pointer/
 categories:
   - Uncategorized
 ---
-# 
-
 heard this song for the first time in a long time, and thought it apropos the election season. but it seems to me to be a song not about voting in the literal sense, but about how one’s daily interjections into everyday politics matter as a form of political self-expression. in other words, one votes in your everyday language, actions, advocacy, and silence.
 
   

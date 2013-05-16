@@ -6,8 +6,6 @@ permalink: /2011/08/making-progress/
 categories:
   - Uncategorized
 ---
-# 
-
 It's often hard to keep track of progress through a PhD program - well, for me, at least. Part of the challenge is because there are relatively few measures of such progress, and any kind of measures are unlikely to capture the true dynamics that are happening. For instance, I can list papers I've read, but that doesn't tell you how engaged I was while reading them, how much each paper stimulated me intellectually, or how much the papers contributed to my overall trek through the program. On the one hand this suggests that what's important is not always measurable (as many, many scholars have adamantly and rightly maintained), yet that doesn't help me when I'm trying to reassure myself that I'm doing “fine”. 
 
 There are a few major milestones of our program, much like any other program. For one, we are required to take 3 sets of exams: preliminary exams, general exams, and dissertation defense. We're also required to compose and defend a research proposal. Once you've published a major paper, you must certainly feel like you've made a major accomplishment as well. The thing about these milestones, though, is that they can be as much as a year apart, leaving 12 months of unsure stepping stones.

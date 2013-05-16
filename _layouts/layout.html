@@ -9,7 +9,7 @@
     {{ site.name }}
   </title>
 
-  <meta name="author" content="{{ site.name }}" />
+  <meta name="author" content="{{ author.name }}" />
   <meta name="description" content="{{ site.description }}" />
 
   <link rel="alternate" type="application/rss+xml" href="/atom.xml" />
@@ -50,23 +50,10 @@
   <div class="hero" style="background-image: url(/images/cropped-background1.jpg);"></div>
 
 
-  <section class="sidebar">
-    <a href="/">
-      <img src="{{ author.gravatar_url }}?s=150" height="75" width="75" class="avatar" />
-    </a>
 
-    <section class="name">
-      <a href="/">
-
-      </a>
-    </section>
-
-
-
-  </section>
-  <div class="content">
+  <section class="container content">
   {{ content }}
-  </div>
+  </section>
 </body>
 
 </html>

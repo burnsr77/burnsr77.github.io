@@ -6,8 +6,6 @@ permalink: /2012/07/big-data-and-the-geoweb/
 categories:
   - Uncategorized
 ---
-# 
-
 I'm taking a moment before 4th of July festivities to think about one of the ‘hottest' topics in geoweb studies right now - the ‘big data' movement. To be sure, the interest/fascination, institutional frameworks, and social technology capabilities have been aligning over the last few years (so it's not terribly new), and its impacts are *much *broader than the geoweb. However, in some ways geoweb scholars are just now beginning to engage with this concept, and the concept is now having strong implications in our studies.
 
 In case this term is new to you, "big data" (from here on I'll drop the quotation marks) is basically the name given to the incredibly high amounts of data generated through social networking technologies. Think: Twitter posts (tweets), FourSquare & Facebook check-ins, and many other digital spaces that are used to produce data. I'm not sure where the term comes from originally, but it made its first big splash in the social sciences when an editor of Wired [famously (infamously?) proclaimed][1] that big data is challenging the utility of the scientific method\[1\]. 

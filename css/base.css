@@ -124,7 +124,7 @@ blockquote {
 h1 {
   text-transform: uppercase;
   font-size: 26px;
-  margin: 40px -30px 30px -30px;
+  margin: 40px -30px -30px 0px;
   padding: 15px 30px 15px 23px;
   border-left: 7px solid #eee;
   font-weight: 400;
@@ -155,12 +155,12 @@ h1 {
 
 }
   .content i, .content em {
-    font-family: 'AvenirNextLTW01-Italic';
-    font-style: normal;
+    font-family:  'AvenirNextLTW01-Italic', Helvetica, sans-serif;
+    font-style: italic;
   }
   .content b, .content strong {
-    font-family: 'Avenir Next LT W01 Bold';
-    font-weight: normal;
+    font-family: 'Avenir Next LT W01 Bold', Helvetica, sans-serif;
+    font-weight: thick;
   }
   .content em b {
     font-family: 'AvenirNextLTW01-BoldIta';
@@ -170,12 +170,12 @@ h1 {
   .content p {
     font-size: 14px;
     line-height: 160%;
-    margin: 25px 0;
-    margin-left:200px;
-    margin-right:200px;
+    margin: 25px;
+    margin-right: 0;
+    margin-left: 20px;
   }
   .content img, .content video {
-    margin: 0 -60px;
+    margin: 0 0px;
     max-width: 770px;
     box-shadow: 0 0 10px #ccc;
     padding: 1px;
@@ -295,5 +295,3 @@ h1 {
   border: none;
   padding: 0;
 }
-
-ol

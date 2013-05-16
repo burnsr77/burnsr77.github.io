@@ -7,8 +7,6 @@ categories:
   - lifeUpdate
   - nonAcademic
 ---
-# 
-
 among the more quotable quotes from last night's new year festivities:
 
 me: looks like you're drinking apple cider!  

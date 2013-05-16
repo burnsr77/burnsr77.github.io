@@ -3,8 +3,6 @@ title: CV
 author: rlburns
 layout: layout
 ---
-# 
-
 --THIS PAGE UNDER CONSTRUCTION AS I MOVE FROM WORDPRESS TO JEKYLL. CONTACT ME FOR MOST RECENT CV--
 
 [Click here for the much neater, and up-to-date PDF version][1]
@@ -14,7 +12,7 @@ layout: layout
 See below for HTML version, with links (where available).
 
 go to:  
-\[education\]\[2\]  
+[education][2]  
 \[affiliations\]\[3\]  
 \[publications\]\[4\]  
 \[leadership\]\[5\]  
@@ -28,7 +26,7 @@ go to:
 \[work\]\[13\]  
 \[technology experience\]\[14\] 
 
- \[2\]: #education
+ [2]: #education
  \[3\]: #affiliations
  \[4\]: #pubs
  \[5\]: #leadership

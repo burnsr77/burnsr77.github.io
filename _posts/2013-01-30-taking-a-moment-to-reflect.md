@@ -8,8 +8,6 @@ wpsd_autopost:
 categories:
   - Uncategorized
 ---
-# 
-
 Every now and then I need to consciously and deliberately sit back and reflect on how far I've come in the last few years. Academic work, for all of its deep, beautiful rewards, can at times be excruciatingly unrewarding. Especially as graduate students, we can be very hard on ourselves, feeling like we're not moving anywhere, being displeased with our status, and facing an unknown (perhaps bleak?) future.
 
 So, I think it's extremely important to not fight our feelings of pride and to relish in our accomplishments. For me that takes deliberate effort, and that's what this blog post is meant for. It's also keeping in the spirit of using this space to update my friends and family on my status in the program, my achievements, and to take a moment to be optimistic. So, here are a few things I've done in the last couple months that I'm proud of:

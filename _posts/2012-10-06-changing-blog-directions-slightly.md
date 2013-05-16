@@ -9,8 +9,6 @@ categories:
   - publicScholarship
   - urban
 ---
-# 
-
 Two recent events got me re-thinking some of my work, and if I were much of a blogger I would probably separate these into two posts. But I'm not really, so I'll pack them into one.
 
 The first event was when I was turned down for dissertation research funding and decided with my adviser to drop urban geography from list of PhD topics. This was a huge bummer for me since I absolutely love the topic and think I can make significant contributions to it. But looking at the big picture of my dissertation I think I may have been taking on too much. Instead, my qualification exams (the ones where I moved from "doctoral student" to "doctoral candidate") covered urban geography and my adviser reassured me I can still consider myself an urban geographer on the job market. 

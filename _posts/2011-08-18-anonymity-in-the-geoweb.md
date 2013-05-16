@@ -6,15 +6,9 @@ permalink: /2011/08/anonymity-in-the-geoweb/
 categories:
   - Uncategorized
 ---
-# 
+danah boyd recently posted on her blog [an entry](http://socialmediacollective.org/2011/08/04/real-names-policies-are-an-abuse-of-power/) arguing that "real names" policies on social networking sites disproportionately affect marginalized populations adversely. The idea is that people - from any race, gender, class, background, etc. - have many reasons for wanting to maintain various degrees of anonymity (everything from pseudonyms to complete anon). Online communities in particular are already used to using "handles" for most of their communication; sometimes these are clearly and explicitly linked to offline identities, sometimes they are not. However, social groups using pseudonyms and needing greater anonymity are more likely to be women, minorities, and from lower classes. She concludes that due to the uneven effects of these policies, they are an abuse of power and should not be implemented or tolerated (to use stronger language than she uses).
 
-danah boyd recently posted on her blog [an entry][1] arguing that "real names" policies on social networking sites disproportionately affect marginalized populations adversely. The idea is that people - from any race, gender, class, background, etc. - have many reasons for wanting to maintain various degrees of anonymity (everything from pseudonyms to complete anon). Online communities in particular are already used to using "handles" for most of their communication; sometimes these are clearly and explicitly linked to offline identities, sometimes they are not. However, social groups using pseudonyms and needing greater anonymity are more likely to be women, minorities, and from lower classes. She concludes that due to the uneven effects of these policies, they are an abuse of power and should not be implemented or tolerated (to use stronger language than she uses).
-
- [1]: http://socialmediacollective.org/2011/08/04/real-names-policies-are-an-abuse-of-power/
-
-Taking a step back, this is an issue on one level of anonymity in online social spaces. On another level (and one that [others have rightly noted][2]), it’s about having the same social flexibility as people have in the "real" world: we all show different sides of ourselves depending on what we deem the right social contexts (e.g., I talk much differently at a bar than in my seminars - I hope!!). 
-
- [2]: http://socialmediacollective.org/2011/08/08/real-name-sites-are-necessarily-inadequate-for-free-speech/
+Taking a step back, this is an issue on one level of anonymity in online social spaces. On another level (and one that [others have rightly noted](http://socialmediacollective.org/2011/08/08/real-name-sites-are-necessarily-inadequate-for-free-speech/)), it’s about having the same social flexibility as people have in the "real" world: we all show different sides of ourselves depending on what we deem the right social contexts (e.g., I talk much differently at a bar than in my seminars - I hope!!). 
 
 What does all this mean for me, a geographer interested in geoweb and society linkages? A group of geoweb-ers that has a weekly twitter session recently took up this issue, although due to technical limitations (fitting nuanced thought-out arguments in 140 characters is really quite difficult), I felt we never got to the meat of the issue.
 
