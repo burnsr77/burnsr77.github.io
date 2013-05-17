@@ -12,12 +12,14 @@ pygments: true
 #
 title : ryan burns - university of washington
 tagline: digressions on technology and society
+description : ryan burns is a doctoral candidate at university of washington studying technology, society, crisis mapping, digital humanitarianism, poverty, and inequality
 author :
   name : ryan burns
   email : burnsr77@gmail.com
   github : burnsr77
   twitter : burnsr77
-  gravatar_url: http://www.gravatar.com/avatar/88ca2927dab21eacddc9fba3c3341f29.png
+  gravatar_url : http://www.gravatar.com/avatar/88ca2927dab21eacddc9fba3c3341f29.png
+
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt

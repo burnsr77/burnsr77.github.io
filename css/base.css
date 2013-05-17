@@ -92,7 +92,7 @@ blockquote {
   }
 
   .social {
-    margin: -37px 0 0 0;
+    margin: -97px 0 0 0;
     padding: 0;
     padding-top: 2px;
     float: right;
@@ -167,7 +167,7 @@ h1 {
     font-weight: normal;
     font-style: normal;
   }
-  .content p {
+  .content p, .content li {
     font-size: 14px;
     line-height: 160%;
     margin: 25px;
@@ -268,12 +268,12 @@ h1 {
     }
 
 .listing {
-  margin: 25px 0;
+  margin: 20px 0;
   padding: 0;
 }
   .listing li {
     list-style-type: none;
-    padding: 7px 5px;
+    padding: -10px 5px;
     font-size: 18px;
     border-bottom: 1px solid #eee;
   }
