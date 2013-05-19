@@ -12,7 +12,11 @@
   <meta name="author" content="{{ site.author.name }}" />
   <meta name="description" content="{{ site.description }}" />
 
-  <link rel="image_src" href="/images/webSS.png" />
+    {% if page.title == "ryan burns - university of washington" %}
+        <link rel="image_src" href="/images/webSS.png" />
+    {% else %}
+        <link rel="image_src" href="../images/webSS.png" />
+    {% endif %}
 
   <link rel="alternate" type="application/rss+xml" href="/atom.xml" />
 
