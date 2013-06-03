@@ -3,48 +3,33 @@ title: CV
 author: rlburns
 layout: layout
 ---
---THIS PAGE UNDER CONSTRUCTION AS I MOVE FROM WORDPRESS TO JEKYLL. CONTACT ME FOR MOST RECENT CV--
 
-[Click here for the much neater, and up-to-date PDF version][1]
-
-[1]: /assets/uploads/Burns_CV.pdf
+[Click here for the much neater, and up-to-date PDF version](/assets/uploads/Burns_CV.pdf)
 
 See below for HTML version, with links (where available).
 
 go to:  
-[education][2]  
-\[affiliations\]\[3\]  
-\[publications\]\[4\]  
-\[leadership\]\[5\]  
-\[awards\]\[6\]  
-\[teaching\]\[7\]  
-\[research\]\[8\]  
-\[presentations\]\[9\]  
-\[press coverage\]\[10\]  
-\[memberships\]\[11\]  
-\[peer reviews\]\[12\]  
-\[work\]\[13\]  
-\[technology experience\]\[14\] 
+[education](#education)  
+[affiliations](#affiliations)  
+[publications](#pubs)
+[leadership](#leadership) 
+[awards](#awards) 
+[teaching](#teaching)  
+[research](#research) 
+[presentations](#presentations)
+[press coverage](#press)  
+[memberships](#memberships) 
+[peer reviews](#peerReview)
+[work](#work)
+[technology experience](#tech) 
 
- [2]: #education
- \[3\]: #affiliations
- \[4\]: #pubs
- \[5\]: #leadership
- \[6\]: #awards
- \[7\]: #teaching
- \[8\]: #research
- \[9\]: #presentations
- \[10\]: #press
- \[11\]: #memberships
- \[12\]: #peerReview
- \[13\]: #work
- \[14\]: #tech
+
 
 ## Education
 
 2009-present Ph.D. Geography  
 University of Washington  
-Committee: Sarah Elwood, Mark Ellis, Victoria Lawson, Jin-Kyu Jung (GSR)
+Committee: Sarah Elwood, Mark Ellis, Victoria Lawson, Jin-Kyu Jung (Graduate Student Representative)
 
 2009 M.S. Geographic Information Science  
 San Diego State University  
@@ -78,26 +63,22 @@ Articles
 
 2012 Burns, Ryan, A. Skupin. Towards Qualitative Geovisual Analytics: A Case Study Involving Places, People, and Mediated Experience. Cartographica. Submitted. 
 
-2012 Burns, Ryan. \[Connecting Grassroots to Government for Disaster Management\]\[15\]. Woodrow Wilson International Center for Scholars. http://bit.ly/OC4kmD (last accessed 9/18/2012).
+2012 Burns, Ryan. [Connecting Grassroots to Government for Disaster Management](../wordpress/wp-content/uploads/2012/11/Workshop_BackgroundReading.pdf). Woodrow Wilson International Center for Scholars. http://bit.ly/OC4kmD (last accessed 9/18/2012).
 
- \[15\]: ../wordpress/wp-content/uploads/2012/11/Workshop_BackgroundReading.pdf
+2012 Burns, Ryan, D. Meek. "The Politics of Knowledge Production in the Geoweb". Special Issue of ACME: An International E-Journal for Critical Geographies. Accepted. 
 
-2012 Burns, Ryan, D. Meek. “The Politics of Knowledge Production in the Geoweb”. Special Issue of ACME: An International E-Journal for Critical Geographies. Accepted. 
+2009 Burns, Ryan, A. Skupin. [Mapping Places, People, and Utterances to Visualize the Experience of Place\](../wordpress/wp-content/uploads/2012/11/burns-skupin-visualization-of-attribute-spaces-involving-places-people-and-utterances.pdf). In Proceedings of the 24th International Cartographic Conference, Santiago, Chile (CD-ROM). Click [here](http://ns1.icaci.org/files/documents/ICC_proceedings/ICC2009/html/nonref/20_9.pdf) for another link.
 
-2009 Burns, Ryan, A. Skupin. \[Mapping Places, People, and Utterances to Visualize the Experience of Place\]\[16\]. In Proceedings of the 24th International Cartographic Conference, Santiago, Chile (CD-ROM). Click \[here\]\[17\] for another link.
-
- \[16\]: ../wordpress/wp-content/uploads/2012/11/burns-skupin-visualization-of-attribute-spaces-involving-places-people-and-utterances.pdf
- \[17\]: http://ns1.icaci.org/files/documents/ICC_proceedings/ICC2009/html/nonref/20_9.pdf
 
 Maps
 
 Drafting \[Collection of 3 maps about Andra Pradesh, India\] In P. Ramamurthy, Untitled
 
-2011 Collection of 5 maps/screenshots from the Mapping Youth Journeys project website. In K. Mitchell, S. Elwood, “Engaging Students through Mapping Local History,” Journal of Geography. In press.
+2011 Collection of 5 maps/screenshots from the Mapping Youth Journeys project website. In K. Mitchell, S. Elwood, "Engaging Students through Mapping Local History," Journal of Geography. In press.
 
-2010 \[Collection of 6 maps about poverty in the Pacific Northwest\] In V. Lawson, L. Jarosz and A. Bonds, “Dumping Grounds and Unseen Grounds: Placing Race, Ethnicity and Poverty in the American Northwest,” Annals of the Association of American Geographers 100(3): 655-677.
+2010 \[Collection of 6 maps about poverty in the Pacific Northwest\] In V. Lawson, L. Jarosz and A. Bonds, "Dumping Grounds and Unseen Grounds: Placing Race, Ethnicity and Poverty in the American Northwest," Annals of the Association of American Geographers 100(3): 655-677.
 
-2007 Map of Ecuador, Including the Extension of Páramo Grasslands and the Location of the Aglomerados, S.A. (ACOSA) Plantation. In K. Farley, “Grasslands to Tree Plantations: Forest Transition in the Andes of Ecuador,” Annals of the Association of American Geographers 97(4): 760.
+2007 Map of Ecuador, Including the Extension of Páramo Grasslands and the Location of the Aglomerados, S.A. (ACOSA) Plantation. In K. Farley, "Grasslands to Tree Plantations: Forest Transition in the Andes of Ecuador," Annals of the Association of American Geographers 97(4): 760.
 
 ## Leadership Positions Held
 
@@ -105,7 +86,7 @@ Drafting \[Collection of 3 maps about Andra Pradesh, India\] In P. Ramamurthy, U
 
 2008-2012 Webmaster and leadership collective, Socialist & Critical Geography Specialty Group of the AAG
 
-2011-2012 Primary Project Liaison, “Making the University Public” Graduate Interest Group
+2011-2012 Primary Project Liaison, "Making the University Public" Graduate Interest Group
 
 2011-2012 Graduate Policy Committee Representative, Department of Geography, UW
 
@@ -152,14 +133,14 @@ Drafting \[Collection of 3 maps about Andra Pradesh, India\] In P. Ramamurthy, U
 ## Teaching Experience
 
 Full Courses  
-2012 GEOG 461: “Urban GIS”
+2012 GEOG 461: "Urban GIS"
 
 Invited Lectures  
-2012 Guest lecture in GEOG 469/569: “GIS Workshop”
+2012 Guest lecture in GEOG 469/569: "GIS Workshop"
 
-2012 Guest lecture in GEOG 461/561: “Urban GIS”
+2012 Guest lecture in GEOG 461/561: "Urban GIS"
 
-2010 “Participatory Mapping” Imagining America Site Visit
+2010 "Participatory Mapping" Imagining America Site Visit
 
 ## Academic Research and GIS Experience
 
@@ -184,62 +165,58 @@ Invited Lectures
 ## Professional Presentations
 
 Organized panels  
-2013 “Whither Small Data?: The Limits of “Big Data” and the Value of “Small Data” Studies. Annual meeting of the AAG. Los Angeles, CA.
+2013 "Whither Small Data?: The Limits of "Big Data" and the Value of "Small Data" Studies. Annual meeting of the AAG. Los Angeles, CA.
 
-2013 “Critical Interventions into Gender & the Geoweb”. Organizer with Monica Stephens. Annual meeting of the AAG. Los Angeles, CA.
+2013 "Critical Interventions into Gender & the Geoweb". Organizer with Monica Stephens. Annual meeting of the AAG. Los Angeles, CA.
 
-2012 “Connecting Grassroots to Government for Disaster Management: A Policy Roundtable”. Organizer with Lea Shanley, John Crowley, and Alyson Lyons. Washington, DC.
+2012 "Connecting Grassroots to Government for Disaster Management: A Policy Roundtable". Organizer with Lea Shanley, John Crowley, and Alyson Lyons. Washington, DC.
 
-2011-2012 Series of 6 panels and roundtables on “Making the University Public”, a Graduate Interest Group through the Simpson Center for the Humanities, UW. Seattle, WA.
+2011-2012 Series of 6 panels and roundtables on "Making the University Public", a Graduate Interest Group through the Simpson Center for the Humanities, UW. Seattle, WA.
 
-2011 “Critical Perspectives on Software & Space”. Organizer with Joe Eckert. Annual meeting of the AAG. Seattle, WA.
+2011 "Critical Perspectives on Software & Space". Organizer with Joe Eckert. Annual meeting of the AAG. Seattle, WA.
 
 Presentations  
-2012 “Digital Public Scholarship: Mapping Youth Journeys”. College of Arts & Sciences Dean’s Showcase. HuskyFest 2012. Seattle, WA.
+2012 "Digital Public Scholarship: Mapping Youth Journeys". College of Arts & Sciences Dean’s Showcase. HuskyFest 2012. Seattle, WA.
 
-2012 “Beyond Inclusion and Empowerment: Inequality in the Geoweb”. Annual meeting of the AAG. New York, NY.
+2012 "Beyond Inclusion and Empowerment: Inequality in the Geoweb". Annual meeting of the AAG. New York, NY.
 
-2011 “Software-sorted Geographies of the Urban Global South”. Annual meeting of the AAG. Seattle WA.
+2011 "Software-sorted Geographies of the Urban Global South". Annual meeting of the AAG. Seattle WA.
 
-2010 Mitchell, K. & R. Burns \[equal contribution\] “Mapping Engagement: Using Basic Geovisualization Technologies to Help Children Become Better Geographers and Better Citizens”. Plenary session, Fall meeting of the Association of Washington Geographers.
+2010 Mitchell, K. & R. Burns \[equal contribution\] "Mapping Engagement: Using Basic Geovisualization Technologies to Help Children Become Better Geographers and Better Citizens". Plenary session, Fall meeting of the Association of Washington Geographers.
 
-2010 “’Exploring Geovisualization’: Reflections, Ideas, and Questions”. Expected presentation at the Annual meeting of the AAG. Washington, D.C.
+2010 "’Exploring Geovisualization’: Reflections, Ideas, and Questions". Expected presentation at the Annual meeting of the AAG. Washington, D.C.
 
-2009 “Visualization of Attribute Spaces Involving Places, People and Utterances”. International Cartographic Conference. Santiago, Chile.
+2009 "Visualization of Attribute Spaces Involving Places, People and Utterances". International Cartographic Conference. Santiago, Chile.
 
-2009 “Spatializing Places, People, and Utterances- A Case Study Involving San Diego Neighborhoods”. Annual meeting of the AAG. Las Vegas, NV.
+2009 "Spatializing Places, People, and Utterances- A Case Study Involving San Diego Neighborhoods". Annual meeting of the AAG. Las Vegas, NV.
 
-2008 “Spatializing Places, People, and Utterances: A Case Study Involving San Diego Neighborhoods”. Invited presentation in a Linguistics Research class. San Diego, CA.
+2008 "Spatializing Places, People, and Utterances: A Case Study Involving San Diego Neighborhoods". Invited presentation in a Linguistics Research class. San Diego, CA.
 
-2008 “Landscapes of Participatory Dialogue: Participation and Geovisualization in AgoraXchange”. Annual Meeting of the AAG. Boston, MA.
+2008 "Landscapes of Participatory Dialogue: Participation and Geovisualization in AgoraXchange". Annual Meeting of the AAG. Boston, MA.
 
-2008 “Visualizing Linguistic Variation within University Classroom Discourse”. Annual Meeting of the AAG. Boston, MA.
+2008 "Visualizing Linguistic Variation within University Classroom Discourse". Annual Meeting of the AAG. Boston, MA.
 
-2007 “…things seen are temporary, things seen are eternal.”. Association of Pacific Coast Geograpers. Long Beach, CA. Co-presenters: Christopher Moreno, Sean Crotty, Steven Jareb, Mike Beland, Jenny Duncan, Karen Stahl.
+2007 "…things seen are temporary, things seen are eternal.". Association of Pacific Coast Geograpers. Long Beach, CA. Co-presenters: Christopher Moreno, Sean Crotty, Steven Jareb, Mike Beland, Jenny Duncan, Karen Stahl.
 
-2006 “The Importance of GIS to Geography”. Presentation given to the Department of Geography at Eastern Kentucky University faculty.
+2006 "The Importance of GIS to Geography". Presentation given to the Department of Geography at Eastern Kentucky University faculty.
 
-2006 “Globalization and the Cultural Significance of Bookstores in Viet Nam”. Undergraduate Presentation Showcase, Eastern Kentucky University. Poster presentation.
+2006 "Globalization and the Cultural Significance of Bookstores in Viet Nam". Undergraduate Presentation Showcase, Eastern Kentucky University. Poster presentation.
 
-2006 “What is Geography?” Presentation given to high school students at Model Laboratory School, Richmond, KY. Co-presented with Jeffrey Minor.
+2006 "What is Geography?" Presentation given to high school students at Model Laboratory School, Richmond, KY. Co-presented with Jeffrey Minor.
 
-2005 “Globalization and the Cultural Significance of Bookstores in Viet Nam”. Senior thesis presentation, Eastern Kentucky University.
+2005 "Globalization and the Cultural Significance of Bookstores in Viet Nam". Senior thesis presentation, Eastern Kentucky University.
 
-2005 “Is Small-town Kentucky Ready to Grow? Community Readiness for Growth and Development Along the I-75 Corridor.” Posters-at-the-Capitol, Frankfort, KY. Poster presentation. Co-presented with Ricardo Hernandez.
+2005 "Is Small-town Kentucky Ready to Grow? Community Readiness for Growth and Development Along the I-75 Corridor." Posters-at-the-Capitol, Frankfort, KY. Poster presentation. Co-presented with Ricardo Hernandez.
 
-2005 “How Effective Are Deforestation Mitigation Strategies? Case Studies in Three Rainforests”. Posters-at-the-Capitol, Frankfort, KY. Poster presentaion. Co-presenters: Ricardo Hernandez, Jeffrey Minor, and Shane Smith.
+2005 "How Effective Are Deforestation Mitigation Strategies? Case Studies in Three Rainforests". Posters-at-the-Capitol, Frankfort, KY. Poster presentaion. Co-presenters: Ricardo Hernandez, Jeffrey Minor, and Shane Smith.
 
 ## Mentions in Press
 
-2012 \[“Doctoral Student Ryan Burns Selected to Present on Digital Scholarship at UW HuskyFest 2012”\]\[18\]. Simpson Center for the Humanities Center News.  
-2012 \[“UW Leads in Connecting Scholarship with Community”\]\[19\]. UW Today.  
-2011 \[“Certificate in Public Scholarship Fellows Represent UW at Imagining America Conference”\]\[20\]. Simpson Center for the Humanities Center News.  
-2005 \[“Researchers Hope to Map, Identify Graves in Abandoned Cemetery”\]\[21\]. Diverse Issues in Higher Education.
+2012 ["Doctoral Student Ryan Burns Selected to Present on Digital Scholarship at UW HuskyFest 2012"](http://bit.ly/HUCIQS). Simpson Center for the Humanities Center News.  
+2012 ["UW Leads in Connecting Scholarship with Community"](http://bit.ly/yQ77sX). UW Today.  
+2011 ["Certificate in Public Scholarship Fellows Represent UW at Imagining America Conference"](http://bit.ly/IgG6bl). Simpson Center for the Humanities Center News.  
+2005 ["Researchers Hope to Map, Identify Graves in Abandoned Cemetery"](http://bit.ly/Jx7d2h). Diverse Issues in Higher Education.
 
- \[18\]: http://bit.ly/HUCIQS
- \[19\]: http://bit.ly/yQ77sX.
- \[20\]: http://bit.ly/IgG6bl
- \[21\]: http://bit.ly/Jx7d2h
 
 ## Honorary and Professional Memberships Held
 
@@ -274,30 +251,28 @@ International Journal of Applied Geospatial Research
 
 ## Non-Academic Work Experience
 
-• GIS Specialist (August 2008-July 2009)  
+- GIS Specialist (August 2008-July 2009)  
 Helix Environmental Planning, Inc.; Justin Palmer (619)462-1515  
 Summary of Duties: Creating high-quality environmental, engineering, and governmental maps for a variety of clients. Providing spatial analysis related to transportation planning, construction engineering, sensitive/endangered species protection, wetland mitigation, and environmental monitoring. Utilizing advanced editing techniques, complex cartographic principles, and various software programs. CEQA & NEPA report generation.
 
-• GIS Analyst/Cartographer (July 2007-August 2007)  
+- GIS Analyst/Cartographer (July 2007-August 2007)  
 Baja Directions; Chris Reed (858)793-9295
 
 Summary of Duties: Creating, maintaining, and updating bathymetric and recreational maps; creating and maintaining large geographic databases; handling large raster and vector datasets. Temporary position.
 
-• GIS Analyst (July 2006-January 2007)  
+- GIS Analyst (July 2006-January 2007)  
 IGIS Technologies, Inc.; Andres Abeyta (619)640-2330  
 Summary of Duties: Project manager for BIA in Alaska, editing, attributing, and digitizing land parcels from development plats; textbook editing; writing chapters of a new textbook on ArcMap 9.2. Textbook writing and editing required exhaustive knowledge of geodatabases, ArcCatalog, ArcToolbox, and ModelBuilder, as well as excellent writing and communication skills.
 
-• GIS Intern (February 2006-June 2006)
+- GIS Intern (February 2006-June 2006)
 
 City of Berea, KY; Paul Schrader (859)302-2449  
 Summary of duties: Update city maps; GPS gathering of new data; analysis of land use data through AutoCAD, GeoSync (local GIS software), and Excel; other GIS work using AutoCAD Map and other GeoSync/GIS software.
 
-• Customer Service Representative (July 2005-June 2006)  
+- Customer Service Representative (July 2005-June 2006)  
 Concord Custom Cleaners; Mike Webster (859)269-9412  
 Summary of duties: Prepare clothing for cleaning, manage inventory maintenance, customer service representation, and general store maintenance.
 
 ## Technological Proficiency (messy)
 
-\[!\[\]\[23\]\]\[23\]
-
- \[\]: http://students.washington.edu/rlburns/wordpress/wp-content/uploads/2013/04/Digital-technology-proficiency.png
+<img src="/assets/uploads/" />

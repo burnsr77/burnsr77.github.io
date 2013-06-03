@@ -12,16 +12,16 @@ categories:
 *Updates below*
 
 to read in 2012:  
-*One Hundred Years of Solitude*, Gabriel García Márquez  
-*To Kill a Mockingbird*, Harper Lee  
-*Catch-22*, Joseph Heller  
-*Breakfast of Champions*, Kurt Vonnegut  
+<strike>*One Hundred Years of Solitude*, Gabriel García Márquez </strike> 
+<strike>*To Kill a Mockingbird*, Harper Lee  </strike>
+<strike>*Catch-22*, Joseph Heller  </strike>
+<strike>*Breakfast of Champions*, Kurt Vonnegut  </strike>
 *Pride and Prejudice*, Jane Austen  
-*The Turn of the Screw*, Henry James  
-*Brave New World*, Aldous Huxley  
+<strike>*The Turn of the Screw*, Henry James  </strike>
+<strike>*Brave New World*, Aldous Huxley  </strike>
 *Ulysses*, James Joyce (i'm already halfway through this)  
 *Neuromancer*, William Gibson  
-something by HP Lovecraft
+<strike>something by HP Lovecraft</strike>
 
 i'm a little embarrassed to admit i've never read these. this will be the year.  
 12/22/12 UPDATE: I decided on One Hundred Years of Solitude indtead of Love in the Time of Cholera.  
