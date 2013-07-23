@@ -1,5 +1,5 @@
 ---
-title: 'Whither Small Data?: The limits of "big data" and the value of "small data" studies'
+title: Whither Small Data'
 author: rlburns
 layout: post
 permalink: /2012/09/whither-small-data/

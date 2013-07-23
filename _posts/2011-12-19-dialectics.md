@@ -10,7 +10,7 @@ categories:
   - STS
   - technology
 ---
-# 
+ 
 I'm simultaneously fascinated and extremely challenged by dialectical thinking. For those of you unfamiliar, dialectics is, in a nutshell, the idea that two or more processes confront each other and present contradictions; these contradictions must be resolved, but may internalize those contradictions. An example from Marx's (1977) *Capital* is the idea that since capitalists continually accumulate capital at the top to the detriment of the workers, a contradiction arises because it constantly depends on lower-waged workers but this tendency would effectively wipe out the working class (health, sustenance, etc.). Its requirements are its downfall, in a rudimentary sense. This and other contradictions are resolved through the state (workers' protection rights, minimum-wage laws, etc.), through crises (market crashes, recessions, etc.), through labor movements (8-hour working day, age and sex protection, etc.), and through currency valuations (a classic "internalization" mechanism, if I understand Marx and David Harvey (1982) correctly).
 
 This way of thinking is new to me, and I'm still struggling to fully "internalize" it (ha, look at my funny pun). But I find it incredibly useful for my own research interests, namely the potentially dialectic relationship between technology and society. My thoughts here revolve around the ways society is reflected in technology and vice versa.

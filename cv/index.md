@@ -11,17 +11,17 @@ See below for HTML version, with links (where available).
 go to:  
 [education](#education)  
 [affiliations](#affiliations)  
-[publications](#pubs)
+[publications](#pubs)  
 [leadership](#leadership) 
 [awards](#awards) 
 [teaching](#teaching)  
 [research](#research) 
-[presentations](#presentations)
+[presentations](#presentations)  
 [press coverage](#press)  
-[memberships](#memberships) 
-[peer reviews](#peerReview)
-[work](#work)
-[technology experience](#tech) 
+[memberships](#memberships)  
+[peer reviews](#peerReview)  
+[work](#work)  
+[technology experience](#tech)  
 
 
 
@@ -63,11 +63,11 @@ Articles
 
 2012 Burns, Ryan, A. Skupin. Towards Qualitative Geovisual Analytics: A Case Study Involving Places, People, and Mediated Experience. Cartographica. Submitted. 
 
-2012 Burns, Ryan. [Connecting Grassroots to Government for Disaster Management](../wordpress/wp-content/uploads/2012/11/Workshop_BackgroundReading.pdf). Woodrow Wilson International Center for Scholars. http://bit.ly/OC4kmD (last accessed 9/18/2012).
+2012 Burns, Ryan. [Connecting Grassroots to Government for Disaster Management](/assets/uploads/Workshop_BackgroundReading.pdf). Woodrow Wilson International Center for Scholars. http://bit.ly/OC4kmD (last accessed 9/18/2012).
 
 2012 Burns, Ryan, D. Meek. "The Politics of Knowledge Production in the Geoweb". Special Issue of ACME: An International E-Journal for Critical Geographies. Accepted. 
 
-2009 Burns, Ryan, A. Skupin. [Mapping Places, People, and Utterances to Visualize the Experience of Place\](../wordpress/wp-content/uploads/2012/11/burns-skupin-visualization-of-attribute-spaces-involving-places-people-and-utterances.pdf). In Proceedings of the 24th International Cartographic Conference, Santiago, Chile (CD-ROM). Click [here](http://ns1.icaci.org/files/documents/ICC_proceedings/ICC2009/html/nonref/20_9.pdf) for another link.
+2009 Burns, Ryan, A. Skupin. [Mapping Places, People, and Utterances to Visualize the Experience of Place](/assets/uploads/burns_skupin-visualization_of_attribute_spaces_involving_places_people_and_utterances.pdf). In Proceedings of the 24th International Cartographic Conference, Santiago, Chile (CD-ROM). Click [here](http://ns1.icaci.org/files/documents/ICC_proceedings/ICC2009/html/nonref/20_9.pdf) for another link.
 
 
 Maps
@@ -275,4 +275,4 @@ Summary of duties: Prepare clothing for cleaning, manage inventory maintenance, 
 
 ## Technological Proficiency (messy)
 
-<img src="/assets/uploads/" />
+<img src="/assets/uploads/Digital-technology-proficiency.png" />

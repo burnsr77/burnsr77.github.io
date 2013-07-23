@@ -6,7 +6,6 @@ permalink: /2010/09/critical-realism/
 categories:
   - Uncategorized
 ---
-# 
 
 This week I gave in and finally started reading some material on critical realism (CR). Specifically, I read an interview with Roy Bhaskar, an article by Sayer (2004), and the intro to A Realist Theory of Science (Bhaskar 2008). I am reading CR for a number of reasons. First, a philosopher of science on campus told me back in June that one significant hurdle I’ll have to jump with regard to my dissertation is a critique from speculative realism, particularly object-oriented ontology. Since it seems one must first have a reasonable grasp of CR to understand the other two, I decided to take a look at CR in order to move on to the speculative variety of realism. Second, CR does seem to be gaining popularity (still, even though ARToS was originally written in ‘75), and a working knowledge of it would seem to be helpful for someone who claims an interest in social studies of science.
 

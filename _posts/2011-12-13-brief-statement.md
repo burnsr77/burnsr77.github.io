@@ -9,7 +9,6 @@ categories:
   - nonAcademic
   - publicScholarship
 ---
-# 
 
 I was asked a question today that I'd been cogitating already. The question was, paraphrased, "how will the West Coast Port Shutdown help workers if the port is shut down?" After all, since truck drivers are classified as "independent contractors", they really took a hit today. While I've been encouraged that criticisms of the WCPS generally revolve around a concern for the working class, I fear this criticism was leveled in order to co-opt workers for a broader agenda against collective activism. Still, that workers are getting sympathy from the media is a huge step!
 

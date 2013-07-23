@@ -6,7 +6,6 @@ permalink: /2010/09/dusting-off-the-blog/
 categories:
   - Uncategorized
 ---
-# 
 
 The new school year is taking off for me next week, and that means I will begin blogging again. During the summer I have fewer things to say, apparently, since I'm not bombarded with new ideas every day.
 

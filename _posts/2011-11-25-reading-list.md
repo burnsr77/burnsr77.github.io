@@ -7,17 +7,16 @@ categories:
   - lifeUpdate
   - nonAcademic
 ---
-# 
 
 *Updates below*
 
 to read in 2012:  
-<strike>*One Hundred Years of Solitude*, Gabriel García Márquez </strike> 
+<strike>*One Hundred Years of Solitude*, Gabriel Garcia Marquez </strike> 
 <strike>*To Kill a Mockingbird*, Harper Lee  </strike>
 <strike>*Catch-22*, Joseph Heller  </strike>
 <strike>*Breakfast of Champions*, Kurt Vonnegut  </strike>
 *Pride and Prejudice*, Jane Austen  
-<strike>*The Turn of the Screw*, Henry James  </strike>
+<strike>*The </strike><strike>Turn of the Screw*, Henry James  </strike>
 <strike>*Brave New World*, Aldous Huxley  </strike>
 *Ulysses*, James Joyce (i'm already halfway through this)  
 *Neuromancer*, William Gibson  
