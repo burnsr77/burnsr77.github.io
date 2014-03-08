@@ -10,32 +10,21 @@ See below for HTML version, with links \(where available\).
 
 go to:  
 [education](#education)
-
 [affiliations](#affiliations)
-
 [awards](#awards)   
-
 [publications](#pubs)  
-
 [presentations](#presentations)
-
 [research](#addResearch)   
-
 [teaching](#teaching)   
-
 [peer reviews](#review)  
-
 [memberships](#addProf)  
-
 [press coverage](#press) 
-
 [work](#work)
-
 [technology experience](#tech)  
 
 
-
-## Education <a name="education"></a>
+<a name="education"> </a>
+## Education 
 
 2009-present Ph.D. Geography  
 University of Washington  
@@ -61,7 +50,8 @@ Eastern Kentucky University
 Adviser: David Zurick
 
 
-## Affiliations <a name="affiliations"></a>
+<a name="affiliations"> </a>
+## Affiliations
 
 HASTAC Scholar, Humanities, Arts, Science, and Technology Alliance and Collaboratory \(HASTAC\)
 
@@ -74,7 +64,8 @@ Member, Gamma Theta Upsilon \(international geographic honorary society\)
 Member, Association of American Geographers \(AAG\)
 
 
-## Grants, Fellowships, and Awards <a name="awards"></a>
+<a name="awards"> </a>
+## Grants, Fellowships, and Awards
 
 2013 United Nations Office for the Coordination of Humanitarian Affairs: "Humanitarian Research and Innovation Grant" \($4000\)
 
@@ -107,7 +98,8 @@ Member, Association of American Geographers \(AAG\)
 2005 School for International Training - "Culture, Language, and Development in Vietnam" research scholarship \($5,000\) 
 
 
-## Publications <a name="pubs"></a>
+<a name="pubs"> </a>
+## Publications
 
 *Peer-reviewed Articles *
 2014 Burns, Ryan. [Moments of Closure in the Knowledge Politics of Digital Humanitarianism](/assets/uploads/burns_moments_of_closure.pdf). *Geoforum* 53 \(2\): 51-62.
@@ -140,7 +132,8 @@ Member, Association of American Geographers \(AAG\)
 2007	Map of Ecuador, Including the Extension of Páramo Grasslands and the Location of the Aglomerados, S.A. \(ACOSA\) Plantation. In K. Farley, "Grasslands to Tree Plantations: Forest Transition in the Andes of Ecuador," Annals of the Association of American Geographers 97\(4\): 760.
 
 
-## Conference Presentations <a name="presentations"></a>
+<a name="presentations"> </a>
+## Conference Presentations
 
 *Papers presented*
 
@@ -195,7 +188,8 @@ Member, Association of American Geographers \(AAG\)
 2013	"Crowdsourcing Crisis in the GeoWeb: A Critical Look." Annual meeting of the AAG. Los Angeles, CA. Organized by Barbara Poore and Sophia Liu. Presenters: Katrina Petersen \(Communication, University of California - Santa Barbara\), Andrés Monroy-Hernández \(Microsoft Research\), Megan Finn \(Microsoft Research\), Cameran Ashraf \(University of California - Los Angeles\).
 
 
-## Additional Research and GIS Experience <a name="addResearch"></a>
+<a name="addResearch"> </a>
+## Additional Research and GIS Experience
 
 2009-2012 Research Assistant: Dr. Sarah Elwood, Mapping Youth Journeys
 
@@ -220,7 +214,8 @@ Member, Association of American Geographers \(AAG\)
 2005 Senior thesis, expanding on the independent study, but focusing on how cultural globalization is affecting the influence of bookstores in Viet Nam. Presented at EKU in December, 2005.
 
 
-## Teaching Experience <a name="teaching"></a>
+<a name="teaching"> </a>
+## Teaching Experience
 
 *Full Courses*
 
@@ -245,7 +240,8 @@ Member, Association of American Geographers \(AAG\)
 2007-2008 SDSU Geography Teaching Assistant: Introduction to GIS \(twice\), Map Investigation, and Animated Cartographic Design
 
 
-## Peer Reviews Provided <a name="review"></a>
+<a name="review"> </a>
+## Peer Reviews Provided
 
 	GeoJournal
 
@@ -260,7 +256,8 @@ Member, Association of American Geographers \(AAG\)
 	US National Report to the International Cartographic Association
 
 
-## Additional Professional Service <a name="addProf"></a>
+<a name="addProf"> </a>
+## Additional Professional Service
 
 2012-2013	Leadership Collective Member, Socialist &amp; Critical Geography Specialty Group of the AAG
 
@@ -281,7 +278,8 @@ Member, Association of American Geographers \(AAG\)
 2002-2004	EKU Geography Club President once and Secretary twice
 
 
-## Mentions in Press <a name="press"></a>
+<a name="press"> </a>
+## Mentions in Press
 
 2013	"Guidance for Collaborating with Formal Humanitarian Organizations." Digital Humanitarian Network. Retrieved 8/13/2013 from http://app.box.com/s/w25sqotkg4qc2f2ch1ii.
 
@@ -294,8 +292,8 @@ Member, Association of American Geographers \(AAG\)
 2005	"Researchers Hope to Map, Identify Graves in Abandoned Cemetery." Diverse Issues in Higher Education. Retrieved 4/22/2012 from http://bit.ly/Jx7d2h. 
 
 
-
-## Non-Academic Work Experience <a name="work"></a>
+<a name="work"> </a>
+## Non-Academic Work Experience
 
 - GIS Specialist \(August 2008-July 2009\)  
 Helix Environmental Planning, Inc.; Justin Palmer \(619\)462-1515  
@@ -319,6 +317,8 @@ Summary of duties: Update city maps; GPS gathering of new data; analysis of land
 Concord Custom Cleaners; Mike Webster \(859\)269-9412  
 Summary of duties: Prepare clothing for cleaning, manage inventory maintenance, customer service representation, and general store maintenance.
 
-## Technological Proficiency \(messy\) <a name="tech"></a>
+
+<a name="tech"> </a>
+## Technological Proficiency \(messy\)
 
 <img src="/assets/uploads/Digital-technology-proficiency.png" />
