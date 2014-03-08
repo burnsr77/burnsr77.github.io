@@ -35,7 +35,7 @@ go to:
 
 
 
-## Education<a name="education"></a>
+## Education <a name="education"></a>
 
 2009-present Ph.D. Geography  
 University of Washington  
@@ -61,7 +61,7 @@ Eastern Kentucky University
 Adviser: David Zurick
 
 
-## Affiliations<a name="affiliations"></a>
+## Affiliations <a name="affiliations"></a>
 
 HASTAC Scholar, Humanities, Arts, Science, and Technology Alliance and Collaboratory (HASTAC)
 
@@ -74,11 +74,11 @@ Member, Gamma Theta Upsilon (international geographic honorary society)
 Member, Association of American Geographers (AAG)
 
 
-## Grants, Fellowships, and Awards<a name="awards"></a>
+## Grants, Fellowships, and Awards <a name="awards"></a>
 
 2013 United Nations Office for the Coordination of Humanitarian Affairs: "Humanitarian Research and Innovation Grant" ($4000)
 
-2013 UW Graduate School Gerlach Award (~$3,000) 
+2013 UW Graduate School Gerlach Award (\~$3,000) 
 
 2011-2012 Simpson Center for the Humanities Graduate Interest Group Funding ($1,000) 
 
@@ -92,7 +92,7 @@ Member, Association of American Geographers (AAG)
 
 2009 International Cartographic Association (ICA) Travel Scholarship ($1,800)
 
-2009 UW Geography Top Scholar Award (1 year of funding: ~$9,000)
+2009 UW Geography Top Scholar Award (1 year of funding: \~$9,000)
 
 2009 Cartography & Geographic Information Society (CaGIS) Master’s Award ($500)
 
@@ -107,12 +107,12 @@ Member, Association of American Geographers (AAG)
 2005 School for International Training - "Culture, Language, and Development in Vietnam" research scholarship ($5,000) 
 
 
-## Publications<a name="pubs"></a>
+## Publications <a name="pubs"></a>
 
 *Peer-reviewed Articles *
 2014 Burns, Ryan. <a href="/assets/uploads/burns_moments_of_closure.pdf">Moments of Closure in the Knowledge Politics of Digital Humanitarianism</a>. *Geoforum* 53 (2): 51-62.
 
-2013 Shanley, Lea, R. Burns, Z. Bastian, E. Robson. <a href="shanley_burns_et_al_tweeting_up_storm.pdf">Tweeting Up a Storm: The Promise and Perils of Crisis Mapping</a>. *Photogrammetric Engineering & Remote Sensing* 79 (10): 865-879. 
+2013 Shanley, Lea, R. Burns, Z. Bastian, E. Robson. <a href="/assets/uploads/shanley_burns_et_al_tweeting_up_storm.pdf">Tweeting Up a Storm: The Promise and Perils of Crisis Mapping</a>. *Photogrammetric Engineering & Remote Sensing* 79 (10): 865-879. 
 
 2013 Burns, Ryan, A. Skupin. <a href="/assets/uploads/burns_skupin-visualization_of_attribute_spaces_involving_places_people_and_utterances.pdf">Towards Qualitative Geovisual Analytics: A Case Study Involving Places, People, and Mediated Experience</a>. *Cartographica* 48(3): 157-176.
 
@@ -124,7 +124,7 @@ Member, Association of American Geographers (AAG)
 
 
 *Conference Proceedings and White Papers*
-2013	Burns, Ryan, L. Shanley. <a href="/assets/uploads/burns_shanley_workshop_report.pdf">burns_shanley_workshop_report.pdf">Connecting Grassroots to Government for Disaster Management: Workshop Summary</a>. Woodrow Wilson International Center for Scholars. http://www.scribd.com/doc/165813847/Connecting-Grassroots-to-Government-for-Disaster-Management-Workshop-Summary (last accessed 3/7/2014).
+2013	Burns, Ryan, L. Shanley. <a href="/assets/uploads/burns_shanley_workshop_report.pdf">Connecting Grassroots to Government for Disaster Management: Workshop Summary</a>. Woodrow Wilson International Center for Scholars. http://www.scribd.com/doc/165813847/Connecting-Grassroots-to-Government-for-Disaster-Management-Workshop-Summary (last accessed 3/7/2014).
 
 2012	Burns, Ryan. Connecting Grassroots to Government for Disaster Management. Woodrow Wilson International Center for Scholars. http://bit.ly/OC4kmD (last accessed 9/18/2012).
 
@@ -144,58 +144,58 @@ Member, Association of American Geographers (AAG)
 
 *Papers presented*
 
-2014 (expected) “Rethinking Knowledge Politics through Digital Humanitarianism.” Annual meeting of the AAG. Tampa, FL.
+2014 (expected) "Rethinking Knowledge Politics through Digital Humanitarianism." Annual meeting of the AAG. Tampa, FL.
 
-2012 “Digital Public Scholarship: Mapping Youth Journeys.” College of Arts & Sciences Dean’s Showcase. HuskyFest 2012. Seattle, WA.
+2012 "Digital Public Scholarship: Mapping Youth Journeys." College of Arts & Sciences Dean’s Showcase. HuskyFest 2012. Seattle, WA.
 
-2012 “Beyond Inclusion and Empowerment: Inequality in the Geoweb.” Annual meeting of the AAG. New York, NY.
+2012 "Beyond Inclusion and Empowerment: Inequality in the Geoweb." Annual meeting of the AAG. New York, NY.
 
-2011 “Software-sorted Geographies of the Urban Global South.” Annual meeting of the AAG. Seattle WA.
+2011 "Software-sorted Geographies of the Urban Global South." Annual meeting of the AAG. Seattle WA.
 
-2010 Mitchell, K. & R. Burns [equal contribution] “Mapping Engagement: Using Basic Geovisualization Technologies to Help Children Become Better Geographers and Better Citizens.” Plenary session, Fall meeting of the Association of Washington Geographers.
+2010 Mitchell, K. & R. Burns [equal contribution] "Mapping Engagement: Using Basic Geovisualization Technologies to Help Children Become Better Geographers and Better Citizens." Plenary session, Fall meeting of the Association of Washington Geographers.
 
-2010 “’Exploring Geovisualization’: Reflections, Ideas, and Questions.” Annual meeting of the AAG. Washington, D.C.
+2010 "’Exploring Geovisualization’: Reflections, Ideas, and Questions." Annual meeting of the AAG. Washington, D.C.
 
-2009 “Visualization of Attribute Spaces Involving Places, People and Utterances.” International Cartographic Conference. Santiago, Chile.
+2009 "Visualization of Attribute Spaces Involving Places, People and Utterances." International Cartographic Conference. Santiago, Chile.
 
-2009 “Spatializing Places, People, and Utterances- A Case Study Involving San Diego Neighborhoods.” Annual meeting of the AAG. Las Vegas, NV.
+2009 "Spatializing Places, People, and Utterances- A Case Study Involving San Diego Neighborhoods." Annual meeting of the AAG. Las Vegas, NV.
 
-2008 “Landscapes of Participatory Dialogue: Participation and Geovisualization in AgoraXchange.” Annual Meeting of the AAG. Boston, MA.
+2008 "Landscapes of Participatory Dialogue: Participation and Geovisualization in AgoraXchange." Annual Meeting of the AAG. Boston, MA.
 
-2008 Verutes, G., R. Burns “Visualizing Linguistic Variation within University Classroom Discourse.” Annual Meeting of the AAG. Boston, MA.
+2008 Verutes, G., R. Burns "Visualizing Linguistic Variation within University Classroom Discourse." Annual Meeting of the AAG. Boston, MA.
 
-2007 .”..things seen are temporal, things unseen are eternal..” Association of Pacific Coast Geographers. Long Beach, CA. Co-presenters: Christopher Moreno, Sean Crotty, Steven Jareb, Mike Beland, Jenny Duncan, Karen Stahl.
+2007 ."..things seen are temporal, things unseen are eternal.." Association of Pacific Coast Geographers. Long Beach, CA. Co-presenters: Christopher Moreno, Sean Crotty, Steven Jareb, Mike Beland, Jenny Duncan, Karen Stahl.
 
-2006 “Globalization and the Cultural Significance of Bookstores in Viet Nam.” Undergraduate Presentation Showcase, Eastern Kentucky University. Poster presentation.
+2006 "Globalization and the Cultural Significance of Bookstores in Viet Nam." Undergraduate Presentation Showcase, Eastern Kentucky University. Poster presentation.
 
-2005 “Is Small-town Kentucky Ready to Grow? Community Readiness for Growth and Development Along the I-75 Corridor.” Posters-at-the-Capitol, Frankfort, KY. Poster presentation. Co-presented with Ricardo Hernandez. 
+2005 "Is Small-town Kentucky Ready to Grow? Community Readiness for Growth and Development Along the I-75 Corridor." Posters-at-the-Capitol, Frankfort, KY. Poster presentation. Co-presented with Ricardo Hernandez. 
 
 *Participation & Sessions Organized*
 
-2014	(expected) Panelist. “Publishing, not Perishing: A Student's Guide to Academic Publishing.” Annual meeting of the AAG. Tampa, FL.
+2014	(expected) Panelist. "Publishing, not Perishing: A Student's Guide to Academic Publishing." Annual meeting of the AAG. Tampa, FL.
 
-2014	(expected) Panelist. “alt.conference on Big Data: Lightning Panel.” Annual meeting of the AAG. Tampa, FL.
+2014	(expected) Panelist. "alt.conference on Big Data: Lightning Panel." Annual meeting of the AAG. Tampa, FL.
 
-2013	Organizer. “Whither Small Data?: The Limits of ‘Big Data’ and the Value of ‘Small Data’ Studies.” Organizer with Jim Thatcher. Annual meeting of the AAG. Los Angeles, CA. Presenting panelists: Rob Kitchin, Jim Thatcher, Ralph Schroeder (Oxford Internet Institute, Oxford University), Taylor Shelton. Discussant: Andrés Monroy-Hernández (Microsoft Research).
+2013	Organizer. "Whither Small Data?: The Limits of ‘Big Data’ and the Value of ‘Small Data’ Studies." Organizer with Jim Thatcher. Annual meeting of the AAG. Los Angeles, CA. Presenting panelists: Rob Kitchin, Jim Thatcher, Ralph Schroeder (Oxford Internet Institute, Oxford University), Taylor Shelton. Discussant: Andrés Monroy-Hernández (Microsoft Research).
 
-2013	Organizer. “Critical Interventions into Gender & the Geoweb.” Organizer with Monica Stephens. Annual meeting of the AAG. Los Angeles, CA. Presenting panelists: Brent Hecht, Monica Stephens, Michele Masucci, Adrianne Wadewitz (Center of Digital Learning and Research, Occidental College).
+2013	Organizer. "Critical Interventions into Gender & the Geoweb." Organizer with Monica Stephens. Annual meeting of the AAG. Los Angeles, CA. Presenting panelists: Brent Hecht, Monica Stephens, Michele Masucci, Adrianne Wadewitz (Center of Digital Learning and Research, Occidental College).
 
-2012	Organizer. “Connecting Grassroots to Government for Disaster Management: A Policy Roundtable.” Organizer with Lea Shanley, John Crowley, and Alyson Lyons. Washington, DC. For list of panelists, see: http://www.wilsoncenter.org/sites/default/files/GrassrootstoGovernmentAgenda-9.9.12_0.pdf 
+2012	Organizer. "Connecting Grassroots to Government for Disaster Management: A Policy Roundtable." Organizer with Lea Shanley, John Crowley, and Alyson Lyons. Washington, DC. For list of panelists, see: http://www.wilsoncenter.org/sites/default/files/GrassrootstoGovernmentAgenda-9.9.12_0.pdf 
 
-2011-2012	Organizer. Series of 6 panels and roundtables on “Making the University Public”, a Graduate Interest Group through the Simpson Center for the Humanities, UW. Seattle, WA. Panels included: Susan Jeffords (Vice Chancellor for Academic Affairs, UW – Bothell), Kari Lerum (UW – Bothell), Tad Hirsch (Design, UW), Jentery Sayers (English, University of Victoria), John Vallier (UW Libraries), Richa Nagar (Department of Gender, Women, and Sexuality Studies, University of Minnesota).
+2011-2012	Organizer. Series of 6 panels and roundtables on "Making the University Public", a Graduate Interest Group through the Simpson Center for the Humanities, UW. Seattle, WA. Panels included: Susan Jeffords (Vice Chancellor for Academic Affairs, UW – Bothell), Kari Lerum (UW – Bothell), Tad Hirsch (Design, UW), Jentery Sayers (English, University of Victoria), John Vallier (UW Libraries), Richa Nagar (Department of Gender, Women, and Sexuality Studies, University of Minnesota).
 
-2011	Organizer. “Critical Perspectives on Software & Space.” Organizer with Joe Eckert. Annual meeting of the AAG. Seattle, WA. Presenting panelists: Mark Graham, Matt Zook, Rob Kitchin, Wendy Chun (Modern Culture and Media, Brown University). Chair: Sarah Elwood. Discussant: Matt Wilson.
+2011	Organizer. "Critical Perspectives on Software & Space." Organizer with Joe Eckert. Annual meeting of the AAG. Seattle, WA. Presenting panelists: Mark Graham, Matt Zook, Rob Kitchin, Wendy Chun (Modern Culture and Media, Brown University). Chair: Sarah Elwood. Discussant: Matt Wilson.
 
 *Discussant*
 
-2014	(expected) “Disaster Time: Critical Perspectives on Crisis Informatics and the Temporal Aspects of Disasters.” Annual meeting of the AAG. Tampa, FL.
+2014	(expected) "Disaster Time: Critical Perspectives on Crisis Informatics and the Temporal Aspects of Disasters." Annual meeting of the AAG. Tampa, FL.
 
-2013	“Critical Interventions into Gender & the Geoweb.” Annual meeting of the AAG. Los Angeles, CA. Presenting panelists: Brent Hecht, Monica Stephens, Michele Masucci, Adrianne Wadewitz (Center of Digital Learning and Research, Occidental College).
+2013	"Critical Interventions into Gender & the Geoweb." Annual meeting of the AAG. Los Angeles, CA. Presenting panelists: Brent Hecht, Monica Stephens, Michele Masucci, Adrianne Wadewitz (Center of Digital Learning and Research, Occidental College).
 
-2013	“Crowdsourcing Crisis in the GeoWeb: A Critical Look.” Annual meeting of the AAG. Los Angeles, CA. Organized by Barbara Poore and Sophia Liu. Presenters: Katrina Petersen (Communication, University of California – Santa Barbara), Andrés Monroy-Hernández (Microsoft Research), Megan Finn (Microsoft Research), Cameran Ashraf (University of California – Los Angeles).
+2013	"Crowdsourcing Crisis in the GeoWeb: A Critical Look." Annual meeting of the AAG. Los Angeles, CA. Organized by Barbara Poore and Sophia Liu. Presenters: Katrina Petersen (Communication, University of California – Santa Barbara), Andrés Monroy-Hernández (Microsoft Research), Megan Finn (Microsoft Research), Cameran Ashraf (University of California – Los Angeles).
 
 
-## Additional Research and GIS Experience<a name="addResearch"></a>
+## Additional Research and GIS Experience <a name="addResearch"></a>
 
 2009-2012 Research Assistant: Dr. Sarah Elwood, Mapping Youth Journeys
 
@@ -220,23 +220,23 @@ Member, Association of American Geographers (AAG)
 2005 Senior thesis, expanding on the independent study, but focusing on how cultural globalization is affecting the influence of bookstores in Viet Nam. Presented at EKU in December, 2005.
 
 
-## Teaching Experience<a name="teaching"></a>
+## Teaching Experience <a name="teaching"></a>
 
 *Full Courses*
 
-2014 (expected) GEOG 301: “Cultural Geography”
+2014 (expected) GEOG 301: "Cultural Geography"
 
-2013 GEOG 102: “The Making of World Regions”
+2013 GEOG 102: "The Making of World Regions"
 
-2012 GEOG 461: “Urban GIS”
+2012 GEOG 461: "Urban GIS"
 
 *Invited Lectures*
 
-2012 Guest lecture in GEOG 469/569: “GIS Workshop”
+2012 Guest lecture in GEOG 469/569: "GIS Workshop"
 
-2012 Guest lecture in GEOG 461/561: “Urban GIS”
+2012 Guest lecture in GEOG 461/561: "Urban GIS"
 
-2010 “Participatory Mapping” Imagining America Site Visit
+2010 "Participatory Mapping" Imagining America Site Visit
 
 *Teaching Assistant*
 
@@ -245,7 +245,7 @@ Member, Association of American Geographers (AAG)
 2007-2008 SDSU Geography Teaching Assistant: Introduction to GIS (twice), Map Investigation, and Animated Cartographic Design
 
 
-## Peer Reviews Provided
+## Peer Reviews Provided <a name="reviews"></a>
 
 	GeoJournal
 
@@ -260,7 +260,7 @@ Member, Association of American Geographers (AAG)
 	US National Report to the International Cartographic Association
 
 
-## Additional Professional Service<a name="addProf"></a>
+## Additional Professional Service <a name="addProf"></a>
 
 2012-2013	Leadership Collective Member, Socialist & Critical Geography Specialty Group of the AAG
 
@@ -280,7 +280,8 @@ Member, Association of American Geographers (AAG)
 
 2002-2004	EKU Geography Club President once and Secretary twice
 
-## Mentions in Press<a name="press"></a>
+
+## Mentions in Press <a name="press"></a>
 
 2013	"Guidance for Collaborating with Formal Humanitarian Organizations." Digital Humanitarian Network. Retrieved 8/13/2013 from http://app.box.com/s/w25sqotkg4qc2f2ch1ii.
 
@@ -294,7 +295,7 @@ Member, Association of American Geographers (AAG)
 
 
 
-## Non-Academic Work Experience<a name="work"></a>
+## Non-Academic Work Experience <a name="work"></a>
 
 - GIS Specialist (August 2008-July 2009)  
 Helix Environmental Planning, Inc.; Justin Palmer (619)462-1515  
@@ -318,6 +319,6 @@ Summary of duties: Update city maps; GPS gathering of new data; analysis of land
 Concord Custom Cleaners; Mike Webster (859)269-9412  
 Summary of duties: Prepare clothing for cleaning, manage inventory maintenance, customer service representation, and general store maintenance.
 
-## Technological Proficiency (messy)<a name="tech"></a>
+## Technological Proficiency (messy) <a name="tech"></a>
 
 <img src="/assets/uploads/Digital-technology-proficiency.png" />
