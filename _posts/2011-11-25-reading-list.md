@@ -12,25 +12,25 @@ categories:
 
 to read in 2012:
 
-<strike>*One Hundred Years of Solitude*, Gabriel Garcia Marquez </strike> 
+~~*One Hundred Years of Solitude*, Gabriel Garcia Marquez~~
 
-<strike>*To Kill a Mockingbird*, Harper Lee  </strike>
+~~*To Kill a Mockingbird*, Harper Lee~~
 
-<strike>*Catch-22*, Joseph Heller  </strike>
+~~*Catch-22*, Joseph Heller~~
 
-<strike>*Breakfast of Champions*, Kurt Vonnegut  </strike>
+~~*Breakfast of Champions*, Kurt Vonnegut~~
 
 *Pride and Prejudice*, Jane Austen  
 
-<strike>*The </strike><strike>Turn of the Screw*, Henry James  </strike>
+~~*The Turn of the Screw*, Henry James~~
 
-<strike>*Brave New World*, Aldous Huxley  </strike>
+~~*Brave New World*, Aldous Huxley~~
 
 *Ulysses*, James Joyce \(i'm already halfway through this\)  
 
 *Neuromancer*, William Gibson  
 
-<strike>something by HP Lovecraft</strike>
+~~something by HP Lovecraft~~
 
 i'm a little embarrassed to admit i've never read these. this will be the year.  
 
