@@ -9,27 +9,48 @@ layout: layout
 See below for HTML version, with links (where available).
 
 go to:  
-[education](#education)  
-[affiliations](#affiliations)  
+[education](#education)
+
+[affiliations](#affiliations)
+
+[awards](#awards)   
+
 [publications](#pubs)  
-[leadership](#leadership) 
-[awards](#awards) 
-[teaching](#teaching)  
-[research](#research) 
-[presentations](#presentations)  
-[press coverage](#press)  
-[memberships](#memberships)  
-[peer reviews](#peerReview)  
+
+[presentations](#presentations)
+
+[research](#addResearch)   
+
+[teaching](#teaching)   
+
+[peer reviews](#review)  
+
+[memberships](#addProf)  
+
+[press coverage](#press) 
+
 [work](#work)  
+
 [technology experience](#tech)  
 
 
 
-## Education
+## Education<a name="education"></a>
 
 2009-present Ph.D. Geography  
 University of Washington  
 Committee: Sarah Elwood, Mark Ellis, Victoria Lawson, Jin-Kyu Jung (Graduate Student Representative)
+Dissertation title: The Inequality of the Geospatial Web: How Emerging Geographic Technologies Influence Humanitarian Practices
+
+2010-present Graduate Certificate in Public Scholarship  
+Simpson Center for the Humanities, University of Washington  
+Capstone adviser: Kirsten Foot (Communications); Portfolio adviser: Tad Hirsch (School of Art, Design Division)
+
+2013 Oxford Internet Institute Summer Doctoral Programme  
+i-School, University of Toronto, Canada
+
+2011 Bergen Summer Research School  
+University of Bergen, Norway
 
 2009 M.S. Geographic Information Science  
 San Diego State University  
@@ -39,82 +60,39 @@ Committee: André Skupin, Stuart Aitken, Eniko Csomay (Linguistics)
 Eastern Kentucky University  
 Adviser: David Zurick
 
-## Institutional Affiliations
 
-2013 Oxford Internet Institute Summer Doctoral Programme  
-i-School, University of Toronto, Canada
+## Affiliations<a name="affiliations"></a>
 
-2012-present Science and Technology Innovation Program (Research Assistant)  
-Woodrow Wilson International Center for Scholars, Washington, DC
+HASTAC Scholar, Humanities, Arts, Science, and Technology Alliance and Collaboratory (HASTAC)
 
-2010-present Graduate Certificate in Public Scholarship  
-University of Washington  
-Adviser: Phillip Thurtle (Comparative History of Ideas)
+Secretary and Treasurer, Geographic Information Systems and Science Specialty Group of the AAG
 
-2011 Bergen Summer Research School  
-University of Bergen, Norway
+Member, Standby Task Force
 
-## Publications
+Member, Gamma Theta Upsilon (international geographic honorary society)
 
-Articles  
-2013 Burns, Ryan, L. Shanley. Connecting Grassroots to Government for Disaster Management: Workshop Summary. Woodrow Wilson International Center for Scholars. (In press)
-
-2013 Shanley, Lea, R. Burns, Z. Bastian, E. Robson. Tweeting Up a Storm: The Promise and Perils of Crisis Mapping. Photogrammetric Engineering & Remote Sensing. Accepted.
-
-2012 Burns, Ryan, A. Skupin. Towards Qualitative Geovisual Analytics: A Case Study Involving Places, People, and Mediated Experience. Cartographica. Submitted. 
-
-2012 Burns, Ryan. [Connecting Grassroots to Government for Disaster Management](/assets/uploads/Workshop_BackgroundReading.pdf). Woodrow Wilson International Center for Scholars. http://bit.ly/OC4kmD (last accessed 9/18/2012).
-
-2012 Burns, Ryan, D. Meek. "The Politics of Knowledge Production in the Geoweb". Special Issue of ACME: An International E-Journal for Critical Geographies. Accepted. 
-
-2009 Burns, Ryan, A. Skupin. [Mapping Places, People, and Utterances to Visualize the Experience of Place](/assets/uploads/burns_skupin-visualization_of_attribute_spaces_involving_places_people_and_utterances.pdf). In Proceedings of the 24th International Cartographic Conference, Santiago, Chile (CD-ROM). Click [here](http://ns1.icaci.org/files/documents/ICC_proceedings/ICC2009/html/nonref/20_9.pdf) for another link.
+Member, Association of American Geographers (AAG)
 
 
-Maps
+## Grants, Fellowships, and Awards<a name="awards"></a>
 
-Drafting \[Collection of 3 maps about Andra Pradesh, India\] In P. Ramamurthy, Untitled
+2013 United Nations Office for the Coordination of Humanitarian Affairs: "Humanitarian Research and Innovation Grant" ($4000)
 
-2011 Collection of 5 maps/screenshots from the Mapping Youth Journeys project website. In K. Mitchell, S. Elwood, "Engaging Students through Mapping Local History," Journal of Geography. In press.
+2013 UW Graduate School Gerlach Award (~$3,000) 
 
-2010 \[Collection of 6 maps about poverty in the Pacific Northwest\] In V. Lawson, L. Jarosz and A. Bonds, "Dumping Grounds and Unseen Grounds: Placing Race, Ethnicity and Poverty in the American Northwest," Annals of the Association of American Geographers 100(3): 655-677.
-
-2007 Map of Ecuador, Including the Extension of Páramo Grasslands and the Location of the Aglomerados, S.A. (ACOSA) Plantation. In K. Farley, "Grasslands to Tree Plantations: Forest Transition in the Andes of Ecuador," Annals of the Association of American Geographers 97(4): 760.
-
-## Leadership Positions Held
-
-2012-present Student Representative of the GISS Specialty Group of the AAG
-
-2008-2012 Webmaster and leadership collective, Socialist & Critical Geography Specialty Group of the AAG
-
-2011-2012 Primary Project Liaison, "Making the University Public" Graduate Interest Group
-
-2011-2012 Graduate Policy Committee Representative, Department of Geography, UW
-
-2008-2012 Webmaster and leadership collective, Socialist & Critical Geography Specialty Group of the AAG
-
-2010-2011 Co-president (with Chris Lizotte) of the Geography Dept Graduate Student Association
-
-2007-2008 SDSU Geography Colloquium Planning Committee
-
-2002-2006 EKU Honors Program scholar
-
-2002-2004 EKU Geography Club President once and Secretary twice
-
-## Awards and Achievements
-
-2011-2012 Simpson Center for the Humanities Graduate Interest Group Funding ($1,000)
+2011-2012 Simpson Center for the Humanities Graduate Interest Group Funding ($1,000) 
 
 2011 Simpson Center for the Humanities Travel Funds ($750)
 
-2011 Howard Martin Grant ($556)
+2011 Howard Martin Research Grant ($556) 
 
 2011 UW Graduate School Fund for Excellence and Innovation ($500)
 
-2011 UW Graduate & Professional Student Senate Travel Fund ($250)
-
-2009 UW Geography Top Scholar Award (1 year of funding: about $9,000)
+2011 UW Graduate & Professional Student Senate Travel Fund ($250) 
 
 2009 International Cartographic Association (ICA) Travel Scholarship ($1,800)
+
+2009 UW Geography Top Scholar Award (1 year of funding: ~$9,000)
 
 2009 Cartography & Geographic Information Society (CaGIS) Master’s Award ($500)
 
@@ -126,31 +104,110 @@ Drafting \[Collection of 3 maps about Andra Pradesh, India\] In P. Ramamurthy, U
 
 2005 EKU Milos Sebor Scholarship ($200)
 
-2002-2006 President’s List (4.0 GPA) once, and Dean’s List (3.6 GPA) five times.
+2005 School for International Training - "Culture, Language, and Development in Vietnam" research scholarship ($5,000) 
 
-2005 Study abroad in Viet Nam, focusing on culture and development, language, field studies, and independent research (discussed more below)
 
-## Teaching Experience
+## Publications<a name="pubs"></a>
 
-Full Courses  
-2012 GEOG 461: "Urban GIS"
+*Peer-reviewed Articles *
+2014 Burns, Ryan. <a href="/assets/uploads/burns_moments_of_closure.pdf">Moments of Closure in the Knowledge Politics of Digital Humanitarianism</a>. *Geoforum* 53 (2): 51-62.
 
-Invited Lectures  
-2012 Guest lecture in GEOG 469/569: "GIS Workshop"
+2013 Shanley, Lea, R. Burns, Z. Bastian, E. Robson. <a href="shanley_burns_et_al_tweeting_up_storm.pdf">Tweeting Up a Storm: The Promise and Perils of Crisis Mapping</a>. *Photogrammetric Engineering & Remote Sensing* 79 (10): 865-879. 
 
-2012 Guest lecture in GEOG 461/561: "Urban GIS"
+2013 Burns, Ryan, A. Skupin. <a href="/assets/uploads/burns_skupin-visualization_of_attribute_spaces_involving_places_people_and_utterances.pdf">Towards Qualitative Geovisual Analytics: A Case Study Involving Places, People, and Mediated Experience</a>. *Cartographica* 48(3): 157-176.
 
-2010 "Participatory Mapping" Imagining America Site Visit
+*In press* Burns, Ryan, D. Meek. The Politics of Knowledge Production in the Geoweb. Special Issue of *ACME: An International E-Journal for Critical Geographies. 
 
-## Academic Research and GIS Experience
+*Accepted* Burns, Ryan. Rethinking Big Data in Digital Humanitarianism: Practices, Epistemologies, and Social Relations. *GeoJournal*.
 
-2009-2012 UW Geography Research Assistant: Dr. Sarah Elwood, Mapping Youth Journeys
+*Accepted* Burns, Ryan, J. Thatcher. What's So Big about Big Data? Finding the Spaces and Perils of Big Data. Special Issue of *GeoJournal*.
+
+
+*Conference Proceedings and White Papers*
+2013	Burns, Ryan, L. Shanley. <a href="/assets/uploads/burns_shanley_workshop_report.pdf">burns_shanley_workshop_report.pdf">Connecting Grassroots to Government for Disaster Management: Workshop Summary</a>. Woodrow Wilson International Center for Scholars. http://www.scribd.com/doc/165813847/Connecting-Grassroots-to-Government-for-Disaster-Management-Workshop-Summary (last accessed 3/7/2014).
+
+2012	Burns, Ryan. Connecting Grassroots to Government for Disaster Management. Woodrow Wilson International Center for Scholars. http://bit.ly/OC4kmD (last accessed 9/18/2012).
+
+2009	Burns, Ryan, A. Skupin. Mapping Places, People, and Utterances to Visualize the Experience of Place. In Proceedings of the 24th International Cartographic Conference, Santiago, Chile (CD-ROM). http://bit.ly/POhGuu (last accessed 9/12/2012). 
+
+
+*Maps*
+
+2011	Collection of 5 maps/screenshots from the Mapping Youth Journeys project website. In K. Mitchell, S. Elwood, "Creating Engaged Students and Civic Actors through Mapping Local History," Journal of Geography 111(4): 148-157. 
+
+2010	[Collection of 6 maps about poverty in the Pacific Northwest] In V. Lawson, L. Jarosz and A. Bonds, "Dumping Grounds and Unseen Grounds: Placing Race, Ethnicity and Poverty in the American Northwest," Annals of the Association of American Geographers 100(3): 655-677.
+
+2007	Map of Ecuador, Including the Extension of Páramo Grasslands and the Location of the Aglomerados, S.A. (ACOSA) Plantation. In K. Farley, "Grasslands to Tree Plantations: Forest Transition in the Andes of Ecuador," Annals of the Association of American Geographers 97(4): 760.
+
+
+## Conference Presentations <a name="presentations"></a>
+
+*Papers presented*
+
+2014 (expected) “Rethinking Knowledge Politics through Digital Humanitarianism.” Annual meeting of the AAG. Tampa, FL.
+
+2012 “Digital Public Scholarship: Mapping Youth Journeys.” College of Arts & Sciences Dean’s Showcase. HuskyFest 2012. Seattle, WA.
+
+2012 “Beyond Inclusion and Empowerment: Inequality in the Geoweb.” Annual meeting of the AAG. New York, NY.
+
+2011 “Software-sorted Geographies of the Urban Global South.” Annual meeting of the AAG. Seattle WA.
+
+2010 Mitchell, K. & R. Burns [equal contribution] “Mapping Engagement: Using Basic Geovisualization Technologies to Help Children Become Better Geographers and Better Citizens.” Plenary session, Fall meeting of the Association of Washington Geographers.
+
+2010 “’Exploring Geovisualization’: Reflections, Ideas, and Questions.” Annual meeting of the AAG. Washington, D.C.
+
+2009 “Visualization of Attribute Spaces Involving Places, People and Utterances.” International Cartographic Conference. Santiago, Chile.
+
+2009 “Spatializing Places, People, and Utterances- A Case Study Involving San Diego Neighborhoods.” Annual meeting of the AAG. Las Vegas, NV.
+
+2008 “Landscapes of Participatory Dialogue: Participation and Geovisualization in AgoraXchange.” Annual Meeting of the AAG. Boston, MA.
+
+2008 Verutes, G., R. Burns “Visualizing Linguistic Variation within University Classroom Discourse.” Annual Meeting of the AAG. Boston, MA.
+
+2007 .”..things seen are temporal, things unseen are eternal..” Association of Pacific Coast Geographers. Long Beach, CA. Co-presenters: Christopher Moreno, Sean Crotty, Steven Jareb, Mike Beland, Jenny Duncan, Karen Stahl.
+
+2006 “Globalization and the Cultural Significance of Bookstores in Viet Nam.” Undergraduate Presentation Showcase, Eastern Kentucky University. Poster presentation.
+
+2005 “Is Small-town Kentucky Ready to Grow? Community Readiness for Growth and Development Along the I-75 Corridor.” Posters-at-the-Capitol, Frankfort, KY. Poster presentation. Co-presented with Ricardo Hernandez. 
+
+*Participation & Sessions Organized*
+
+2014	(expected) Panelist. “Publishing, not Perishing: A Student's Guide to Academic Publishing.” Annual meeting of the AAG. Tampa, FL.
+
+2014	(expected) Panelist. “alt.conference on Big Data: Lightning Panel.” Annual meeting of the AAG. Tampa, FL.
+
+2013	Organizer. “Whither Small Data?: The Limits of ‘Big Data’ and the Value of ‘Small Data’ Studies.” Organizer with Jim Thatcher. Annual meeting of the AAG. Los Angeles, CA. Presenting panelists: Rob Kitchin, Jim Thatcher, Ralph Schroeder (Oxford Internet Institute, Oxford University), Taylor Shelton. Discussant: Andrés Monroy-Hernández (Microsoft Research).
+
+2013	Organizer. “Critical Interventions into Gender & the Geoweb.” Organizer with Monica Stephens. Annual meeting of the AAG. Los Angeles, CA. Presenting panelists: Brent Hecht, Monica Stephens, Michele Masucci, Adrianne Wadewitz (Center of Digital Learning and Research, Occidental College).
+
+2012	Organizer. “Connecting Grassroots to Government for Disaster Management: A Policy Roundtable.” Organizer with Lea Shanley, John Crowley, and Alyson Lyons. Washington, DC. For list of panelists, see: http://www.wilsoncenter.org/sites/default/files/GrassrootstoGovernmentAgenda-9.9.12_0.pdf 
+
+2011-2012	Organizer. Series of 6 panels and roundtables on “Making the University Public”, a Graduate Interest Group through the Simpson Center for the Humanities, UW. Seattle, WA. Panels included: Susan Jeffords (Vice Chancellor for Academic Affairs, UW – Bothell), Kari Lerum (UW – Bothell), Tad Hirsch (Design, UW), Jentery Sayers (English, University of Victoria), John Vallier (UW Libraries), Richa Nagar (Department of Gender, Women, and Sexuality Studies, University of Minnesota).
+
+2011	Organizer. “Critical Perspectives on Software & Space.” Organizer with Joe Eckert. Annual meeting of the AAG. Seattle, WA. Presenting panelists: Mark Graham, Matt Zook, Rob Kitchin, Wendy Chun (Modern Culture and Media, Brown University). Chair: Sarah Elwood. Discussant: Matt Wilson.
+
+*Discussant*
+
+2014	(expected) “Disaster Time: Critical Perspectives on Crisis Informatics and the Temporal Aspects of Disasters.” Annual meeting of the AAG. Tampa, FL.
+
+2013	“Critical Interventions into Gender & the Geoweb.” Annual meeting of the AAG. Los Angeles, CA. Presenting panelists: Brent Hecht, Monica Stephens, Michele Masucci, Adrianne Wadewitz (Center of Digital Learning and Research, Occidental College).
+
+2013	“Crowdsourcing Crisis in the GeoWeb: A Critical Look.” Annual meeting of the AAG. Los Angeles, CA. Organized by Barbara Poore and Sophia Liu. Presenters: Katrina Petersen (Communication, University of California – Santa Barbara), Andrés Monroy-Hernández (Microsoft Research), Megan Finn (Microsoft Research), Cameran Ashraf (University of California – Los Angeles).
+
+
+## Additional Research and GIS Experience<a name="addResearch"></a>
+
+2009-2012 Research Assistant: Dr. Sarah Elwood, Mapping Youth Journeys
 
 2009-2010 Assistant: Dr. Katharyne Mitchell, Top This Parenting
 
-2007-2008 SDSU Geography Teaching Assistant: Dr. André Skupin, taught Intro to GIS (twice), Map Investigation, and Animated Cartographic Design
+2008-2009 GIS Specialist: Helix Environmental Planning, Inc.
+
+2007 GIS Analyst/Cartographer: Baja Directions (bathymetric cartography company)
 
 2006-2007 SDSU Geography Graduate Assistant: Dr. Kathleen Farley
+
+2006-2007 GIS Analyst: IGIS Technologies, Inc. (GIS services consulting company)
 
 2005 Volunteer Assistant: Dr. Dan Weir, mapping a derelict cemetery for future renovation and restoration. My particular involvement was to map the gathered GPS coordinates.
 
@@ -162,94 +219,82 @@ Invited Lectures
 
 2005 Senior thesis, expanding on the independent study, but focusing on how cultural globalization is affecting the influence of bookstores in Viet Nam. Presented at EKU in December, 2005.
 
-## Professional Presentations
 
-Organized panels  
-2013 "Whither Small Data?: The Limits of "Big Data" and the Value of "Small Data" Studies. Annual meeting of the AAG. Los Angeles, CA.
+## Teaching Experience<a name="teaching"></a>
 
-2013 "Critical Interventions into Gender & the Geoweb". Organizer with Monica Stephens. Annual meeting of the AAG. Los Angeles, CA.
+*Full Courses*
 
-2012 "Connecting Grassroots to Government for Disaster Management: A Policy Roundtable". Organizer with Lea Shanley, John Crowley, and Alyson Lyons. Washington, DC.
+2014 (expected) GEOG 301: “Cultural Geography”
 
-2011-2012 Series of 6 panels and roundtables on "Making the University Public", a Graduate Interest Group through the Simpson Center for the Humanities, UW. Seattle, WA.
+2013 GEOG 102: “The Making of World Regions”
 
-2011 "Critical Perspectives on Software & Space". Organizer with Joe Eckert. Annual meeting of the AAG. Seattle, WA.
+2012 GEOG 461: “Urban GIS”
 
-Presentations  
-2012 "Digital Public Scholarship: Mapping Youth Journeys". College of Arts & Sciences Dean’s Showcase. HuskyFest 2012. Seattle, WA.
+*Invited Lectures*
 
-2012 "Beyond Inclusion and Empowerment: Inequality in the Geoweb". Annual meeting of the AAG. New York, NY.
+2012 Guest lecture in GEOG 469/569: “GIS Workshop”
 
-2011 "Software-sorted Geographies of the Urban Global South". Annual meeting of the AAG. Seattle WA.
+2012 Guest lecture in GEOG 461/561: “Urban GIS”
 
-2010 Mitchell, K. & R. Burns \[equal contribution\] "Mapping Engagement: Using Basic Geovisualization Technologies to Help Children Become Better Geographers and Better Citizens". Plenary session, Fall meeting of the Association of Washington Geographers.
+2010 “Participatory Mapping” Imagining America Site Visit
 
-2010 "’Exploring Geovisualization’: Reflections, Ideas, and Questions". Expected presentation at the Annual meeting of the AAG. Washington, D.C.
+*Teaching Assistant*
 
-2009 "Visualization of Attribute Spaces Involving Places, People and Utterances". International Cartographic Conference. Santiago, Chile.
+2012 UW Geography Teaching Assistant: Urban GIS, GIS Workshop
 
-2009 "Spatializing Places, People, and Utterances- A Case Study Involving San Diego Neighborhoods". Annual meeting of the AAG. Las Vegas, NV.
+2007-2008 SDSU Geography Teaching Assistant: Introduction to GIS (twice), Map Investigation, and Animated Cartographic Design
 
-2008 "Spatializing Places, People, and Utterances: A Case Study Involving San Diego Neighborhoods". Invited presentation in a Linguistics Research class. San Diego, CA.
-
-2008 "Landscapes of Participatory Dialogue: Participation and Geovisualization in AgoraXchange". Annual Meeting of the AAG. Boston, MA.
-
-2008 "Visualizing Linguistic Variation within University Classroom Discourse". Annual Meeting of the AAG. Boston, MA.
-
-2007 "…things seen are temporary, things seen are eternal.". Association of Pacific Coast Geograpers. Long Beach, CA. Co-presenters: Christopher Moreno, Sean Crotty, Steven Jareb, Mike Beland, Jenny Duncan, Karen Stahl.
-
-2006 "The Importance of GIS to Geography". Presentation given to the Department of Geography at Eastern Kentucky University faculty.
-
-2006 "Globalization and the Cultural Significance of Bookstores in Viet Nam". Undergraduate Presentation Showcase, Eastern Kentucky University. Poster presentation.
-
-2006 "What is Geography?" Presentation given to high school students at Model Laboratory School, Richmond, KY. Co-presented with Jeffrey Minor.
-
-2005 "Globalization and the Cultural Significance of Bookstores in Viet Nam". Senior thesis presentation, Eastern Kentucky University.
-
-2005 "Is Small-town Kentucky Ready to Grow? Community Readiness for Growth and Development Along the I-75 Corridor." Posters-at-the-Capitol, Frankfort, KY. Poster presentation. Co-presented with Ricardo Hernandez.
-
-2005 "How Effective Are Deforestation Mitigation Strategies? Case Studies in Three Rainforests". Posters-at-the-Capitol, Frankfort, KY. Poster presentaion. Co-presenters: Ricardo Hernandez, Jeffrey Minor, and Shane Smith.
-
-## Mentions in Press
-
-2012 ["Doctoral Student Ryan Burns Selected to Present on Digital Scholarship at UW HuskyFest 2012"](http://bit.ly/HUCIQS). Simpson Center for the Humanities Center News.  
-2012 ["UW Leads in Connecting Scholarship with Community"](http://bit.ly/yQ77sX). UW Today.  
-2011 ["Certificate in Public Scholarship Fellows Represent UW at Imagining America Conference"](http://bit.ly/IgG6bl). Simpson Center for the Humanities Center News.  
-2005 ["Researchers Hope to Map, Identify Graves in Abandoned Cemetery"](http://bit.ly/Jx7d2h). Diverse Issues in Higher Education.
-
-
-## Honorary and Professional Memberships Held
-
-Present:  
-Standby Task Force (STF)
-
-Association of American Geographers (AAG)
-
-Gamma Theta Upsilon (international geographic honorary society).
-
-Past:
-
-  
-2007-2009 Association for Computing Machinery (ACM)
-
-2007-2008 Association of Pacific Coast Geographers (APCG)
-
-2004-2005 Association for Asian Studies (AAS)
-
-2003-2004 Southeast Division of the AAG (SEDAAG)
 
 ## Peer Reviews Provided
 
--Geography Compass 
-Cartographica
+	GeoJournal
 
-Plenum: A Journal of Geography
+	Cartographica
 
-US National Report to the International Cartographic Association
+	Geography Compass
 
-International Journal of Applied Geospatial Research
+	Plenum: A Journal of Geography (x2)
 
-## Non-Academic Work Experience
+	International Journal of Applied Geospatial Research
+
+	US National Report to the International Cartographic Association
+
+
+## Additional Professional Service<a name="addProf"></a>
+
+2012-2013	Leadership Collective Member, Socialist & Critical Geography Specialty Group of the AAG
+
+2012-2013	Research Assistant, Commons Lab, Woodrow Wilson International Center for Scholars
+
+2008-2012	Webmaster, Socialist & Critical Geography Specialty Group of the AAG
+
+2011-2012	Primary Project Liaison, "Making the University Public" Graduate Interest Group
+
+2011-2012	Graduate Policy Committee Representative, Department of Geography, UW
+
+2010-2011	Co-president (with Chris Lizotte) of the Geography Dept Graduate Student Association
+
+2007-2008	SDSU Geography Colloquium Planning Committee
+
+2002-2006	EKU Honors Program scholar
+
+2002-2004	EKU Geography Club President once and Secretary twice
+
+## Mentions in Press<a name="press"></a>
+
+2013	"Guidance for Collaborating with Formal Humanitarian Organizations." Digital Humanitarian Network. Retrieved 8/13/2013 from http://app.box.com/s/w25sqotkg4qc2f2ch1ii.
+
+2012	"Doctoral Student Ryan Burns Selected to Present on Digital Scholarship at UW HuskyFest 2012." Simpson Center for the Humanities Center News. Retrieved 4/22/2012 from http://bit.ly/HUCIQS.
+
+2012	"UW Leads in Connecting Scholarship with Community." UW Today. Retrieved 4/22/2012 from http://bit.ly/yQ77sX.
+
+2011	"Certificate in Public Scholarship Fellows Represent UW at Imagining America Conference." Simpson Center for the Humanities Center News. Retrieved 4/22/2012 from http://bit.ly/IgG6bl. 
+
+2005	"Researchers Hope to Map, Identify Graves in Abandoned Cemetery." Diverse Issues in Higher Education. Retrieved 4/22/2012 from http://bit.ly/Jx7d2h. 
+
+
+
+## Non-Academic Work Experience<a name="work"></a>
 
 - GIS Specialist (August 2008-July 2009)  
 Helix Environmental Planning, Inc.; Justin Palmer (619)462-1515  
@@ -273,6 +318,6 @@ Summary of duties: Update city maps; GPS gathering of new data; analysis of land
 Concord Custom Cleaners; Mike Webster (859)269-9412  
 Summary of duties: Prepare clothing for cleaning, manage inventory maintenance, customer service representation, and general store maintenance.
 
-## Technological Proficiency (messy)
+## Technological Proficiency (messy)<a name="tech"></a>
 
 <img src="/assets/uploads/Digital-technology-proficiency.png" />
