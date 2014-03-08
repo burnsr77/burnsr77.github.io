@@ -4,34 +4,34 @@ author: rlburns
 layout: layout
 ---
 
-[Click here for the much neater, and up-to-date PDF version]\(/assets/uploads/Burns_CV.pdf\)
+[Click here for the much neater, and up-to-date PDF version](/assets/uploads/Burns_CV.pdf)
 
 See below for HTML version, with links \(where available\).
 
 go to:  
-[education]\(#education\)
+[education](#education)
 
-[affiliations]\(#affiliations\)
+[affiliations](#affiliations)
 
-[awards]\(#awards\)   
+[awards](#awards)   
 
-[publications]\(#pubs\)  
+[publications](#pubs)  
 
-[presentations]\(#presentations\)
+[presentations](#presentations)
 
-[research]\(#addResearch\)   
+[research](#addResearch)   
 
-[teaching]\(#teaching\)   
+[teaching](#teaching)   
 
-[peer reviews]\(#review\)  
+[peer reviews](#review)  
 
-[memberships]\(#addProf\)  
+[memberships](#addProf)  
 
-[press coverage]\(#press\) 
+[press coverage](#press) 
 
-[work]\(#work\)  
+[work](#work)
 
-[technology experience]\(#tech\)  
+[technology experience](#tech)  
 
 
 
@@ -110,11 +110,11 @@ Member, Association of American Geographers \(AAG\)
 ## Publications <a name="pubs"></a>
 
 *Peer-reviewed Articles *
-2014 Burns, Ryan. <a href="/assets/uploads/burns_moments_of_closure.pdf">Moments of Closure in the Knowledge Politics of Digital Humanitarianism</a>. *Geoforum* 53 \(2\): 51-62.
+2014 Burns, Ryan. [Moments of Closure in the Knowledge Politics of Digital Humanitarianism]("/assets/uploads/burns_moments_of_closure.pdf"). *Geoforum* 53 \(2\): 51-62.
 
-2013 Shanley, Lea, R. Burns, Z. Bastian, E. Robson. <a href="/assets/uploads/shanley_burns_et_al_tweeting_up_storm.pdf">Tweeting Up a Storm: The Promise and Perils of Crisis Mapping</a>. *Photogrammetric Engineering &amp; Remote Sensing* 79 \(10\): 865-879. 
+2013 Shanley, Lea, R. Burns, Z. Bastian, E. Robson. [Tweeting Up a Storm: The Promise and Perils of Crisis Mapping]("/assets/uploads/shanley_burns_et_al_tweeting_up_storm.pdf"). *Photogrammetric Engineering &amp; Remote Sensing* 79 \(10\): 865-879. 
 
-2013 Burns, Ryan, A. Skupin. <a href="/assets/uploads/burns_skupin-visualization_of_attribute_spaces_involving_places_people_and_utterances.pdf">Towards Qualitative Geovisual Analytics: A Case Study Involving Places, People, and Mediated Experience</a>. *Cartographica* 48\(3\): 157-176.
+2013 Burns, Ryan, A. Skupin. [Towards Qualitative Geovisual Analytics: A Case Study Involving Places, People, and Mediated Experience]("/assets/uploads/burns_skupin-visualization_of_attribute_spaces_involving_places_people_and_utterances.pdf"). *Cartographica* 48\(3\): 157-176.
 
 *In press* Burns, Ryan, D. Meek. The Politics of Knowledge Production in the Geoweb. Special Issue of *ACME: An International E-Journal for Critical Geographies*. 
 
@@ -124,7 +124,7 @@ Member, Association of American Geographers \(AAG\)
 
 
 *Conference Proceedings and White Papers*
-2013	Burns, Ryan, L. Shanley. <a href="/assets/uploads/burns_shanley_workshop_report.pdf">Connecting Grassroots to Government for Disaster Management: Workshop Summary</a>. Woodrow Wilson International Center for Scholars. http://www.scribd.com/doc/165813847/Connecting-Grassroots-to-Government-for-Disaster-Management-Workshop-Summary \(last accessed 3/7/2014\).
+2013	Burns, Ryan, L. Shanley. [Connecting Grassroots to Government for Disaster Management: Workshop Summary]("/assets/uploads/burns_shanley_workshop_report.pdf"). Woodrow Wilson International Center for Scholars. http://www.scribd.com/doc/165813847/Connecting-Grassroots-to-Government-for-Disaster-Management-Workshop-Summary \(last accessed 3/7/2014\).
 
 2012	Burns, Ryan. Connecting Grassroots to Government for Disaster Management. Woodrow Wilson International Center for Scholars. http://bit.ly/OC4kmD \(last accessed 9/18/2012\).
 
@@ -182,7 +182,7 @@ Member, Association of American Geographers \(AAG\)
 
 2012	Organizer. "Connecting Grassroots to Government for Disaster Management: A Policy Roundtable." Organizer with Lea Shanley, John Crowley, and Alyson Lyons. Washington, DC. For list of panelists, see: http://www.wilsoncenter.org/sites/default/files/GrassrootstoGovernmentAgenda-9.9.12_0.pdf 
 
-2011-2012	Organizer. Series of 6 panels and roundtables on "Making the University Public", a Graduate Interest Group through the Simpson Center for the Humanities, UW. Seattle, WA. Panels included: Susan Jeffords \(Vice Chancellor for Academic Affairs, UW – Bothell\), Kari Lerum \(UW – Bothell\), Tad Hirsch \(Design, UW\), Jentery Sayers \(English, University of Victoria\), John Vallier \(UW Libraries\), Richa Nagar \(Department of Gender, Women, and Sexuality Studies, University of Minnesota\).
+2011-2012	Organizer. Series of 6 panels and roundtables on "Making the University Public", a Graduate Interest Group through the Simpson Center for the Humanities, UW. Seattle, WA. Panels included: Susan Jeffords \(Vice Chancellor for Academic Affairs, UW - Bothell\), Kari Lerum \(UW - Bothell\), Tad Hirsch \(Design, UW\), Jentery Sayers \(English, University of Victoria\), John Vallier \(UW Libraries\), Richa Nagar \(Department of Gender, Women, and Sexuality Studies, University of Minnesota\).
 
 2011	Organizer. "Critical Perspectives on Software &amp; Space." Organizer with Joe Eckert. Annual meeting of the AAG. Seattle, WA. Presenting panelists: Mark Graham, Matt Zook, Rob Kitchin, Wendy Chun \(Modern Culture and Media, Brown University\). Chair: Sarah Elwood. Discussant: Matt Wilson.
 
@@ -192,7 +192,7 @@ Member, Association of American Geographers \(AAG\)
 
 2013	"Critical Interventions into Gender &amp; the Geoweb." Annual meeting of the AAG. Los Angeles, CA. Presenting panelists: Brent Hecht, Monica Stephens, Michele Masucci, Adrianne Wadewitz \(Center of Digital Learning and Research, Occidental College\).
 
-2013	"Crowdsourcing Crisis in the GeoWeb: A Critical Look." Annual meeting of the AAG. Los Angeles, CA. Organized by Barbara Poore and Sophia Liu. Presenters: Katrina Petersen \(Communication, University of California – Santa Barbara\), Andrés Monroy-Hernández \(Microsoft Research\), Megan Finn \(Microsoft Research\), Cameran Ashraf \(University of California – Los Angeles\).
+2013	"Crowdsourcing Crisis in the GeoWeb: A Critical Look." Annual meeting of the AAG. Los Angeles, CA. Organized by Barbara Poore and Sophia Liu. Presenters: Katrina Petersen \(Communication, University of California - Santa Barbara\), Andrés Monroy-Hernández \(Microsoft Research\), Megan Finn \(Microsoft Research\), Cameran Ashraf \(University of California - Los Angeles\).
 
 
 ## Additional Research and GIS Experience <a name="addResearch"></a>
