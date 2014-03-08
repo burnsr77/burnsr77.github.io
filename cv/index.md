@@ -110,11 +110,11 @@ Member, Association of American Geographers \(AAG\)
 ## Publications <a name="pubs"></a>
 
 *Peer-reviewed Articles *
-2014 Burns, Ryan. [Moments of Closure in the Knowledge Politics of Digital Humanitarianism]("/assets/uploads/burns_moments_of_closure.pdf"). *Geoforum* 53 \(2\): 51-62.
+2014 Burns, Ryan. [Moments of Closure in the Knowledge Politics of Digital Humanitarianism](/assets/uploads/burns_moments_of_closure.pdf). *Geoforum* 53 \(2\): 51-62.
 
-2013 Shanley, Lea, R. Burns, Z. Bastian, E. Robson. [Tweeting Up a Storm: The Promise and Perils of Crisis Mapping]("/assets/uploads/shanley_burns_et_al_tweeting_up_storm.pdf"). *Photogrammetric Engineering &amp; Remote Sensing* 79 \(10\): 865-879. 
+2013 Shanley, Lea, R. Burns, Z. Bastian, E. Robson. [Tweeting Up a Storm: The Promise and Perils of Crisis Mapping](/assets/uploads/shanley_burns_et_al_tweeting_up_storm.pdf). *Photogrammetric Engineering &amp; Remote Sensing* 79 \(10\): 865-879. 
 
-2013 Burns, Ryan, A. Skupin. [Towards Qualitative Geovisual Analytics: A Case Study Involving Places, People, and Mediated Experience]("/assets/uploads/burns_skupin-visualization_of_attribute_spaces_involving_places_people_and_utterances.pdf"). *Cartographica* 48\(3\): 157-176.
+2013 Burns, Ryan, A. Skupin. [Towards Qualitative Geovisual Analytics: A Case Study Involving Places, People, and Mediated Experience](/assets/uploads/burns_skupin-visualization_of_attribute_spaces_involving_places_people_and_utterances.pdf). *Cartographica* 48\(3\): 157-176.
 
 *In press* Burns, Ryan, D. Meek. The Politics of Knowledge Production in the Geoweb. Special Issue of *ACME: An International E-Journal for Critical Geographies*. 
 
@@ -124,7 +124,7 @@ Member, Association of American Geographers \(AAG\)
 
 
 *Conference Proceedings and White Papers*
-2013	Burns, Ryan, L. Shanley. [Connecting Grassroots to Government for Disaster Management: Workshop Summary]("/assets/uploads/burns_shanley_workshop_report.pdf"). Woodrow Wilson International Center for Scholars. http://www.scribd.com/doc/165813847/Connecting-Grassroots-to-Government-for-Disaster-Management-Workshop-Summary \(last accessed 3/7/2014\).
+2013	Burns, Ryan, L. Shanley. [Connecting Grassroots to Government for Disaster Management: Workshop Summary](/assets/uploads/burns_shanley_workshop_report.pdf). Woodrow Wilson International Center for Scholars. http://www.scribd.com/doc/165813847/Connecting-Grassroots-to-Government-for-Disaster-Management-Workshop-Summary \(last accessed 3/7/2014\).
 
 2012	Burns, Ryan. Connecting Grassroots to Government for Disaster Management. Woodrow Wilson International Center for Scholars. http://bit.ly/OC4kmD \(last accessed 9/18/2012\).
 
