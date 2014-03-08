@@ -26,7 +26,7 @@ to read in 2012:
 
 <strike>*Brave New World*, Aldous Huxley  </strike>
 
-*Ulysses*, James Joyce (i'm already halfway through this)  
+*Ulysses*, James Joyce \(i'm already halfway through this\)  
 
 *Neuromancer*, William Gibson  
 
