@@ -6,13 +6,10 @@ permalink: /2011/02/seven-bowls-of-tea/
 categories:
   - Uncategorized
 ---
-# 
 
-Came across this poem on the [Rec.Food.Drink.Tea Google group][1]  
+Came across this poem on the [Rec.Food.Drink.Tea Google group](http://groups.google.com/group/rec.food.drink.tea/topics)    
 Lu Tong's Seven Bowls of Tea
 -Lu Tong (Tang. 790~835)
-
- [1]: http://groups.google.com/group/rec.food.drink.tea/topics
 
 The first bowl moistens my lips and throat; 
 The second bowl breaks my loneliness;

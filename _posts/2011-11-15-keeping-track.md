@@ -1,12 +1,11 @@
 ---
-title: keeping track?
+title: keeping track
 author: rlburns
 layout: post
 permalink: /2011/11/keeping-track/
 categories:
   - Uncategorized
 ---
-# 
 
 Let's test this whole crowdsourcing business here (not that I get a whole hell of a lot of comments, but hey...).
 

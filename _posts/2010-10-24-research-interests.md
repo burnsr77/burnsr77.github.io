@@ -1,12 +1,11 @@
 ---
-title: 'My research interests- for a layperson'
+title: My research interests for a layperson
 author: rlburns
 layout: post
 permalink: /2010/10/research-interests/
 categories:
   - Uncategorized
 ---
-# 
 
 EDIT: if any geographers, social theory-heads, or anyone else want a more nuanced theoretically-driven discussion of my work, see my preliminary exam statement under the "dissertation" section of this site.
 
