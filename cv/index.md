@@ -9,18 +9,18 @@ layout: layout
 See below for HTML version, with links \(where available\).
 
 go to:  
-[education](#education)
-[affiliations](#affiliations)
+[education](#education)   
+[affiliations](#affiliations)   
 [awards](#awards)   
-[publications](#pubs)  
-[presentations](#presentations)
+[publications](#pubs)   
+[presentations](#presentations)   
 [research](#addResearch)   
 [teaching](#teaching)   
-[peer reviews](#review)  
-[memberships](#addProf)  
-[press coverage](#press) 
-[work](#work)
-[technology experience](#tech)  
+[peer reviews](#review)   
+[memberships](#addProf)   
+[press coverage](#press)   
+[work](#work)   
+[technology experience](#tech)   
 
 
 <a name="education"> </a>
