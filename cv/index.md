@@ -24,6 +24,7 @@ go to:
 
 
 <a name="education"> </a>
+
 ## Education 
 
 2009-present Ph.D. Geography  
@@ -51,6 +52,7 @@ Adviser: David Zurick
 
 
 <a name="affiliations"> </a>
+
 ## Affiliations
 
 HASTAC Scholar, Humanities, Arts, Science, and Technology Alliance and Collaboratory \(HASTAC\)
@@ -65,6 +67,7 @@ Member, Association of American Geographers \(AAG\)
 
 
 <a name="awards"> </a>
+
 ## Grants, Fellowships, and Awards
 
 2013 United Nations Office for the Coordination of Humanitarian Affairs: "Humanitarian Research and Innovation Grant" \($4000\)
@@ -99,6 +102,7 @@ Member, Association of American Geographers \(AAG\)
 
 
 <a name="pubs"> </a>
+
 ## Publications
 
 *Peer-reviewed Articles *
@@ -106,7 +110,7 @@ Member, Association of American Geographers \(AAG\)
 
 2013 Shanley, Lea, R. Burns, Z. Bastian, E. Robson. [Tweeting Up a Storm: The Promise and Perils of Crisis Mapping](/assets/uploads/shanley_burns_et_al_tweeting_up_storm.pdf). *Photogrammetric Engineering &amp; Remote Sensing* 79 \(10\): 865-879. 
 
-2013 Burns, Ryan, A. Skupin. [Towards Qualitative Geovisual Analytics: A Case Study Involving Places, People, and Mediated Experience](/assets/uploads/burns_skupin-visualization_of_attribute_spaces_involving_places_people_and_utterances.pdf). *Cartographica* 48\(3\): 157-176.
+2013 Burns, Ryan, A. Skupin. [Towards Qualitative Geovisual Analytics: A Case Study Involving Places, People, and Mediated Experience](/assets/uploads/burns_skupin_towards_qualitative_geovisual_analytics.pdf). *Cartographica* 48\(3\): 157-176.
 
 *In press* Burns, Ryan, D. Meek. The Politics of Knowledge Production in the Geoweb. Special Issue of *ACME: An International E-Journal for Critical Geographies*. 
 
@@ -133,6 +137,7 @@ Member, Association of American Geographers \(AAG\)
 
 
 <a name="presentations"> </a>
+
 ## Conference Presentations
 
 *Papers presented*
@@ -189,6 +194,7 @@ Member, Association of American Geographers \(AAG\)
 
 
 <a name="addResearch"> </a>
+
 ## Additional Research and GIS Experience
 
 2009-2012 Research Assistant: Dr. Sarah Elwood, Mapping Youth Journeys
@@ -215,6 +221,7 @@ Member, Association of American Geographers \(AAG\)
 
 
 <a name="teaching"> </a>
+
 ## Teaching Experience
 
 *Full Courses*
@@ -241,6 +248,7 @@ Member, Association of American Geographers \(AAG\)
 
 
 <a name="review"> </a>
+
 ## Peer Reviews Provided
 
 	GeoJournal
@@ -257,6 +265,7 @@ Member, Association of American Geographers \(AAG\)
 
 
 <a name="addProf"> </a>
+
 ## Additional Professional Service
 
 2012-2013	Leadership Collective Member, Socialist &amp; Critical Geography Specialty Group of the AAG
@@ -279,6 +288,7 @@ Member, Association of American Geographers \(AAG\)
 
 
 <a name="press"> </a>
+
 ## Mentions in Press
 
 2013	"Guidance for Collaborating with Formal Humanitarian Organizations." Digital Humanitarian Network. Retrieved 8/13/2013 from http://app.box.com/s/w25sqotkg4qc2f2ch1ii.
@@ -293,6 +303,7 @@ Member, Association of American Geographers \(AAG\)
 
 
 <a name="work"> </a>
+
 ## Non-Academic Work Experience
 
 - GIS Specialist \(August 2008-July 2009\)  
@@ -319,6 +330,7 @@ Summary of duties: Prepare clothing for cleaning, manage inventory maintenance, 
 
 
 <a name="tech"> </a>
+
 ## Technological Proficiency \(messy\)
 
 <img src="/assets/uploads/Digital-technology-proficiency.png" />
