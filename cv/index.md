@@ -129,9 +129,11 @@ Member, Association of American Geographers \(AAG\)
 
 *Maps*
 
-2011	Collection of 5 maps/screenshots from the Mapping Youth Journeys project website. In K. Mitchell, S. Elwood, "Creating Engaged Students and Civic Actors through Mapping Local History," Journal of Geography 111\(4\): 148-157. 
+2011	[Collection of 3 maps] In Ramamurthy, P., "Rearticulating Caste: The Global Cottonseed Commodity Chain and the Paradox of Smallholder Capitalism in South India," Environment and Planning A 43: 1035-1056.
 
-2010	[Collection of 6 maps about poverty in the Pacific Northwest] In V. Lawson, L. Jarosz and A. Bonds, "Dumping Grounds and Unseen Grounds: Placing Race, Ethnicity and Poverty in the American Northwest," Annals of the Association of American Geographers 100\(3\): 655-677.
+2011	[Collection of 5 maps/screenshots from the Mapping Youth Journeys project website] In K. Mitchell, S. Elwood, "Engaging Students through Mapping Local History," Journal of Geography 111\(4\): 148-157. 
+
+2010	[Collection of 6 maps about poverty in the Pacific Northwest] In V. Lawson, L. Jarosz and A. Bonds, "Articulations of Place, Poverty, and Race: Dumping Grounds and Unseen Grounds in the Rural American Northwest," Annals of the Association of American Geographers 100\(3\): 655-677.
 
 2007	Map of Ecuador, Including the Extension of Páramo Grasslands and the Location of the Aglomerados, S.A. \(ACOSA\) Plantation. In K. Farley, "Grasslands to Tree Plantations: Forest Transition in the Andes of Ecuador," Annals of the Association of American Geographers 97\(4\): 760.
 
