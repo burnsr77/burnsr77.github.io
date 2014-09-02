@@ -114,13 +114,13 @@ Accepted Burns, Ryan. Rethinking Big Data in Digital Humanitarianism: Practices,
 2013 Burns, Ryan, A. Skupin. [Towards Qualitative Geovisual Analytics: A Case Study Involving Places, People, and Mediated Experience](/assets/uploads/burns_skupin_towards_qualitative_geovisual_analytics.pdf). *Cartographica* 48\(3\): 157-176.
 
 
-<b>*Edited Journal Issues \(with Peer Review\)*</b>
+<b>*Edited Journal Issues \(with Peer Review\)*</b>   
 *In press* Burns, Ryan, D. Meek. The Politics of Knowledge Production in the Geoweb. Special Issue of *ACME: An International E-Journal for Critical Geographies*. 
 
 *Accepted* Burns, Ryan, J. Thatcher. What's So Big about Big Data? Finding the Spaces and Perils of Big Data. Special Issue of *GeoJournal*.
 
 
-<b>*Conference Proceedings and White Papers*</b>
+<b>*Conference Proceedings and White Papers*</b>   
 2013	Burns, Ryan, L. Shanley. [Connecting Grassroots to Government for Disaster Management: Workshop Summary](/assets/uploads/burns_shanley_workshop_report.pdf). Woodrow Wilson International Center for Scholars. http://www.scribd.com/doc/165813847/Connecting-Grassroots-to-Government-for-Disaster-Management-Workshop-Summary \(last accessed 3/7/2014\).
 
 2012	Burns, Ryan. Connecting Grassroots to Government for Disaster Management. Woodrow Wilson International Center for Scholars. http://bit.ly/OC4kmD \(last accessed 9/18/2012\).
@@ -128,7 +128,7 @@ Accepted Burns, Ryan. Rethinking Big Data in Digital Humanitarianism: Practices,
 2009	Burns, Ryan, A. Skupin. Mapping Places, People, and Utterances to Visualize the Experience of Place. In Proceedings of the 24th International Cartographic Conference, Santiago, Chile \(CD-ROM\). http://bit.ly/POhGuu \(last accessed 9/12/2012\). 
 
 
-<b>*Published Maps*</b>
+<b>*Published Maps*</b>   
 
 2011	[Collection of 3 maps] In Ramamurthy, P., "Rearticulating Caste: The Global Cottonseed Commodity Chain and the Paradox of Smallholder Capitalism in South India," Environment and Planning A 43: 1035-1056.
 
@@ -143,7 +143,7 @@ Accepted Burns, Ryan. Rethinking Big Data in Digital Humanitarianism: Practices,
 
 ## Conference Presentations
 
-<b>*Papers presented*</b>
+<b>*Papers presented*</b>   
 
 2014 "The Digital Humanitarian Moment: New Practices, Knowledge Politics, and Philanthro-capitalism." University of Washington Department of Geography Colloquium. Seattle, WA.
 
@@ -174,7 +174,7 @@ Accepted Burns, Ryan. Rethinking Big Data in Digital Humanitarianism: Practices,
 2005 "Is Small-town Kentucky Ready to Grow? Community Readiness for Growth and Development Along the I-75 Corridor." Posters-at-the-Capitol, Frankfort, KY. Poster presentation. Co-presented with Ricardo Hernandez. 
 
 
-<b>*Panel Participation &amp; Sessions Organized*</b>
+<b>*Panel Participation &amp; Sessions Organized*</b>   
 
 2015 (expected) Organizer. Critical Data, Critical Technology: in Theory. Annual meeting of the AAG. Chicago, IL.
 
@@ -197,7 +197,7 @@ Accepted Burns, Ryan. Rethinking Big Data in Digital Humanitarianism: Practices,
 2011	Organizer. "Critical Perspectives on Software &amp; Space." Organizer with Joe Eckert. Annual meeting of the AAG. Seattle, WA. Presenting panelists: Mark Graham, Matt Zook, Rob Kitchin, Wendy Chun \(Modern Culture and Media, Brown University\). Chair: Sarah Elwood. Discussant: Matt Wilson.
 
 
-<b>*Discussant*</b>
+<b>*Discussant*</b>   
 
 2014	"Disaster Time: Critical Perspectives on Crisis Informatics and the Temporal Aspects of Disasters." Annual meeting of the AAG. Tampa, FL.
 
@@ -241,7 +241,7 @@ Accepted Burns, Ryan. Rethinking Big Data in Digital Humanitarianism: Practices,
 
 ## Teaching Experience
 
-<b>*Full Courses*</b>
+<b>*Full Courses*</b>   
 
 2014 GEOG 301: "Cultural Geography"
 
@@ -249,7 +249,7 @@ Accepted Burns, Ryan. Rethinking Big Data in Digital Humanitarianism: Practices,
 
 2012 GEOG 461: "Urban GIS"
 
-<b>*Invited Lectures*</b>
+<b>*Invited Lectures*</b>   
 
 2014 Guest lecture in GEOG 277: "Geographies of Cities"
 
@@ -259,7 +259,7 @@ Accepted Burns, Ryan. Rethinking Big Data in Digital Humanitarianism: Practices,
 
 2010 "Participatory Mapping" Imagining America Site Visit
 
-<b>*Teaching Assistant*</b>
+<b>*Teaching Assistant*</b>   
 
 2014 UW Geography Teaching Assistant: Introduction to GIS
 
