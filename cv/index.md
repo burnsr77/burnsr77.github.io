@@ -15,12 +15,11 @@ go to:
 [publications](#pubs)   
 [presentations](#presentations)   
 [research](#addResearch)   
-[teaching](#teaching)   
+[teaching](#teaching)     
+[service](#addProf) 
 [peer reviews](#review)   
-[memberships](#addProf)   
-[press coverage](#press)   
-[work](#work)   
-[technology experience](#tech)   
+[public scholarship](#press) 
+[technology proficiencies](#tech)   
 
 
 <a name="education"> </a>
@@ -29,7 +28,7 @@ go to:
 
 2009-present Ph.D. Geography  
 University of Washington  
-Committee: Sarah Elwood, Mark Ellis, Victoria Lawson, Jin-Kyu Jung \(Graduate Student Representative\)
+Committee: Sarah Elwood, Mark Ellis, Victoria Lawson, Jin-Kyu Jung \(Interdisciplinary Arts and Sciences, UW-Bothell\)
 Dissertation title: The Inequality of the Geospatial Web: How Emerging Geographic Technologies Influence Humanitarian Practices
 
 2010-present Graduate Certificate in Public Scholarship  
@@ -57,9 +56,9 @@ Adviser: David Zurick
 
 HASTAC Scholar, Humanities, Arts, Science, and Technology Alliance and Collaboratory \(HASTAC\)
 
-Secretary and Treasurer, Geographic Information Systems and Science Specialty Group of the AAG
+Member, International Association of Emergency Managers
 
-Member, Standby Task Force
+Member, Standby Task Force \(digital humanitarian organization\)
 
 Member, Gamma Theta Upsilon \(international geographic honorary society\)
 
@@ -72,7 +71,7 @@ Member, Association of American Geographers \(AAG\)
 
 2013 United Nations Office for the Coordination of Humanitarian Affairs: "Humanitarian Research and Innovation Grant" \($4000\)
 
-2013 UW Graduate School Gerlach Award \(\~$3,000\) 
+2013 UW Graduate School Gerlach Award \(\$3,000\) 
 
 2011-2012 Simpson Center for the Humanities Graduate Interest Group Funding \($1,000\) 
 
@@ -86,7 +85,7 @@ Member, Association of American Geographers \(AAG\)
 
 2009 International Cartographic Association \(ICA\) Travel Scholarship \($1,800\)
 
-2009 UW Geography Top Scholar Award \(1 year of funding: \~$9,000\)
+2009 UW Geography Top Scholar Award \(1 year of funding: \$9,000\)
 
 2009 Cartography &amp; Geographic Information Society \(CaGIS\) Master's Award \($500\)
 
@@ -106,15 +105,17 @@ Member, Association of American Geographers \(AAG\)
 ## Publications
 
 *Peer-reviewed Articles *
+Accepted Burns, Ryan. Rethinking Big Data in Digital Humanitarianism: Practices, Epistemologies, and Social Relations. *GeoJournal*
+
 2014 Burns, Ryan. [Moments of Closure in the Knowledge Politics of Digital Humanitarianism](/assets/uploads/burns_moments_of_closure.pdf). *Geoforum* 53 \(2\): 51-62.
 
 2013 Shanley, Lea, R. Burns, Z. Bastian, E. Robson. [Tweeting Up a Storm: The Promise and Perils of Crisis Mapping](/assets/uploads/shanley_burns_et_al_tweeting_up_storm.pdf). *Photogrammetric Engineering &amp; Remote Sensing* 79 \(10\): 865-879. 
 
 2013 Burns, Ryan, A. Skupin. [Towards Qualitative Geovisual Analytics: A Case Study Involving Places, People, and Mediated Experience](/assets/uploads/burns_skupin_towards_qualitative_geovisual_analytics.pdf). *Cartographica* 48\(3\): 157-176.
 
-*In press* Burns, Ryan, D. Meek. The Politics of Knowledge Production in the Geoweb. Special Issue of *ACME: An International E-Journal for Critical Geographies*. 
 
-*Accepted* Burns, Ryan. Rethinking Big Data in Digital Humanitarianism: Practices, Epistemologies, and Social Relations. *GeoJournal*.
+*Edited Journal Issues \(with Peer Review\)
+*In press* Burns, Ryan, D. Meek. The Politics of Knowledge Production in the Geoweb. Special Issue of *ACME: An International E-Journal for Critical Geographies*. 
 
 *Accepted* Burns, Ryan, J. Thatcher. What's So Big about Big Data? Finding the Spaces and Perils of Big Data. Special Issue of *GeoJournal*.
 
@@ -127,7 +128,7 @@ Member, Association of American Geographers \(AAG\)
 2009	Burns, Ryan, A. Skupin. Mapping Places, People, and Utterances to Visualize the Experience of Place. In Proceedings of the 24th International Cartographic Conference, Santiago, Chile \(CD-ROM\). http://bit.ly/POhGuu \(last accessed 9/12/2012\). 
 
 
-*Maps*
+*Published Maps*
 
 2011	[Collection of 3 maps] In Ramamurthy, P., "Rearticulating Caste: The Global Cottonseed Commodity Chain and the Paradox of Smallholder Capitalism in South India," Environment and Planning A 43: 1035-1056.
 
@@ -144,7 +145,9 @@ Member, Association of American Geographers \(AAG\)
 
 *Papers presented*
 
-2014 \(expected\) "Rethinking Knowledge Politics through Digital Humanitarianism." Annual meeting of the AAG. Tampa, FL.
+2014 "The Digital Humanitarian Moment: New Practices, Knowledge Politics, and Philanthro-capitalism." University of Washington Department of Geography Colloquium. Seattle, WA.
+
+2014 "Rethinking Knowledge Politics through Digital Humanitarianism." Annual meeting of the AAG. Tampa, FL.
 
 2012 "Digital Public Scholarship: Mapping Youth Journeys." College of Arts &amp; Sciences Dean's Showcase. HuskyFest 2012. Seattle, WA.
 
@@ -170,11 +173,18 @@ Member, Association of American Geographers \(AAG\)
 
 2005 "Is Small-town Kentucky Ready to Grow? Community Readiness for Growth and Development Along the I-75 Corridor." Posters-at-the-Capitol, Frankfort, KY. Poster presentation. Co-presented with Ricardo Hernandez. 
 
-*Participation &amp; Sessions Organized*
 
-2014	\(expected\) Panelist. "Publishing, not Perishing: A Student's Guide to Academic Publishing." Annual meeting of the AAG. Tampa, FL.
+*Panel Participation &amp; Sessions Organized*
 
-2014	\(expected\) Panelist. "alt.conference on Big Data: Lightning Panel." Annual meeting of the AAG. Tampa, FL.
+2015 (expected) Organizer. Critical Data, Critical Technology: in Theory. Annual meeting of the AAG. Chicago, IL.
+
+2015 (expected) Organizer. Critical Data, Critical Technology: in Praxis. Annual meeting of the AAG. Chicago, IL.
+
+2014 (expected) Participant. "Revisiting Critical GIS". Friday Harbor Laboratories, Friday Harbor, WA. 
+
+2014	Panelist. "Publishing, not Perishing: A Student's Guide to Academic Publishing." Annual meeting of the AAG. Tampa, FL.
+
+2014	Panelist. "alt.conference on Big Data: Lightning Panel." Annual meeting of the AAG. Tampa, FL.
 
 2013	Organizer. "Whither Small Data?: The Limits of ‘Big Data' and the Value of ‘Small Data' Studies." Organizer with Jim Thatcher. Annual meeting of the AAG. Los Angeles, CA. Presenting panelists: Rob Kitchin, Jim Thatcher, Ralph Schroeder \(Oxford Internet Institute, Oxford University\), Taylor Shelton. Discussant: Andrés Monroy-Hernández \(Microsoft Research\).
 
@@ -186,9 +196,10 @@ Member, Association of American Geographers \(AAG\)
 
 2011	Organizer. "Critical Perspectives on Software &amp; Space." Organizer with Joe Eckert. Annual meeting of the AAG. Seattle, WA. Presenting panelists: Mark Graham, Matt Zook, Rob Kitchin, Wendy Chun \(Modern Culture and Media, Brown University\). Chair: Sarah Elwood. Discussant: Matt Wilson.
 
+
 *Discussant*
 
-2014	\(expected\) "Disaster Time: Critical Perspectives on Crisis Informatics and the Temporal Aspects of Disasters." Annual meeting of the AAG. Tampa, FL.
+2014	"Disaster Time: Critical Perspectives on Crisis Informatics and the Temporal Aspects of Disasters." Annual meeting of the AAG. Tampa, FL.
 
 2013	"Critical Interventions into Gender &amp; the Geoweb." Annual meeting of the AAG. Los Angeles, CA. Presenting panelists: Brent Hecht, Monica Stephens, Michele Masucci, Adrianne Wadewitz \(Center of Digital Learning and Research, Occidental College\).
 
@@ -197,7 +208,9 @@ Member, Association of American Geographers \(AAG\)
 
 <a name="addResearch"> </a>
 
-## Additional Research and GIS Experience
+## Additional Research Activities
+
+2014 Research Assistant: Dr. Matt Dunbar, Center for Studies in Demography and Ecology
 
 2009-2012 Research Assistant: Dr. Sarah Elwood, Mapping Youth Journeys
 
@@ -217,6 +230,8 @@ Member, Association of American Geographers \(AAG\)
 
 2003-2006 Assistant: Dr. Bruce Davis, producing an online atlas of the South Pacific using ArcScan and ArcIMS.
 
+2006 GIS Intern: City of Berea, KY. Supervised by Paul Schraeder.
+
 2005 Independent study in Viet Nam. Used MapInfo and ArcMap to map bookstores in Ho Chi Minh City. I combined this with 30 interviews, delving into bookstores' cultural significance to Viet Nam.
 
 2005 Senior thesis, expanding on the independent study, but focusing on how cultural globalization is affecting the influence of bookstores in Viet Nam. Presented at EKU in December, 2005.
@@ -228,13 +243,15 @@ Member, Association of American Geographers \(AAG\)
 
 *Full Courses*
 
-2014 \(expected\) GEOG 301: "Cultural Geography"
+2014 GEOG 301: "Cultural Geography"
 
 2013 GEOG 102: "The Making of World Regions"
 
 2012 GEOG 461: "Urban GIS"
 
 *Invited Lectures*
+
+2014 Guest lecture in GEOG 277: "Geographies of Cities"
 
 2012 Guest lecture in GEOG 469/569: "GIS Workshop"
 
@@ -244,39 +261,26 @@ Member, Association of American Geographers \(AAG\)
 
 *Teaching Assistant*
 
+2014 UW Geography Teaching Assistant: Introduction to GIS
+
 2012 UW Geography Teaching Assistant: Urban GIS, GIS Workshop
 
 2007-2008 SDSU Geography Teaching Assistant: Introduction to GIS \(twice\), Map Investigation, and Animated Cartographic Design
 
 
-<a name="review"> </a>
-
-## Peer Reviews Provided
-
-	GeoJournal
-
-	Cartographica
-
-	Geography Compass
-
-	Plenum: A Journal of Geography \(x2\)
-
-	International Journal of Applied Geospatial Research
-
-	US National Report to the International Cartographic Association
-
-
 <a name="addProf"> </a>
 
-## Additional Professional Service
+## Professional Service
 
-2012-2013	Leadership Collective Member, Socialist &amp; Critical Geography Specialty Group of the AAG
+2013-2014	Secretary and Treasurer, *"Geographic Information Systems and Science" Specialty Group of the AAG*
 
-2012-2013	Research Assistant, Commons Lab, Woodrow Wilson International Center for Scholars
+2012-2013	Leadership Collective Member, *"Socialist &amp; Critical Geography" Specialty Group of the AAG*
 
-2008-2012	Webmaster, Socialist &amp; Critical Geography Specialty Group of the AAG
+2012-2013	Research Assistant, *Commons Lab, Woodrow Wilson International Center for Scholars*
 
-2011-2012	Primary Project Liaison, "Making the University Public" Graduate Interest Group
+2008-2012	Webmaster, *"Socialist &amp; Critical Geography" Specialty Group of the AAG*
+
+2011-2012	Primary Project Liaison, *"Making the University Public" Graduate Interest Group*
 
 2011-2012	Graduate Policy Committee Representative, Department of Geography, UW
 
@@ -289,46 +293,42 @@ Member, Association of American Geographers \(AAG\)
 2002-2004	EKU Geography Club President once and Secretary twice
 
 
+<a name="review"> </a>
+
+## Manuscript Reviews
+
+	GeoJournal
+
+	Cartographica
+
+	Geography Compass \(x2\)
+
+	Plenum: A Journal of Geography \(x2\)
+
+	International Journal of Applied Geospatial Research
+
+	US National Report to the International Cartographic Association
+
+
 <a name="press"> </a>
 
-## Mentions in Press
+## Community and Public Scholarship
 
-2013	"Guidance for Collaborating with Formal Humanitarian Organizations." Digital Humanitarian Network. Retrieved 8/13/2013 from http://app.box.com/s/w25sqotkg4qc2f2ch1ii.
+2014 Impact Evaluation Framework public portfolio, in partial fulfillment of graduate certificate in public scholarship.
 
-2012	"Doctoral Student Ryan Burns Selected to Present on Digital Scholarship at UW HuskyFest 2012." Simpson Center for the Humanities Center News. Retrieved 4/22/2012 from http://bit.ly/HUCIQS.
+2013 Interview for the Digital Humanitarian Network, "Guidance for Collaborating with Formal Humanitarian Organizations." http://app.box.com/s/w25sqotkg4qc2f2ch1ii.
 
-2012	"UW Leads in Connecting Scholarship with Community." UW Today. Retrieved 4/22/2012 from http://bit.ly/yQ77sX.
+2012-2013 Participation in various digital humanitarian activations (Samoa, Dominican Republic, Typhoon Bopha)
 
-2011	"Certificate in Public Scholarship Fellows Represent UW at Imagining America Conference." Simpson Center for the Humanities Center News. Retrieved 4/22/2012 from http://bit.ly/IgG6bl. 
+2012 Interview for Simpson Center for the Humanities News, "Doctoral Student Ryan Burns Selected to Present on Digital Scholarship at UW HuskyFest 2012." http://bit.ly/HUCIQS.
 
-2005	"Researchers Hope to Map, Identify Graves in Abandoned Cemetery." Diverse Issues in Higher Education. Retrieved 4/22/2012 from http://bit.ly/Jx7d2h. 
+2012 Interview for UW Today, "UW Leads in Connecting Scholarship with Community." http://bit.ly/yQ77sX.
 
+2011 Attended Imagining America public scholarship conference. Coverage in "Certificate in Public Scholarship Fellows Represent UW at Imagining America Conference." Simpson Center for the Humanities Center News. http://bit.ly/IgG6bl.
 
-<a name="work"> </a>
+2010 Volunteered in "Participatory Mapping" Imagining America conference site visit 
 
-## Non-Academic Work Experience
-
-- GIS Specialist \(August 2008-July 2009\)  
-Helix Environmental Planning, Inc.; Justin Palmer \(619\)462-1515  
-Summary of Duties: Creating high-quality environmental, engineering, and governmental maps for a variety of clients. Providing spatial analysis related to transportation planning, construction engineering, sensitive/endangered species protection, wetland mitigation, and environmental monitoring. Utilizing advanced editing techniques, complex cartographic principles, and various software programs. CEQA &amp; NEPA report generation.
-
-- GIS Analyst/Cartographer \(July 2007-August 2007\)  
-Baja Directions; Chris Reed \(858\)793-9295
-
-Summary of Duties: Creating, maintaining, and updating bathymetric and recreational maps; creating and maintaining large geographic databases; handling large raster and vector datasets. Temporary position.
-
-- GIS Analyst \(July 2006-January 2007\)  
-IGIS Technologies, Inc.; Andres Abeyta \(619\)640-2330  
-Summary of Duties: Project manager for BIA in Alaska, editing, attributing, and digitizing land parcels from development plats; textbook editing; writing chapters of a new textbook on ArcMap 9.2. Textbook writing and editing required exhaustive knowledge of geodatabases, ArcCatalog, ArcToolbox, and ModelBuilder, as well as excellent writing and communication skills.
-
-- GIS Intern \(February 2006-June 2006\)
-
-City of Berea, KY; Paul Schrader \(859\)302-2449  
-Summary of duties: Update city maps; GPS gathering of new data; analysis of land use data through AutoCAD, GeoSync \(local GIS software\), and Excel; other GIS work using AutoCAD Map and other GeoSync/GIS software.
-
-- Customer Service Representative \(July 2005-June 2006\)  
-Concord Custom Cleaners; Mike Webster \(859\)269-9412  
-Summary of duties: Prepare clothing for cleaning, manage inventory maintenance, customer service representation, and general store maintenance.
+2005 Coverage of volunteer research work in "Researchers Hope to Map, Identify Graves in Abandoned Cemetery." Diverse Issues in Higher Education. http://bit.ly/Jx7d2h.
 
 
 <a name="tech"> </a>
