@@ -105,7 +105,7 @@ Member, Association of American Geographers \(AAG\)
 ## Publications
 
 <b>*Peer-reviewed Articles*</b>   
-Accepted Burns, Ryan. Rethinking Big Data in Digital Humanitarianism: Practices, Epistemologies, and Social Relations. *GeoJournal*
+Accepted Burns, Ryan. [Rethinking Big Data in Digital Humanitarianism: Practices, Epistemologies, and Social Relations](/assets/uploads/burns_big_data_dh.docx). *GeoJournal*
 
 2014 Burns, Ryan. [Moments of Closure in the Knowledge Politics of Digital Humanitarianism](/assets/uploads/burns_moments_of_closure.pdf). *Geoforum* 53 \(2\): 51-62.
 
