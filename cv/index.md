@@ -105,9 +105,12 @@ Member, Association of American Geographers \(AAG\)
 ## Publications
 
 <b>*Peer-reviewed Articles*</b>   
-Accepted Burns, Ryan. [Rethinking Big Data in Digital Humanitarianism: Practices, Epistemologies, and Social Relations](/assets/uploads/burns_big_data_dh.docx). *GeoJournal*
 
-2014 Burns, Ryan. [Moments of Closure in the Knowledge Politics of Digital Humanitarianism](/assets/uploads/burns_moments_of_closure.pdf). *Geoforum* 53 \(2\): 51-62.
+In press Burns, Ryan. [Rethinking Big Data in Digital Humanitarianism: Practices, Epistemologies, and Social Relations](/assets/uploads/burns_big_data_dh.docx). *GeoJournal*   
+
+In press Burns, Ryan, J. Thatcher. "Guest Editorial: What’s So Big about Big Data? Finding the Spaces and Perils of Big Data." *GeoJournal*.   
+
+2014 Burns, Ryan. [Moments of Closure in the Knowledge Politics of Digital Humanitarianism](/assets/uploads/burns_moments_of_closure.pdf). *Geoforum* 53 \(2\): 51-62.   
 
 2013 Shanley, Lea, R. Burns, Z. Bastian, E. Robson. [Tweeting Up a Storm: The Promise and Perils of Crisis Mapping](/assets/uploads/shanley_burns_et_al_tweeting_up_storm.pdf). *Photogrammetric Engineering &amp; Remote Sensing* 79 \(10\): 865-879. 
 
@@ -145,7 +148,11 @@ Accepted Burns, Ryan. [Rethinking Big Data in Digital Humanitarianism: Practices
 
 <b>*Papers presented*</b>   
 
-2014 "The Digital Humanitarian Moment: New Practices, Knowledge Politics, and Philanthro-capitalism." University of Washington Department of Geography Colloquium. Seattle, WA.
+2015 (expected) "'Let the private sector take care of this': Toward a Political Economy of Digital Humanitarianism". Annual meeting of the AAG. Chicago, IL.   
+
+2014 (expected) "Crisis Mapping as Social Process: Research and Policy Implications of New Digital Technologies". Keynote presentation at Crisis Mapping Seminar, Heidelberg University, Germany.   
+
+2014 "The Digital Humanitarian Moment: New Practices, Knowledge Politics, and Philanthro-capitalism." University of Washington Department of Geography Colloquium. Seattle, WA.   
 
 2014 "Rethinking Knowledge Politics through Digital Humanitarianism." Annual meeting of the AAG. Tampa, FL.
 
@@ -251,6 +258,8 @@ Accepted Burns, Ryan. [Rethinking Big Data in Digital Humanitarianism: Practices
 
 <b>*Invited Lectures*</b>   
 
+2014 Guest lecture in GEOG 360: "Introduction to GIS"   
+
 2014 Guest lecture in GEOG 277: "Geographies of Cities"
 
 2012 Guest lecture in GEOG 469/569: "GIS Workshop"
@@ -301,7 +310,7 @@ Accepted Burns, Ryan. [Rethinking Big Data in Digital Humanitarianism: Practices
 
 	Cartographica
 
-	Geography Compass \(x2\)
+	Geography Compass \(x3\)
 
 	Plenum: A Journal of Geography \(x2\)
 
