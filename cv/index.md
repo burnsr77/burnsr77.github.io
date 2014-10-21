@@ -118,7 +118,7 @@ In review	Burns, Ryan. "Synergies between Geoweb and Digital Humanitarian Resear
 
 2013	Shanley, Lea, R. Burns, Z. Bastian, E. Robson. "[Tweeting Up a Storm: The Promise and Perils of Crisis Mapping.](/assets/uploads/shanley_burns_et_al_tweeting_up_storm.pdf)" Photogrammetric Engineering & Remote Sensing 79 (10): 865-879. 
 
-2013	Burns, Ryan, A. Skupin. Towards Qualitative Geovisual Analytics: A Case Study Involving Places, People, and Mediated Experience.](/assets/uploads/burns_skupin-visualization_attribute_spaces.pdf)" Cartographica 48(3): 157-176.
+2013	Burns, Ryan, A. Skupin. "[Towards Qualitative Geovisual Analytics: A Case Study Involving Places, People, and Mediated Experience.](/assets/uploads/burns_skupin-visualization_attribute_spaces.pdf)" Cartographica 48(3): 157-176.
 
 
 <b>*Edited Journal Issues \(with Peer Review\)*</b>   
