@@ -104,17 +104,21 @@ Member, Association of American Geographers \(AAG\)
 
 ## Publications
 
-<b>*Peer-reviewed Articles*</b>   
+<b>*Peer-reviewed Articles and Book Chapters*</b>   
 
-In press Burns, Ryan. [Rethinking Big Data in Digital Humanitarianism: Practices, Epistemologies, and Social Relations](/assets/uploads/burns_big_data_dh.docx). *GeoJournal*   
+In press	Burns, Ryan, D. Meek. "Introduction: The Politics of Knowledge Production in the Geoweb." ACME: An International E-Journal for Critical Geographies.
 
-In press Burns, Ryan, J. Thatcher. "Guest Editorial: What’s So Big about Big Data? Finding the Spaces and Perils of Big Data." *GeoJournal*.   
+In review	Burns, Ryan. "Synergies between Geoweb and Digital Humanitarian Research" (Working title). In Thatcher, J., A. Shears, J. Eckert (eds.), The Geoweb and Geography: (Re)Thinking Research in the Advent of Big Data. Lincoln, NE: University of Nebraska Press. 
 
-2014 Burns, Ryan. [Moments of Closure in the Knowledge Politics of Digital Humanitarianism](/assets/uploads/burns_moments_of_closure.pdf). *Geoforum* 53 \(2\): 51-62.   
+2014	Burns, Ryan, J. Thatcher. "[Guest Editorial: What’s So Big about Big Data? Finding the Spaces and Perils of Big Data.](/assets/uploads/whats_big_data.pdf)" GeoJournal. http://link.springer.com/article/10.1007/s10708-014-9600-8 (last accessed 10/21/2014).
 
-2013 Shanley, Lea, R. Burns, Z. Bastian, E. Robson. [Tweeting Up a Storm: The Promise and Perils of Crisis Mapping](/assets/uploads/shanley_burns_et_al_tweeting_up_storm.pdf). *Photogrammetric Engineering &amp; Remote Sensing* 79 \(10\): 865-879. 
+2014	Burns, Ryan. "[Rethinking Big Data in Digital Humanitarianism: Practices, Epistemologies, and Social Relations.](/assets/uploads/burns_rethinking_big_data.pdf)" GeoJournal. http://link.springer.com/article/10.1007/s10708-014-9599-x (last accessed 10/15/2014).
 
-2013 Burns, Ryan, A. Skupin. [Towards Qualitative Geovisual Analytics: A Case Study Involving Places, People, and Mediated Experience](/assets/uploads/burns_skupin_towards_qualitative_geovisual_analytics.pdf). *Cartographica* 48\(3\): 157-176.
+2014	Burns, Ryan. "[Moments of Closure in the Knowledge Politics of Digital Humanitarianism.](/assets/uploads/burns_moments_of_closure.pdf)" Geoforum 53 (2): 51-62.
+
+2013	Shanley, Lea, R. Burns, Z. Bastian, E. Robson. "[Tweeting Up a Storm: The Promise and Perils of Crisis Mapping.](/assets/uploads/shanley_burns_et_al_tweeting_up_storm.pdf)" Photogrammetric Engineering & Remote Sensing 79 (10): 865-879. 
+
+2013	Burns, Ryan, A. Skupin. Towards Qualitative Geovisual Analytics: A Case Study Involving Places, People, and Mediated Experience.](/assets/uploads/burns_skupin-visualization_attribute_spaces.pdf)" Cartographica 48(3): 157-176.
 
 
 <b>*Edited Journal Issues \(with Peer Review\)*</b>   
