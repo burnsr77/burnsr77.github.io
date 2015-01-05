@@ -3,25 +3,11 @@ title: "dissertation"
 author: rlburns
 layout: layout
 ---
-# 
+## Critical geographies of spatial technologies, social and geographic theory, and political economy
 
-## Critical geographies of spatial technologies, Urban Geographies, and Poverty/Inequality
+My research contributes to geographers' efforts to understand the social, political, and economic impacts of spatial technologies. For my dissertation research I looked specifically at the emergence of "digital humanitarianism", which includes websites and platforms such as Ushahidi and the Standby Task Force. Digital humanitarianism enables large numbers of geographically-disparate "crowdsourced" people to collaborate on humanitarian interventions, and promises to shift the ways humanitarian institutions respond to crises. Digital humanitarianism raises important questions about how knowledges are produced, collected, processed, and represented in these new technologies, and how the shift toward digital humanitarianism (and digital volunteerism more broadly) is entangled in large-scale political-economic shifts. The central argument of my dissertation is that digital humanitarianism emerges at the nexus of new technologies, new socio-spatial practices, and political-economic shifts. It alters how data are collected and represented, and represents the incursion of the private sector into humanitarianism and emergency management.
 
-My three topics of interest are critical geographies of spatial technologies, urban geographies, and poverty & inequality. \[Here\]\[1\] is my complete statement, and each of the subtopics’ sections are listed separately below:  
-1) \[Introduction to my research interests\]\[2\]  
-2) \[Critical geographies of spatial technologies\]\[3\]  
-3) \[Urban geographies\]\[4\]  
-4) \[Poverty & Inequality\]\[5\]  
-5) \[Bibliography\]\[6\]
+In digital humanitarian projects, the knowledges of crisis "victims" are often collected from social media sites like Twitter, Instagram, and Facebook. Before the formal emergency and humanitarian management actors see this data, it undergoes a series of abstractions, classifications, modifications, and translations. Each of these steps entails a struggle over what each bit of knowledge means and how it will be processed. This is important for geographers to explore because of its many implications: knowledge of a crisis, knowledge of the "victims," knowledge of who has or needs resources -- these are all affected by data. They are all also based on assumptions and geographic imaginaries -- what kinds of people are in particular places and the types of needs they must therefore have. This is, then, a project of understanding the *epistemologies* of digital humanitarianism: what can or can't be known through digital humanitarian technologies, and how the medium of these technologies influences our knowledges. To this end, I am also interested in the limitations of Big Data, and the continued role of "small data" in both humanitarian interventions and in geographic scholarship.
 
- \[1\]: http://students.washington.edu/rlburns/wordpress/wp-content/uploads/2010/08/burns_genStatement.pdf
- \[2\]: http://students.washington.edu/rlburns/wordpress/wp-content/uploads/2010/08/Burns_intro.pdf
- \[3\]: http://students.washington.edu/rlburns/wordpress/wp-content/uploads/2010/08/Burns_techs.pdf
- \[4\]: http://students.washington.edu/rlburns/wordpress/wp-content/uploads/2010/08/Burns_urban.pdf
- \[5\]: http://students.washington.edu/rlburns/wordpress/wp-content/uploads/2010/08/Burns_poverty.pdf
- \[6\]: http://students.washington.edu/rlburns/wordpress/wp-content/uploads/2010/08/Burns_bibliography.pdf
+Simultaneous to the emergence of digital humanitarianism, the formal humanitarian and emergency management sectors are increasingly under pressure to work more efficiently, using fewer resources to accomplish the same missions, to more efficaciously distribute and utilize their resources. In the US this general atmosphere of austerity and cutbacks manifests in the recent history of government shutdowns (whether actual or threatened) and the continued strengthening of neoliberal political-economic reforms. Digital humanitarianism has served as the "innovation" that allows humanitarian and emergency management institutions to continue their operations in this context. It enrolls the efforts of a distributed (sometimes unpaid) labor force, and makes the public (through crowdsourcing) resonsible for contributing to interventions. Digital humanitarianism also evokes our "humanitarian present" (Weizman and Manfredi 2013) described by Roy (2010), characterized by a widespread sense of global (capitalist) citizenry and thus a responsibility for those "in need". The private sector has made inroads into humanitarianism through digital humanitarianism, in a process called "philanthro-capitalism"; the incursion of private businesses into philanthropy/humanitarianism as a means of further accumulating capital. This has implications for the roles and relationships between the private for-profit sector and the public (i.e., state) sector within humanitarianism and emergency management.
 
-My preliminary exam statement (now very outdated) is here:  
-\[\[click here for my prelim statement\]\]\[7\]
-
- \[7\]: http://burnsr77.github.io/
