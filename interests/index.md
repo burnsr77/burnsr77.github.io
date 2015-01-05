@@ -3,65 +3,86 @@ title: personal
 author: rlburns
 layout: layout
 ---
-# 
+This section is about my personal, non-academic interests, of which I'm proud to say there are many. 
 
+go to:  
+[music reviewer](#music)   
+[ultra-marathon runner](#running)   
+[photographer](#photo)   
+[film](#film)   
+[reading](#books)   
+[tea](#tea)   
+[cooking](#food)      
 
-**THIS PAGE IS UNDER CONSTRUCTION AS I MIGRATE FROM WORDPRESS TO JEKYLL**
+<a name="music"> </a>
 
-This section is about my personal and academic interests. Use the box below to navigate, if you wish. Note that this page is very rough and is constantly under construction.
+## Music reviewer
 
--   \[Technology & Society\]\[1\]
--   \[music\]\[2\]
--   \[film\]\[3\]
--   \[tea\]\[4\]
+For about a year now [I've been writing reviews](http://thesightsandsounds.com/author/burnsr77/) of experimental, minimalist, ambient, and generally "weird" electronic tunes over at [The Sights and Sounds](http://thesightsandsounds.com/). Proud to say that it's a genuinely incredible cadre of writers, and we've been rated at #39 most important music blog by [The Style of Sound](http://styleofsound.com/top-100-influential-music-blogs/) \(of course it's behind a paywall\). I enjoy writing there for a number of reasons, including the fact that it forces me to stay current on the scene, and it's a productive non-academic outlet of creative expression.
 
- \[1\]: #gis
- \[2\]: #music
- \[3\]: #film
- \[4\]: #tea
+I don't only listen to that genre, though. Check out what I'm listening to here: [Last.fm](http://www.last.fm/user/east_west)
 
-**Technology & Society**
-
-I am most interested in the social and political implications of new technologies. My current research is looking at the paradigmatic shift toward new modes of mapping, spatial data production, and collaborative data processing. Specifically, it investigates whether, and how, the ‘geoweb’ may be shifting organizations’ emergency management and humanitarian strategies. The geoweb, an emerging set of geographic web-based practices, artifacts, and software/hardware configurations, is exemplified in mapping websites like Ushahidi and OpenStreetMap, sites that open spatial data production and processing to large numbers of people who may not be located in crisis areas. This process, called ‘crisis mapping’, has received wide public and academic interest, although it is unclear theimpact these technologies are having on strategies and decision-making processes.
-
-For my master’s thesis, I tried to take a critical look at geovisualization by interjecting the very personal aspects of place experience into a Self-Organizing Map (SOM). Research participants first gave me some of their background information such as their age, year in school, socioeconomic status, and religion. They were then presented 10 videos of San Diego and were asked to record their impressions of those neighborhoods. I then had a robust dataset through which I could explore the interactions between their personal attributes, their utterances about the places, and the neighborhoods themselves.
-
-Technologically, I have learned several programming languages, statistical software programs, GIS programs (obviously I’m most well-versed in ArcMap), and HTML editors. For more on my technological experience, see \[my CV page\]\[5\]. 
-
- \[5\]: CV.html
-
-My long-term goals are to expand our understanding of how technologies embody and in turn influence social and political relations.
-
-\[\[take me to the top\]\]\[6\]
-
- \[6\]: #top
 
 - - -
 
-**Music**
+<a name="running"> </a>
 
-Check out what I’m listening to here: \[Last.fm\]\[7\]  
-I like everything from indie to electronica, from ambient/drone to metal, from modern-classical to psychedelic free folk, from 60s avant-garde jazz to Azeri, from field recordings to sludge metal.
+## Ultra-marathon runner
 
- \[7\]: http://www.last.fm/user/east_west
+I'm an ultra-marathon runner. Well, that may be a bit of a stretch, since to date I've only run a single 50km race. But I'm registered for a 100-mile race in March and may run a few others in the meantime. I'm including it here, though, because running long distances forms a large part of my identity at the moment. I volunteer regularly at races, often run further than 20 miles in a workout, and am even a regular reader of UltraRunning Magazine! I am usually confronted with blank stares when I confess to people that I really enjoy watching ultra videos on YouTube!    
 
-\[\[take me to the top\]\]\[6\]
+If I may brag for a moment... I also think I'm quite "good" at running: I won 3rd place in my first marathon in February 2014, and 6th in my 50k. That marathon had 1600 feet of elevation gain, and the ultra 4200 feet over 31 miles. The sense of community among ultrarunners is stronger than 23-year-old Arnold, and it's ridiculously easy to meet people through this sport.
+
 
 - - -
 
-**Film**
+<a name="photo"> </a>
+
+## Photography
+
+In 2014 I discovered photography.   
+
+<div style='position: relative; padding-bottom: 81%; height: 0; overflow: hidden;'><iframe id='iframe' src='http://flickrit.com/slideshowholder.php?height=80&size=big&speed=3&count=100&userId=129395368@N04&click=true&credit=1&theme=1&thumbnails=1&transition=0&layoutType=responsive&sort=0' scrolling='no' frameborder='0'style='width:100%; height:100%; position: absolute; top:0; left:0;' ></iframe></div>
+
+
+- - -
+
+<a name="film"> </a>
+
+## Film
 
 Just a few names that come to mind:  
-Ingmar Bergman, Andrei Tarkovsky, David Lynch, Stanley Kubrick, Woody Allen, Jean Cocteau, Kenneth Anger, Wes Anderson, the Coen Brothers, Lars von Trier, Terrence Malick, Jean-Luc Godard, Paul Thomas Anderson
+Ingmar Bergman, Andrei Tarkovsky, David Lynch, Terrence Malick, Stanley Kubrick, Woody Allen, Jean Cocteau, Kenneth Anger, Wes Anderson, the Coen Brothers, Lars von Trier, Jean-Luc Godard, Paul Thomas Anderson, Bela Tarr
 
-\[\[take me to the top\]\]\[6\]
 
 - - -
 
-**Tea**
+<a name="books"> </a>
 
-i love tea... what more do you want? Favorite: Silver Needle. An Ji Bai Cha. Cold Summit Tung Ting. Tie Guan Yin. Bi Luo Chun. Yunnan Gold.
+## Reading
+
+https://www.goodreads.com/user/show/1706356-ryan
+
+
+
+- - -
+
+<a name="tea"> </a>
+
+## Tea
+
+Favorites: Silver Needle, An Ji Bai Cha, Cold Summit Tung Ting, Tie Guan Yin, Bi Luo Chun, Yunnan Gold.
 
 White tea in general is probably my favorite tea to drink, but usually only the non-flavored types. White peony is a good example of a well-rounded white tea that has delicate, subtle floral flavors. 
 
-\[\[take me to the top\]\]\[6\]
+
+
+- - -
+
+<a name="photo"> </a>
+
+In 2014 I discovered photography.   
+
+<div style='position: relative; padding-bottom: 81%; height: 0; overflow: hidden;'><iframe id='iframe' src='http://flickrit.com/slideshowholder.php?height=80&size=big&speed=3&count=100&userId=129395368@N04&click=true&credit=1&theme=1&thumbnails=1&transition=0&layoutType=responsive&sort=0' scrolling='no' frameborder='0'style='width:100%; height:100%; position: absolute; top:0; left:0;' ></iframe></div>
+
+
