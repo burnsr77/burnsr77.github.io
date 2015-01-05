@@ -42,7 +42,7 @@ If I may brag for a moment... I also think I'm quite "good" at running: I won 3r
 
 In 2014 I discovered photography.   
 
-<div style='position: relative; padding-bottom: 81%; height: 0; overflow: hidden;' markdown="block"><iframe id='iframe' src='http://flickrit.com/slideshowholder.php?height=80&size=big&speed=3&count=100&userId=129395368@N04&click=true&credit=1&theme=1&thumbnails=1&transition=0&layoutType=responsive&sort=0' scrolling='no' frameborder='0'style='width:100%; height:100%; position: absolute; top:0; left:0;' ></iframe></div>
+==<div style='position: relative; padding-bottom: 81%; height: 0; overflow: hidden;' markdown="block"><iframe id='iframe' src='http://flickrit.com/slideshowholder.php?height=80&size=big&speed=3&count=100&userId=129395368@N04&click=true&credit=1&theme=1&thumbnails=1&transition=0&layoutType=responsive&sort=0' scrolling='no' frameborder='0'style='width:100%; height:100%; position: absolute; top:0; left:0;' ></iframe></div>==
 
 
 - - -
