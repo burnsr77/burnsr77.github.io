@@ -1,5 +1,5 @@
 ---
-title: Your Search Engine Sucks&#58; Control, Profit, and Information Retrieval
+title: "Your Search Engine Sucks: Control, Profit, and Information Retrieval"
 author: rlburns
 layout: post
 permalink: /2015/06/your-search-engine-sucks/
