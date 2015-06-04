@@ -29,7 +29,7 @@ go to:
 2009-present Ph.D. Geography  
 University of Washington  
 Committee: Sarah Elwood, Mark Ellis, Victoria Lawson, Jin-Kyu Jung \(Interdisciplinary Arts and Sciences, UW-Bothell\)
-Dissertation title: The Inequality of the Geospatial Web: How Emerging Geographic Technologies Influence Humanitarian Practices
+Dissertation title: Digital Humanitarianism and the Geospatial Web: Emerging Modes of Mapping and the Transformation of Humanitarian Practices
 
 2010-present Graduate Certificate in Public Scholarship  
 Simpson Center for the Humanities, University of Washington  
@@ -108,7 +108,9 @@ Member, Association of American Geographers \(AAG\)
 
 In press	Burns, Ryan, D. Meek. "Introduction: The Politics of Knowledge Production in the Geoweb." ACME: An International E-Journal for Critical Geographies.
 
-In review	Burns, Ryan. "Synergies between Geoweb and Digital Humanitarian Research" (Working title). In Thatcher, J., A. Shears, J. Eckert (eds.), The Geoweb and Geography: (Re)Thinking Research in the Advent of Big Data. Lincoln, NE: University of Nebraska Press. 
+In press	Schwartz, B., B. Tellman, R. Burns, C. Andersson. Big Data, Satellites, and Disaster Monitoring. In UN Human Development Report 2015.
+
+Accepted	Burns, Ryan. "Synergies between Geoweb and Digital Humanitarian Research" (Working title). In Thatcher, J., A. Shears, J. Eckert (eds.), The Geoweb and Geography: (Re)Thinking Research in the Advent of Big Data. Lincoln, NE: University of Nebraska Press. 
 
 2014	Burns, Ryan, J. Thatcher. "[Guest Editorial: What’s So Big about Big Data? Finding the Spaces and Perils of Big Data.](/assets/uploads/whats_big_data.pdf)" GeoJournal. http://link.springer.com/article/10.1007/s10708-014-9600-8 (last accessed 10/21/2014).
 
@@ -152,9 +154,9 @@ In review	Burns, Ryan. "Synergies between Geoweb and Digital Humanitarian Resear
 
 <b>*Papers presented*</b>   
 
-2015 (expected) "'Let the private sector take care of this': Toward a Political Economy of Digital Humanitarianism". Annual meeting of the AAG. Chicago, IL.   
+2015 "'Let the private sector take care of this': Toward a Political Economy of Digital Humanitarianism". Annual meeting of the AAG. Chicago, IL.   
 
-2014 (expected) "Crisis Mapping as Social Process: Research and Policy Implications of New Digital Technologies". Keynote presentation at Crisis Mapping Seminar, Heidelberg University, Germany.   
+2014 "Crisis Mapping as Social Process: Research and Policy Implications of New Digital Technologies". Keynote presentation at Crisis Mapping Seminar, Heidelberg University, Germany.   
 
 2014 "The Digital Humanitarian Moment: New Practices, Knowledge Politics, and Philanthro-capitalism." University of Washington Department of Geography Colloquium. Seattle, WA.   
 
@@ -187,11 +189,15 @@ In review	Burns, Ryan. "Synergies between Geoweb and Digital Humanitarian Resear
 
 <b>*Panel Participation &amp; Sessions Organized*</b>   
 
-2015 (expected) Organizer. Critical Data, Critical Technology: in Theory. Annual meeting of the AAG. Chicago, IL.
+2015	Consultant. "Academic Partnerships with HOT". Humanitarian OpenStreetMap Team Summit. Organizer: Robert Soden.
 
-2015 (expected) Organizer. Critical Data, Critical Technology: in Praxis. Annual meeting of the AAG. Chicago, IL.
+2015	Organizer. "Critical Data, Critical Technology: in Theory." Annual meeting of the AAG. Chicago, IL. Organizer with Jim Thatcher and Craig Dalton. 2 sessions.
 
-2014 (expected) Participant. "Revisiting Critical GIS". Friday Harbor Laboratories, Friday Harbor, WA. 
+2015	Organizer. "Critical Data, Critical Technology: in Praxis." Annual meeting of the AAG. Chicago, IL. Organizer with Jim Thatcher and Craig Dalton. 2 sessions.
+
+2015	Organizer. "On the Political Economy of Geospatial Technologies."  Annual meeting of the AAG. Chicago, IL. Organizer with Jim Thatcher and Craig Dalton.
+
+2014	Participant. "Revisiting Critical GIS". Friday Harbor Laboratories, Friday Harbor, WA. 
 
 2014	Panelist. "Publishing, not Perishing: A Student's Guide to Academic Publishing." Annual meeting of the AAG. Tampa, FL.
 
@@ -253,6 +259,8 @@ In review	Burns, Ryan. "Synergies between Geoweb and Digital Humanitarian Resear
 ## Teaching Experience
 
 <b>*Full Courses*</b>   
+
+2015 GEOG 465: "GIS Databases and Programming"
 
 2014 GEOG 301: "Cultural Geography"
 
