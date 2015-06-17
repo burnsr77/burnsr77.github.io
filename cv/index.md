@@ -69,6 +69,8 @@ Member, Association of American Geographers \(AAG\)
 
 ## Grants, Fellowships, and Awards
 
+2015 Fellow, [Data Science for Social Good Fellowship](http://escience.washington.edu/what-we-do/data-science-for-social-good). eScience Institute, University of Washington.
+
 2013 United Nations Office for the Coordination of Humanitarian Affairs: "Humanitarian Research and Innovation Grant" \($4000\)
 
 2013 UW Graduate School Gerlach Award \(\$3,000\) 
@@ -108,9 +110,9 @@ Member, Association of American Geographers \(AAG\)
 
 In press	Burns, Ryan, D. Meek. "Introduction: The Politics of Knowledge Production in the Geoweb." ACME: An International E-Journal for Critical Geographies.
 
-In press	Schwartz, B., B. Tellman, R. Burns, C. Andersson. Big Data, Satellites, and Disaster Monitoring. In UN Human Development Report 2015.
-
 Accepted	Burns, Ryan. "Synergies between Geoweb and Digital Humanitarian Research" (Working title). In Thatcher, J., A. Shears, J. Eckert (eds.), The Geoweb and Geography: (Re)Thinking Research in the Advent of Big Data. Lincoln, NE: University of Nebraska Press. 
+
+2015	Schwartz, B., B. Tellman, R. Burns, C. Andersson. Big Data, Satellites, and Disaster Monitoring. In UN Human Development Report 2015.
 
 2014	Burns, Ryan, J. Thatcher. "[Guest Editorial: What’s So Big about Big Data? Finding the Spaces and Perils of Big Data.](/assets/uploads/whats_big_data.pdf)" GeoJournal. http://link.springer.com/article/10.1007/s10708-014-9600-8 (last accessed 10/21/2014).
 
