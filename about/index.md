@@ -1,9 +1,9 @@
 ---
 layout: layout
-title: "About"
+title: About
 author: rlburns
 ---
-I am Assistant Professor at Temple University's Department of Geography and Urban Studies. I'm broadly interested in the social and political implications of new mapping and spatial data production technologies, drawing connections between the 'geoweb', humanitarianism, and inequality. More specifically, I contribute to geographers' efforts to understand the ways digital humanitarian technologies represent people and their knowledge, the technologies’ impact on humanitarian resource allocation, and the technologies’ urban political-economic impacts.
+I am Assistant Professor at Temple University's Department of Geography and Urban Studies. I'm broadly interested in the social and political implications of new mapping and spatial data production technologies, drawing connections between the 'geoweb', humanitarianism, and inequality. More specifically, I contribute to geographers' efforts to understand the ways digital humanitarian technologies represent people and their knowledge, the technologiesâ€™ impact on humanitarian resource allocation, and the technologiesâ€™ urban political-economic impacts.
 
 I am a "public scholar", which for me means that I actively work to communicate my research results across multiple audiences. That is, I find it equally important to inform policymakers and the general public, as it is to contribute to scholarly conversations. As a public scholar I also hope to improve the ways humanitarian aid is distributed to "the public" in crisis and emergency zones. This is the more applied aspect of my work. Lastly, public scholarship means I consider my pedagogy and my research to be a form of activism. I make this claim because in my research and teaching I open up taken-for-granted ideas/concepts to critique. In other words, I uncover the origins and limitations of technologies and concepts, in order to imagine and foster different, more socially-just, worlds. In this I borrow from Seyla Benhabib, when she says, "The task of the critic is not to juxtapose an ideal, eternal standard to the existent, but through a 'ruthless critique of the existent' to reveal that what is, already contains within itself what 'ought' to be as a possibility."
 
@@ -27,10 +27,4 @@ burnsr77\[at\]gmail\[dot\]com
 
 [linkedIn](http://linkedin.com/in/ryanlburns)
 [facebook](http://lite.facebook.com/burnsr77)
-
-**other affiliated sites:**
-
-[Socialist & Critical Geography Specialty Group of the AAG](http://courses.washington.edu/scgsg) (former spokesperson for the Communications Collective)
-
-[Commons Lab \| Wilson Center](http://wilsoncommonslab.org/)
 
