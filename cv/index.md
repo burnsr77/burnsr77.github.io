@@ -29,7 +29,7 @@ go to:
 2015 Ph.D. Geography  
 University of Washington  
 Committee: Sarah Elwood, Mark Ellis, Victoria Lawson, Jin-Kyu Jung \(Interdisciplinary Arts and Sciences, UW-Bothell\)
-Dissertation title: [Digital Humanitarianism and the Geospatial Web: Emerging Modes of Mapping and the Transformation of Humanitarian Practices](/assets/uploads/burns - dissertation.pdf)
+Dissertation title: [Digital Humanitarianism and the Geospatial Web: Emerging Modes of Mapping and the Transformation of Humanitarian Practices](/assets/uploads/burns_dissertation.pdf)
 
 2010-2015 Work toward Graduate Certificate in Public Scholarship  
 Simpson Center for the Humanities, University of Washington  
