@@ -26,12 +26,12 @@ go to:
 
 ## Education 
 
-2009-present Ph.D. Geography  
+2015 Ph.D. Geography  
 University of Washington  
 Committee: Sarah Elwood, Mark Ellis, Victoria Lawson, Jin-Kyu Jung \(Interdisciplinary Arts and Sciences, UW-Bothell\)
-Dissertation title: Digital Humanitarianism and the Geospatial Web: Emerging Modes of Mapping and the Transformation of Humanitarian Practices
+Dissertation title: [Digital Humanitarianism and the Geospatial Web: Emerging Modes of Mapping and the Transformation of Humanitarian Practices](/assets/uploads/burns - dissertation.pdf)
 
-2010-present Graduate Certificate in Public Scholarship  
+2010-2015 Work toward Graduate Certificate in Public Scholarship  
 Simpson Center for the Humanities, University of Washington  
 Capstone adviser: Kirsten Foot \(Communications\); Portfolio adviser: Tad Hirsch \(School of Art, Design Division\)
 
@@ -114,7 +114,7 @@ Accepted	Burns, Ryan. "Synergies between Geoweb and Digital Humanitarian Researc
 
 2015	Schwartz, B., B. Tellman, R. Burns, C. Andersson. Big Data, Satellites, and Disaster Monitoring. In UN Human Development Report 2015.
 
-2014	Burns, Ryan, J. Thatcher. "[Guest Editorial: What’s So Big about Big Data? Finding the Spaces and Perils of Big Data.](/assets/uploads/whats_big_data.pdf)" GeoJournal. http://link.springer.com/article/10.1007/s10708-014-9600-8 (last accessed 10/21/2014).
+2014	Burns, Ryan, J. Thatcher. "[Guest Editorial: What's So Big about Big Data? Finding the Spaces and Perils of Big Data.](/assets/uploads/whats_big_data.pdf)" GeoJournal. http://link.springer.com/article/10.1007/s10708-014-9600-8 (last accessed 10/21/2014).
 
 2014	Burns, Ryan. "[Rethinking Big Data in Digital Humanitarianism: Practices, Epistemologies, and Social Relations.](/assets/uploads/burns_rethinking_big_data.pdf)" GeoJournal. http://link.springer.com/article/10.1007/s10708-014-9599-x (last accessed 10/15/2014).
 
@@ -128,7 +128,7 @@ Accepted	Burns, Ryan. "Synergies between Geoweb and Digital Humanitarian Researc
 <b>*Edited Journal Issues \(with Peer Review\)*</b>   
 *In press* Burns, Ryan, D. Meek. The Politics of Knowledge Production in the Geoweb. Special Issue of *ACME: An International E-Journal for Critical Geographies*. 
 
-*Accepted* Burns, Ryan, J. Thatcher. What's So Big about Big Data? Finding the Spaces and Perils of Big Data. Special Issue of *GeoJournal*.
+2015 Burns, Ryan, J. Thatcher. What's So Big about Big Data? Finding the Spaces and Perils of Big Data. Special Issue of *GeoJournal*.
 
 
 <b>*Conference Proceedings and White Papers*</b>   
@@ -271,6 +271,8 @@ Accepted	Burns, Ryan. "Synergies between Geoweb and Digital Humanitarian Researc
 2012 GEOG 461: "Urban GIS"
 
 <b>*Invited Lectures*</b>   
+
+2015 Seminar host in Data Science for Social Good program.
 
 2014 Guest lecture in GEOG 360: "Introduction to GIS"   
 
