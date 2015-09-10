@@ -13,7 +13,7 @@ categories:
 This is a session [Nick Lally](http://nicklally.com) and I are organizing for the [2016 AAG](http://aag.org/annualmeeting) in San Francisco.
 
 Toward a geographical software studies
-A series of sessions for the Annual Meeting of the Association of American Geographers in San Francisco, March 29-April 2, 2016
+A series of sessions for the Annual Meeting of the Association of American Geographers in San Francisco, March 29-April 2, 2016.
 
 Ryan Burns (Temple University)
 Nick Lally (University of Wisconsin - Madison)
