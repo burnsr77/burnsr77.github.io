@@ -262,6 +262,10 @@ Accepted	Burns, Ryan. "Synergies between Geoweb and Digital Humanitarian Researc
 
 <b>*Full Courses*</b>   
 
+2015 GUS 0821: "Digital Mapping"
+
+2015 GUS 3062/5062: "Fundamentals of GIS"
+
 2015 GEOG 465: "GIS Databases and Programming"
 
 2014 GEOG 301: "Cultural Geography"
