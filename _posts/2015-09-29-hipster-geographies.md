@@ -1,5 +1,5 @@
 ---
-title: "Toward a geographical software studies"
+title: "Hipster Geographies"
 author: rlburns
 layout: post
 permalink: /2015/09/hipster-geographies/
