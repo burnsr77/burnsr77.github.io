@@ -131,4 +131,4 @@ To which I added:
 
 As good a place as any to end this post!
 
-[^n]: Throughout this post, I want to make explicit my understanding that "we" is an unfair grouping. Adjuncts, grad students, non-tenured faculty, and so on, should not be "responsibilized" in the same way as, for example, tenured faculty and administration. I also acknowledge that "dealing with" acadmia is often charged to the individual level, claiming that if you have a hard time dealing with big strucutral problems in academia, it's your fault. That's not my intention here.
+[^n]: 1. Throughout this post, I want to make explicit my understanding that "we" is an unfair grouping. Adjuncts, grad students, non-tenured faculty, and so on, should not be "responsibilized" in the same way as, for example, tenured faculty and administration. I also acknowledge that "dealing with" acadmia is often charged to the individual level, claiming that if you have a hard time dealing with big strucutral problems in academia, it's your fault. That's not my intention here.
