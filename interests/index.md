@@ -29,9 +29,7 @@ I don't only listen to that genre, though. Check out what I'm listening to here:
 
 ## Ultra-marathon runner
 
-I'm an ultra-marathon runner. Well, that may be a bit of a stretch, since to date I've only run a single 50km race. But I'm registered for a 100-mile race in March and may run a few others in the meantime. I'm including it here, though, because running long distances forms a large part of my identity at the moment. I volunteer regularly at races, often run further than 20 miles in a workout, and am even a regular reader of UltraRunning Magazine! I am usually confronted with blank stares when I confess to people that I really enjoy watching ultra videos on YouTube!    
-
-If I may brag for a moment... I also think I'm quite "good" at running: I won 3rd place in my first marathon in February 2014, and 6th in my 50k. That marathon had 1600 feet of elevation gain, and the ultra 4200 feet over 31 miles. The sense of community among ultrarunners is stronger than 23-year-old Arnold, and it's ridiculously easy to meet people through this sport.
+I'm an ultra-marathon runner. I can't wait to have time to run more, but to date I've run a 50km (30 miles) and a 50 mile race. Came in 3rd for my first marathon, 6th at the 50k, and 157th (out of 400) at the 50-mile. I don't get out as much as I would like, but running long distances forms a large part of my identity at the moment. I volunteer regularly at races, often run further than 20 miles in a workout, and am even a regular reader of UltraRunning Magazine! I am usually confronted with blank stares when I confess to people that I really enjoy watching ultra videos on YouTube!    
 
 
 - - -
