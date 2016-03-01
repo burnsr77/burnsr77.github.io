@@ -3,8 +3,6 @@ title: "Urban GIS Course Site"
 author: rlburns
 layout: post
 ---
-# Urban GIS
-
 Leave comments, questions, and discussions below!
 
 **Syllabus**
