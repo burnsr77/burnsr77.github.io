@@ -7,19 +7,19 @@ layout: layout
 
 Leave comments, questions, and discussions below!
 
-## Syllabus
+*Syllabus*
 
 Find the syllabus [here](./syllabus.docx)
 
-## Lecture slides
+*Lecture slides*
 
 [Week 1 - Introduction](./week1_intro.pptx)
 
-## Course Schedule (subject to change
+*Course Schedule (subject to change*
 
 Find the course schedule [here](./schedule.docx)
 
-## Two resources for further learning
+*Two resources for further learning*
 
 Price, Maribeth. 2015. Mastering ArcGIS. New York: McGraw-Hill. 7th Edition.
 
