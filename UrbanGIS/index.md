@@ -1,7 +1,7 @@
 ---
 title: "Urban GIS Course Site"
 author: rlburns
-layout: layout
+layout: post
 ---
 # Urban GIS
 
