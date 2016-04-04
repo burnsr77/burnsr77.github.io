@@ -1,0 +1,24 @@
+<html lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" ></meta>
+<script language="JavaScript" type="text/javascript" src="jquery-1.7.1.min.js"></script>
+<script>
+
+function a(){
+var at = '256164975.9c92960.49a62b138c6b46b4a0b139689297506b'
+var xhr = new XMLHttpRequest();
+xhr.open("GET", "https://api.instagram.com/v1/tags/Passyunk?access_token="+at);
+
+xhr.send();
+var jsonResponse = JSON.parse(xhr.responseText);
+document.getElementById('demoDiv').innerHTML = jsonResponse;
+document.getElementById('statusDiv').innerHTML = xhr.status;
+}
+</script>
+</head>
+<body>
+<input type="submit" value="search" onclick="a()"/>
+<div id='demoDiv' style="background-color:green">f</div>
+<div id='statusDiv' style="background-color:red">f</div>
+</body>
+</html>
