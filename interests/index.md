@@ -1,7 +1,7 @@
 ---
 title: personal
 author: rlburns
-layout: layout
+layout: leaf_layout
 ---
 This section is about my personal, non-academic interests, of which I'm proud to say there are many. 
 
@@ -29,7 +29,31 @@ I don't only listen to that genre, though. Check out what I'm listening to here:
 
 ## Ultra-marathon runner
 
-I'm an ultra-marathon runner. I can't wait to have time to run more, but to date I've run a 50km (30 miles) and a 50 mile race. Came in 3rd for my first marathon, 6th at the 50k, and 157th (out of 400) at the 50-mile. I don't get out as much as I would like, but running long distances forms a large part of my identity at the moment. I volunteer regularly at races, often run further than 20 miles in a workout, and am even a regular reader of UltraRunning Magazine! I am usually confronted with blank stares when I confess to people that I really enjoy watching ultra videos on YouTube!    
+I'm an ultra-marathon runner. I can't wait to have time to run more, but to date I've run a 50km (30 miles) and a 50 mile race. Came in 3rd for my first marathon, 6th at the 50k, and 157th (out of 400) at the 50-mile. I don't get out as much as I would like, but running long distances forms a large part of my identity at the moment. I volunteer regularly at races, often run further than 20 miles in a workout, and am even a regular reader of UltraRunning Magazine! I am usually confronted with blank stares when I confess to people that I really enjoy watching ultra videos on YouTube!
+
+My current short-term goal is to run every street in my neighborhood, South Philadelphia, before I leave for University of Calgary in July. Here's where I'm at currently:
+<div id='map' style="width:50%; height:50%"></div>
+<script>
+  var map = L.map('map', {
+            center: [42.308600, -70.572466],
+            zoom: 13
+        });
+    
+  L.Control.fileLayerLoad({
+    // See http://leafletjs.com/reference.html#geojson-options
+    layerOptions: {style: {color:'red'}},
+    // Add to map after loading (default: true) ?
+    addToMap: true,
+    // File size limit in kb (default: 1024) ?
+    fileSizeLimit: 1024,
+    // Restrict accepted file formats (default: .geojson, .kml, and .gpx) ?
+    formats: [
+      '.geojson',
+      '.kml'
+      ]
+  }).addTo(map);
+
+</script>
 
 
 - - -
