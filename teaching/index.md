@@ -11,6 +11,7 @@ go to:
 
 
 <a name="philosophy"> </a>
+
 ## Teaching Philosophy
 
 I am passionate about helping students understand the ways geographies are produced, maintained, catalyzed, and circulated in and about their everyday lives, and the rich insights a socio-technical perspective can bring to analyzing them. My pedagogy focuses on fostering a spirit of critical thinking and self-actualization, to help students understand their world in a way that empowers them to change it for the better. In my courses, I challenge students to: 1) learn theoretical and methodological approaches geographers engage to explore spatial questions, 2) develop technical and interpretive skills, and 3) understand the ways geographic processes play into their everyday lives and the ways they can impact those processes. 
@@ -22,6 +23,7 @@ Public scholarship and community engagement are key commitments in my teaching. 
 Finally, interdisciplinarity factors strongly into my overall pedagogical approach. In my courses I present students with multiple disciplinary perspectives on problems, to highlight the contributions of a spatial perspective to social and political questions; borrowing from the digital humanities, I also use collaborative technologies to help students explain their own disciplinary perspectives to their peers. Cross-disciplinary interests build on my longstanding commitment to interdisciplinary learning, as can be seen in my activities with the Simpson Center for the Humanities and HASTAC.
 
 <a name="courses"></a>
+
 ## Courses taught
 
 *Temple University*
@@ -63,11 +65,13 @@ GEOG 461/561 (2012): "Urban GIS". Discussed urban administration and policymakin
 "Participatory Mapping" Imagining America Site Visit (2011). Discussed how data is collected, managed, and visualized using GIS. The audience were humanists, scholars, and activists. 
 
 <a name="training"></a>
+
 ## Training
 
 placeholder text here
 
 <a name="syllabi"></a>
+
 ## Sample syllabi
 
 [Web mapping](../assets/uploads/8068_syllabus.docx)
