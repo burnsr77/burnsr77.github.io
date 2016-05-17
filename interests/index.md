@@ -41,7 +41,7 @@ My current short-term goal is to run every street in my neighborhood, South Phil
 		}).addTo(map);
 
 
-		L.geoJson(runkeeper, onEachFeature: onEachFeature, {style: myStyle}).addTo(map);
+		L.geoJson(runkeeper, {style: myStyle, onEachFeature: onEachFeature}).addTo(map);
 </script>
 
 - - -
