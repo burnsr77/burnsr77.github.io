@@ -34,14 +34,14 @@ I'm an ultra-marathon runner. I can't wait to have time to run more, but to date
 My current short-term goal is to run every street in my neighborhood, South Philadelphia, before I leave for University of Calgary in July. Here's where I'm at currently:
 <div id='map' style='height:800px; width:1200px'></div>
 <script>
-		var map = L.map('map',{center:[39.925,-75.158],zoom:14});
+		var map = L.map('map',{center:[39.92149,-75.1625],zoom:14});
 
 		L.tileLayer('http://{s}.tile.osm.org/{z}/{x}/{y}.png', {
 			attribution: '&copy; <a href="http://osm.org/copyright">OpenStreetMap</a> contributors'
 		}).addTo(map);
 
 
-		L.geoJson(runkeeper,{style:myStyle}).addTo(map);
+		L.geoJson(runkeeper, {onEachFeature:onEachFeature, style:myStyle}).addTo(map);
 </script>
 
 - - -
