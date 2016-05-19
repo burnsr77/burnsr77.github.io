@@ -38,6 +38,9 @@
   <script type="text/javascript">
   	function onEachFeature(feature, layer) {
 		layer.bindPopup("<h2>"+feature.properties.display+"</h2><p>"+calcLen(feature)+"</p>");
+		alert(calcLen(feature));
+		alert(Object.keys(calcLen(feature)));
+		alert(calcLen(feature)[0]);
 	};
 
 	function calcLen(feature){
