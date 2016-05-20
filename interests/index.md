@@ -44,6 +44,8 @@ My current short-term goal is to run every street in my neighborhood, South Phil
 		L.geoJson(runkeeper, {style: myStyle, onEachFeature: onEachFeature}).addTo(map);
 </script>
 
+<div id="distance">Click a route above to get the distance here.<div>
+
 - - -
 
 <a name="photo"> </a>
