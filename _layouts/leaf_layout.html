@@ -38,7 +38,7 @@
   <script type="text/javascript">
   	function onEachFeature(feature, layer) {
   		var dist = calcLen(feature);
-  		document.getElementById("distance").innerHTML = dist;
+  		//document.getElementById("distance").innerHTML = dist;
 		layer.bindPopup("<h2>"+feature.properties.display+"</h2><p>"+dist+"</p>");
 	};
 
