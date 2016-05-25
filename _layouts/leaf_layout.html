@@ -37,9 +37,18 @@
 
   <script type="text/javascript">
   	function onEachFeature(feature, layer) {
-  		var dist = calcLen(feature);
-  		//document.getElementById("distance").innerHTML = dist;
-		layer.bindPopup("<h2>"+feature.properties.display+"</h2><p>"+dist+"</p>");
+		if (feature.geometry.type == "LineString"){
+			var coord = feature.geometry.coordinates;
+			var totalDist = 0.00;
+			var tempLatLon = new L.LatLng(coord[0][1], coord[0][0]);
+			for (i = 0; i < coord.length; i++){
+				totalDist += tempLatLon.distanceTo(new L.LatLng(coord[i][1], coord[i][0]));
+				tempLatLon = new L.LatLng(coord[i][1], coord[i][0]);
+			};
+		} else {return "This geometry is encoded differently than the rest, and Ryan's currently writing a script to handle it. Stay tuned!"};
+};
+  		document.getElementById("distance").innerHTML = totalDist;
+		layer.bindPopup("<h2>"+feature.properties.display+"</h2><p>"+totalDist+"</p>");
 	};
 
 	function calcLen(feature){
