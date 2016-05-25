@@ -46,8 +46,7 @@
 				tempLatLon = new L.LatLng(coord[i][1], coord[i][0]);
 			};
 		} else {return "This geometry is encoded differently than the rest, and Ryan's currently writing a script to handle it. Stay tuned!"};
-  		document.getElementById("distance").innerHTML = totalDist;
-		layer.bindPopup("<h2>"+feature.properties.display+"</h2><p>"+totalDist+"</p>");
+		layer.bindPopup("<h2>"+feature.properties.display+"</h2><p>"+totalDist.toString()+"</p>");
 	};
 
 	function calcLen(feature){
