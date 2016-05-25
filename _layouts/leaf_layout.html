@@ -46,7 +46,7 @@
 				tempLatLon = new L.LatLng(coord[i][1], coord[i][0]);
 			};
 			distMiles = (totalDist*3.28084)/5280;
-			popupDist = "This run was " + distMiles.toString() + " miles long!";
+			popupDist = "This run was " + distMiles.toFixed(2) + " miles long!";
 		} else {popupDist = "This geometry is encoded differently than the rest, and Ryan's currently writing a script to handle it. Stay tuned!"};
 		layer.bindPopup("<h2>"+feature.properties.display+"</h2><p>"+popupDist+"</p>");
 	};
