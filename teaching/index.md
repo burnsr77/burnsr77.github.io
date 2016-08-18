@@ -5,6 +5,7 @@ layout: layout
 ---
 go to:  
 [teaching philosophy](#philosophy)   
+[current courses](#current)
 [courses taught](#courses)   
 [training](#training)   
 [sample syllabi](#syllabi)
@@ -21,6 +22,10 @@ My teaching style is active, engaged and discussion-based. I solicit student dis
 Public scholarship and community engagement are key commitments in my teaching. Most my courses integrate a service learning component, with the goals of extending the pedagogical experience beyond the classroom, and building bridges between the university and surrounding communities. For example, in "Fundamentals of GIS" I have partnered with a Philadelphia community organization oriented towards the elderly, for my students to contribute mapping of their data. I draw inspiration from prior experience with community collaborations as a teaching assistant in the course "GIS Workshop". In this course group projects were driven by partnerships with organizations such as small, underfunded organizations to large philanthropic institutions, local government, and many others. In these and other collaborations, students learn skills of observation, research, and communication; they also learn how to dissect taken-for-granted phenomena. 
 
 Finally, interdisciplinarity factors strongly into my overall pedagogical approach. In my courses I present students with multiple disciplinary perspectives on problems, to highlight the contributions of a spatial perspective to social and political questions; borrowing from the digital humanities, I also use collaborative technologies to help students explain their own disciplinary perspectives to their peers. Cross-disciplinary interests build on my longstanding commitment to interdisciplinary learning, as can be seen in my activities with the Simpson Center for the Humanities and HASTAC.
+
+<a name="current"></a>
+[GEOG 457 - Urban and Environmental GIS](/UrbanGIS)
+[GEOG 647: Advanced Research and Applications in GIS](/AdvRsrchGIS)
 
 <a name="courses"></a>
 
