@@ -5,11 +5,11 @@ layout: post
 ---
 Leave comments, questions, and discussions below!
 
-#Urban and Environmental Geographic Information Systems
+# Urban and Environmental Geographic Information Systems
 
-##GEOG 457
+## GEOG 457
 
-##Winter 2017
+## Winter 2017
 
 *Instructor:* [Dr. Ryan Burns](mailto:ryan.burns1@ucalgary.ca)
 
@@ -19,30 +19,27 @@ Leave comments, questions, and discussions below!
 
 *Office: XXX Earth Sciences Building
 
-##General information
+## General information
 
-###Course description
-
-
-
-###Learning outcomes (learning objectives)
+### Course description
 
 
 
-###Required textbooks
+### Learning outcomes (learning objectives)
+
+### Required textbooks
 
 
 
-##Assessment expectations
+## Assessment expectations
+
+
+## UofC Policies
 
 
 
-##UofC Policies
+## Well-being and mental health
 
 
 
-##Well-being and mental health
-
-
-
-##Course calendar
+## Course calendar

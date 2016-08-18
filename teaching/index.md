@@ -5,7 +5,7 @@ layout: layout
 ---
 go to:  
 [teaching philosophy](#philosophy)   
-[current courses](#current)
+[current courses](#current)   
 [courses taught](#courses)   
 [training](#training)   
 [sample syllabi](#syllabi)
@@ -24,7 +24,9 @@ Public scholarship and community engagement are key commitments in my teaching. 
 Finally, interdisciplinarity factors strongly into my overall pedagogical approach. In my courses I present students with multiple disciplinary perspectives on problems, to highlight the contributions of a spatial perspective to social and political questions; borrowing from the digital humanities, I also use collaborative technologies to help students explain their own disciplinary perspectives to their peers. Cross-disciplinary interests build on my longstanding commitment to interdisciplinary learning, as can be seen in my activities with the Simpson Center for the Humanities and HASTAC.
 
 <a name="current"></a>
-[GEOG 457 - Urban and Environmental GIS](/UrbanGIS)
+
+## Current courses
+[GEOG 457 - Urban and Environmental GIS](/UrbanGIS)   
 [GEOG 647: Advanced Research and Applications in GIS](/AdvRsrchGIS)
 
 <a name="courses"></a>
