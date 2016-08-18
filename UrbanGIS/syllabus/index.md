@@ -1,15 +1,24 @@
 ---
 title: "GEOG 457 Syllabus"
 author: rlburns
-layout: post
+layout: page
 ---
 Leave comments, questions, and discussions below!
 
-# Urban and Environmental Geographic Information Systems
+## Urban and Environmental Geographic Information Systems (GEOG 457)   
+### Winter 2017
 
-## GEOG 457
+go to:  
+[instructor information](#instructor)   
+[course description](#description)   
+[learning outcomes](#outcomes)   
+[textbooks](#texts)   
+[assessment](#assessment)   
+[UofC policies](#policies)   
+[well-being](#well-being)   
+[course calendar](#calendar)   
 
-## Winter 2017
+<a name="instructor"> </a>
 
 *Instructor:* [Dr. Ryan Burns](mailto:ryan.burns1@ucalgary.ca)
 
@@ -21,25 +30,30 @@ Leave comments, questions, and discussions below!
 
 ## General information
 
+<a name="description"> </a>
+
 ### Course description
 
-
+<a name="outcomes"> </a>
 
 ### Learning outcomes (learning objectives)
 
+<a name="texts"> </a>
+
 ### Required textbooks
 
-
+<a name="assessment"> </a>
 
 ## Assessment expectations
 
+<a name="policies"> </a>
 
 ## UofC Policies
 
-
+<a name="well-being"> </a>
 
 ## Well-being and mental health
 
-
+<a name="calendar"> </a>
 
 ## Course calendar
