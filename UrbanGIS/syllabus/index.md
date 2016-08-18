@@ -1,7 +1,7 @@
 ---
 title: "GEOG 457 Syllabus"
 author: rlburns
-layout: page
+layout: layout
 ---
 Leave comments, questions, and discussions below!
 
