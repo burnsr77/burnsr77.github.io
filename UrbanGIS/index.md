@@ -1,5 +1,5 @@
 ---
-title: "Urban GIS Course Site"
+title: "GEOG 457 - Urban GIS Course Site"
 author: rlburns
 layout: post
 ---
@@ -7,7 +7,7 @@ Leave comments, questions, and discussions below!
 
 **Syllabus**
 
-Find the syllabus [here](./syllabus.docx)
+Find the syllabus [here](./syllabus)
 
 **Lecture slides**
 
@@ -15,7 +15,7 @@ Find the syllabus [here](./syllabus.docx)
 
 **Course Schedule (subject to change**
 
-Find the course schedule [here](./schedule.docx)
+Find the course schedule [here](./schedule)
 
 **Two resources for further learning**
 
