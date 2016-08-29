@@ -53,9 +53,9 @@ GEOG 102: The Making of World Regions (online)<br>Description: Why do we divide 
 
 *Teaching assistant at SDSU and UW*
 
-University of Washington Department of Geography. Winter 2012-Spring 2012, Autumn 2014. Taught the lab portions of "Introduction to GIS", "Urban GIS", and "GIS Workshop" San Diego State University Department of Geography. Fall 2007-Spring 2008. Taught a total of four laboratory sections: "Introduction to GIS" (twice), "Map Investigation", and "Animated Cartographic Design".  
+University of Washington Department of Geography. Winter 2012-Spring 2012, Autumn 2014. Taught the lab portions of "Introduction to GIS", "Urban GIS", and "GIS Workshop" 
 
-Guest lectures GEOG 360 (2014): "Introduction to GIS". Discussed qualitative GIS: how it is conducted, its advantages and drawbacks, and the way qualitative data can be collected and visualized. GEOG 277 (2014): "Geographies of Cities". Discussed the implications of digital humanitarianism on urban processes, including policy, resource allocation, and representations of the city. GEOG 469/569 (2012): "GIS Workshop". Introduced the use of Python for GIS analysis. GEOG 461/561 (2012): "Urban GIS". Discussed urban administration and policymaking using GIS, with a particular focus on urban politics and community organizations. "Participatory Mapping" Imagining America Site Visit (2011). Discussed how data is collected, managed, and visualized using GIS. The audience were humanists, scholars, and activists. 
+San Diego State University Department of Geography. Fall 2007-Spring 2008. Taught a total of four laboratory sections: "Introduction to GIS" (twice), "Map Investigation", and "Animated Cartographic Design".  
 
 *Guest lectures*
 
@@ -75,7 +75,11 @@ GEOG 461/561 (2012): "Urban GIS". Discussed urban administration and policymakin
 
 ## Training
 
-placeholder text here
+2016 Taylor Institute: Teaching Academy. This meet-and-greet allowed recipients of UofC teaching awards to share their methods and approaches to effective and engaged teaching.
+
+2016 Taylor Institute: Creating an Effective Course Outline. In this workshop the participants shared strategies for developing meaningful and impactful learning goals, course descriptions, course outlines, and syllabi.
+
+2016 Taylor Institute: Course Design Program. In this 4-part workshop series, participants workshopped their course outlines and learning goals, getting direct feedback and collaborated on effective outline writing.
 
 <a name="syllabi"></a>
 
