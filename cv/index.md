@@ -9,17 +9,30 @@ layout: layout
 See below for HTML version, with links \(where available\).
 
 go to:  
+[academic employment](#employment)   
 [education](#education)   
 [affiliations](#affiliations)   
 [awards](#awards)   
+[research activities](#rsrch)   
 [publications](#pubs)   
 [presentations](#presentations)   
-[research](#addResearch)   
+[additional research](#addResearch)   
 [teaching](#teaching)     
 [service](#addProf)   
 [peer reviews](#review)   
 [public scholarship](#press)   
 [technology proficiencies](#tech)   
+
+
+<a name="employment"> </a>
+
+## Academic Employment 
+
+2016-present Assistant Professor  
+Department of Geography, University of Calgary
+
+2015-2016 Assistant Professor of Instruction  
+Department of Geography and Urban Studies, Temple University
 
 
 <a name="education"> </a>
@@ -34,12 +47,6 @@ Dissertation title: [Digital Humanitarianism and the Geospatial Web: Emerging Mo
 2010-2015 Work toward Graduate Certificate in Public Scholarship  
 Simpson Center for the Humanities, University of Washington  
 Capstone adviser: Kirsten Foot \(Communications\); Portfolio adviser: Tad Hirsch \(School of Art, Design Division\)
-
-2013 Oxford Internet Institute Summer Doctoral Programme  
-i-School, University of Toronto, Canada
-
-2011 Bergen Summer Research School  
-University of Bergen, Norway
 
 2009 M.S. Geographic Information Science  
 San Diego State University  
@@ -68,8 +75,6 @@ Member, Association of American Geographers \(AAG\)
 <a name="awards"> </a>
 
 ## Grants, Fellowships, and Awards
-
-2015 Fellow, [Data Science for Social Good Fellowship](http://escience.washington.edu/what-we-do/data-science-for-social-good). eScience Institute, University of Washington.
 
 2013 United Nations Office for the Coordination of Humanitarian Affairs: "Humanitarian Research and Innovation Grant" \($4000\)
 
@@ -102,17 +107,36 @@ Member, Association of American Geographers \(AAG\)
 2005 School for International Training - "Culture, Language, and Development in Vietnam" research scholarship \($5,000\) 
 
 
+<a name="rsrch"> </a>
+
+## Research Activities
+
+2016 (invited) Ethics of Location-Based Technologies in Crisis Workshop. American Association for the Advancement of Science. Washington, DC. Invited as participant.
+
+2016 Participant, Summer Institute in Economic Geography. Lexington, KY, University of Kentucky.
+
+2015 Fellow, [Data Science for Social Good Fellowship](http://escience.washington.edu/what-we-do/data-science-for-social-good). eScience Institute, University of Washington.
+
+2013 Oxford Internet Institute Summer Doctoral Programme  
+i-School, University of Toronto, Canada
+
+2011 Bergen Summer Research School  
+University of Bergen, Norway
+
+
 <a name="pubs"> </a>
 
 ## Publications
 
 <b>*Peer-reviewed Articles and Book Chapters*</b>   
 
-In press	Burns, Ryan, D. Meek. "Introduction: The Politics of Knowledge Production in the Geoweb." ACME: An International E-Journal for Critical Geographies.
+In press	Burns, Ryan. "Synergies between Geoweb and Digital Humanitarian Research" (Working title). In Thatcher, J., A. Shears, J. Eckert (eds.), The Geoweb and Geography: (Re)Thinking Research in the Advent of Big Data. Lincoln, NE: University of Nebraska Press. 
 
-Accepted	Burns, Ryan. "Synergies between Geoweb and Digital Humanitarian Research" (Working title). In Thatcher, J., A. Shears, J. Eckert (eds.), The Geoweb and Geography: (Re)Thinking Research in the Advent of Big Data. Lincoln, NE: University of Nebraska Press. 
+2015	Thatcher, Jim, L. Bergmann, B. Ricker, R. Rose-Redwood, D. O’Sullivan, T. Barnes, L. Barnesmoore, L. Beltz Imaoka, R. Burns, J. Cinnamon, C. Dalton, C. Davis, S. Dunn, F. Harvey, J.-K. Jung, E. Kersten, L. Knigge, N. Lally, W. Lin, D. Mahmoudi, M. Martin, W. Payne, A. Sheikh, T. Shelton, E. Sheppard, C. Strother, A. Tarr, M. Wilson, J. Young. "Revisiting Critical GIS: Reflections from Friday Harbor". Cartography and Geographic Information Science. 
 
-2015	Schwartz, B., B. Tellman, R. Burns, C. Andersson. Big Data, Satellites, and Disaster Monitoring. In UN Human Development Report 2015.
+2015	Burns, Ryan, D. Meek. "Introduction: The Politics of Knowledge Production in the Geoweb." ACME: An International E-Journal for Critical Geographies.
+
+2015	Schwartz, B., B. Tellman, R. Burns, C. Andersson. Big Data, Satellites, and Disaster Monitoring. Incorporated into [Global Sustainable Development Report](https://sustainabledevelopment.un.org/content/documents/1758GSDR%202015%20Advance%20Unedited%20Version.pdf)
 
 2014	Burns, Ryan, J. Thatcher. "[Guest Editorial: What's So Big about Big Data? Finding the Spaces and Perils of Big Data.](/assets/uploads/whats_big_data.pdf)" GeoJournal. http://link.springer.com/article/10.1007/s10708-014-9600-8 (last accessed 10/21/2014).
 
@@ -126,7 +150,7 @@ Accepted	Burns, Ryan. "Synergies between Geoweb and Digital Humanitarian Researc
 
 
 <b>*Edited Journal Issues \(with Peer Review\)*</b>   
-*In press* Burns, Ryan, D. Meek. The Politics of Knowledge Production in the Geoweb. Special Issue of *ACME: An International E-Journal for Critical Geographies*. 
+2015 Burns, Ryan, D. Meek. The Politics of Knowledge Production in the Geoweb. Special Issue of *ACME: An International E-Journal for Critical Geographies*. 
 
 2015 Burns, Ryan, J. Thatcher. What's So Big about Big Data? Finding the Spaces and Perils of Big Data. Special Issue of *GeoJournal*.
 
@@ -155,6 +179,14 @@ Accepted	Burns, Ryan. "Synergies between Geoweb and Digital Humanitarian Researc
 ## Conference Presentations
 
 <b>*Papers presented*</b>   
+
+2016 (invited) "Big Data, digital humanitarianism, and smart cities: New directions for GIScience research". Invited presentation at San Diego State University Department of Geography: San Diego, CA.   
+
+2016 (accepted) "Smart cities, open data, and knowledge politics: Blank spots in cartographic representations". NACIS 2016: Colorado Springs, CO. Withdrew due to scheduling conflicts.   
+
+2016 (accepted) "The inequalities of economic and representational inclusion in digital ‘solutions’ to urban crisis". Regional Studies Association: Smart City-Regional Governance for Sustainability. Dresden, Germany.   
+
+2016 "Everyday disruptions, digital restorations: Community engagement and resistance to digital humanitarianism". Annual Meeting of the AAG: San Francisco, CA.   
 
 2015 "'Let the private sector take care of this': Toward a Political Economy of Digital Humanitarianism". Annual meeting of the AAG. Chicago, IL.   
 
@@ -190,6 +222,10 @@ Accepted	Burns, Ryan. "Synergies between Geoweb and Digital Humanitarian Researc
 
 
 <b>*Panel Participation &amp; Sessions Organized*</b>   
+
+2016	Organizer. “Hipster Geographies: Socio-spatial Practices, Politics, and Economies of Culture’s Most Maligned Figure”. Annual Meeting of the AAG. San Francisco, CA. Organizer with Cristina Temenos and Jesse McClelland. (2 sessions)   
+
+2016	Organizer. “Toward a Geographical Software Studies”. Annual meeting of the AAG. San Francisco, CA. Organizer with Nick Lally. (4 sessions)   
 
 2015	Consultant. "Academic Partnerships with HOT". Humanitarian OpenStreetMap Team Summit. Organizer: Robert Soden.
 
@@ -262,19 +298,25 @@ Accepted	Burns, Ryan. "Synergies between Geoweb and Digital Humanitarian Researc
 
 <b>*Full Courses*</b>   
 
-2015 GUS 0821: "Digital Mapping"
+2016 GUS 8068: "Web and Mobile GIS" (Temple U)   
 
-2015 GUS 3062/5062: "Fundamentals of GIS"
+2015 GUS 0821: "Digital Mapping" (Temple U)   
 
-2015 GEOG 465: "GIS Databases and Programming"
+2015 GUS 3062/5062: "Fundamentals of GIS" (Temple U)   
 
-2014 GEOG 301: "Cultural Geography"
+2015 GEOG 465: "GIS Databases and Programming" (UW)   
 
-2013 GEOG 102: "The Making of World Regions"
+2014 GEOG 301: "Cultural Geography" (UW)   
 
-2012 GEOG 461: "Urban GIS"
+2013 GEOG 102: "The Making of World Regions" (UW)   
+
+2012 GEOG 461: "Urban GIS" (UW)   
 
 <b>*Invited Lectures*</b>   
+
+2016 (invited)	Guest lecture in GEOG 463: Cities, Poverty, and Development (UofC)   
+
+2016	Guest lecture in ENST 2097: Research Design in Environmental Studies (TU)   
 
 2015 Seminar host in Data Science for Social Good program.
 
@@ -300,6 +342,8 @@ Accepted	Burns, Ryan. "Synergies between Geoweb and Digital Humanitarian Researc
 <a name="addProf"> </a>
 
 ## Professional Service
+
+2015-2016	Professional Science Master’s in GIS Steering Committee   
 
 2013-2014	Secretary and Treasurer, *"Geographic Information Systems and Science" Specialty Group of the AAG*
 
@@ -343,7 +387,9 @@ Accepted	Burns, Ryan. "Synergies between Geoweb and Digital Humanitarian Researc
 
 ## Community and Public Scholarship
 
-2014 Impact Evaluation Framework public portfolio, in partial fulfillment of graduate certificate in public scholarship.
+2015	Formatting and Sharing Your Syllabus with Markdown and Github. Invited workshop at Temple University, 10/30/2015.
+
+2014 Impact Evaluation Framework public portfolio, in partial fulfillment of graduate certificate in public scholarship. 
 
 2013 Interview for the Digital Humanitarian Network, "Guidance for Collaborating with Formal Humanitarian Organizations." http://app.box.com/s/w25sqotkg4qc2f2ch1ii.
 
