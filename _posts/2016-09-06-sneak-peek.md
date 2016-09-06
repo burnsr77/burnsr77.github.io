@@ -39,8 +39,8 @@ Bishop, M., and M. Green. 2008. Philanthrocapitalism: How the Rich Can Save the 
 Brandusescu, A., R. Sieber, and S. Jochems. 2015. Confronting the Hype: The Use of Crisis Mapping for Community Development. Convergence: The International Journal of Research into New Media Technologies. http://con.sagepub.com/content/early/2015/05/15/1354856515584320.full \(last accessed 29 August 2016\).
 Burawoy, M. 1998. The Extended Case Method. Sociological Theory 16 \(1\):4-33.
 Burns, R. 2014. Moments of Closure in the Knowledge Politics of Digital Humanitarianism. Geoforum 53:51-62.
-———. 2015a. Digital Humanitarianism and the Geospatial Web: Emerging Modes of Mapping and the Transformation of Humanitarian Practices. http://hdl.handle.net/1773/33947 \(last accessed 29 August 2016\).
-———. 2015b. Rethinking Big Data in Digital Humanitarianism: Practices, Epistemologies, and Social Relations. GeoJournal 80 \(4\):477-490.
+â€”â€”â€”. 2015a. Digital Humanitarianism and the Geospatial Web: Emerging Modes of Mapping and the Transformation of Humanitarian Practices. http://hdl.handle.net/1773/33947 \(last accessed 29 August 2016\).
+â€”â€”â€”. 2015b. Rethinking Big Data in Digital Humanitarianism: Practices, Epistemologies, and Social Relations. GeoJournal 80 \(4\):477-490.
 Calhoun, C. 2004. A World of Emergencies: Fear, Intervention, and the Limits of the Cosmopolitan Order. Canadian Review of Sociology &amp; Anthropology 41 \(4\):373-395.
 Crawford, K., and M. Finn. 2015. The Limits of Crisis Data: Analytical and Ethical Challenges of Using Social and Mobile Data to Understand Disasters. GeoJournal 80 \(4\):491-502.
 Diamond, L. 2010. Liberation Technology. Journal of Democracy 21 \(3\):69-83.
