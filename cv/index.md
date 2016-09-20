@@ -76,52 +76,56 @@ Member, Association of American Geographers \(AAG\)
 
 ## Grants, Fellowships, and Awards
 
-2013 United Nations Office for the Coordination of Humanitarian Affairs: "Humanitarian Research and Innovation Grant" \($4000\)
+2016-2019 $150,000. University of Calgary, Human Dynamics Research Strategy. “The Social and Environmental Implications of Smart Cities: A Global Comparative Research Agenda”. PI: Byron Miller Co-PIs: Gwendolyn Blue, Ryan Burns, Dean Curran, Victoria Fast, Noel Keough, Jack Lucas, Greg Morrow, Elizabeth Paris, Matt Patterson, Marit Rosol, Alan Smart, Josephine Smart, Eliot Tretter, Kathryn Reese-Taylor, Melanie Rock, Frank Towers, Aaron Williams 
 
-2013 UW Graduate School Gerlach Award \(\$3,000\) 
+2016 $1,500. University of Calgary, Vice President of Research Faculty Conference Travel Grant 
 
-2011-2012 Simpson Center for the Humanities Graduate Interest Group Funding \($1,000\) 
+2013 $4,000. United Nations Office for the Coordination of Humanitarian Affairs: "Humanitarian Research and Innovation Grant" 
 
-2011 Simpson Center for the Humanities Travel Funds \($750\)
+2013 $3,000. UW Graduate School Gerlach Award 
 
-2011 Howard Martin Research Grant \($556\) 
+2011-2012 $1,000. Simpson Center for the Humanities Graduate Interest Group Funding 
 
-2011 UW Graduate School Fund for Excellence and Innovation \($500\)
+2011 $750. Simpson Center for the Humanities Travel Funds 
 
-2011 UW Graduate &amp; Professional Student Senate Travel Fund \($250\) 
+2011 $556. Howard Martin Research Grant 
 
-2009 International Cartographic Association \(ICA\) Travel Scholarship \($1,800\)
+2011 $500. UW Graduate School Fund for Excellence and Innovation 
 
-2009 UW Geography Top Scholar Award \(1 year of funding: \$9,000\)
+2011 $250. UW Graduate &amp; Professional Student Senate Travel Fund 
 
-2009 Cartography &amp; Geographic Information Society \(CaGIS\) Master's Award \($500\)
+2009 $1,800. International Cartographic Association \(ICA\) Travel Scholarship 
 
-2007 SDSU McFarland Award \($6,600\)
+2009 $9,000. UW Geography Top Scholar Award \(1 year of funding\) 
 
-2007 SDSU Map Design Competition winner \($50\)
+2009 $500. Cartography &amp; Geographic Information Society \(CaGIS\) Master's Award 
 
-2006 EKU Milos Sebor Scholarship \($150\)
+2007 $6,600. SDSU McFarland Award
 
-2005 EKU Milos Sebor Scholarship \($200\)
+2007 $50. SDSU Map Design Competition winner 
 
-2005 School for International Training - "Culture, Language, and Development in Vietnam" research scholarship \($5,000\) 
+2006 $150. EKU Milos Sebor Scholarship 
+
+2005 $200. EKU Milos Sebor Scholarship 
+
+2005 $5,000. School for International Training - "Culture, Language, and Development in Vietnam" research scholarship 
 
 
 <a name="rsrch"> </a>
 
 ## Research Activities
 
-2016 (invited) Ethics of Location-Based Technologies in Crisis Workshop. American Association for the Advancement of Science. Washington, DC. Invited as participant.
+2016 (invited) Ethics of Location-Based Technologies in Crisis Workshop. American Association for the Advancement of Science. Washington, DC. Invited as participant. 
 
-2016 Participant, Summer Institute in Economic Geography. Lexington, KY, University of Kentucky.
+2016 Participant, Summer Institute in Economic Geography. Lexington, KY, University of Kentucky. 
 
-2015 Fellow, [Data Science for Social Good Fellowship](http://escience.washington.edu/what-we-do/data-science-for-social-good). eScience Institute, University of Washington.
+2015 Fellow, [Data Science for Social Good Fellowship](http://escience.washington.edu/what-we-do/data-science-for-social-good). eScience Institute, University of Washington. 
 
-2013 Oxford Internet Institute Summer Doctoral Programme  
-i-School, University of Toronto, Canada
+2014 Participant, "Revisiting Critical GIS". Friday Harbor Laboratories, Friday Harbor, WA. 
 
-2011 Bergen Summer Research School  
-University of Bergen, Norway
+2013 Oxford Internet Institute Summer Doctoral Programme. i-School, University of Toronto, Canada 
+
+2011 Bergen Summer Research School University of Bergen, Norway 
 
 
 <a name="pubs"> </a>
@@ -130,9 +134,9 @@ University of Bergen, Norway
 
 <b>*Peer-reviewed Articles and Book Chapters*</b>   
 
-In press	Burns, Ryan. "Synergies between Geoweb and Digital Humanitarian Research" (Working title). In Thatcher, J., A. Shears, J. Eckert (eds.), The Geoweb and Geography: (Re)Thinking Research in the Advent of Big Data. Lincoln, NE: University of Nebraska Press. 
+In press	Burns, Ryan. "Synergizing Geoweb and Digital Humanitarian Research". In Thatcher, J., A. Shears, J. Eckert (eds.), The Geoweb and Geography: (Re)Thinking Research in the Advent of Big Data. Lincoln, NE: University of Nebraska Press. 
 
-2015	Thatcher, Jim, L. Bergmann, B. Ricker, R. Rose-Redwood, D. Oâ€™Sullivan, T. Barnes, L. Barnesmoore, L. Beltz Imaoka, R. Burns, J. Cinnamon, C. Dalton, C. Davis, S. Dunn, F. Harvey, J.-K. Jung, E. Kersten, L. Knigge, N. Lally, W. Lin, D. Mahmoudi, M. Martin, W. Payne, A. Sheikh, T. Shelton, E. Sheppard, C. Strother, A. Tarr, M. Wilson, J. Young. "Revisiting Critical GIS: Reflections from Friday Harbor". Cartography and Geographic Information Science. 
+2016	Thatcher, Jim, L. Bergmann, B. Ricker, R. Rose-Redwood, D. Oâ€™Sullivan, T. Barnes, L. Barnesmoore, L. Beltz Imaoka, R. Burns, J. Cinnamon, C. Dalton, C. Davis, S. Dunn, F. Harvey, J.-K. Jung, E. Kersten, L. Knigge, N. Lally, W. Lin, D. Mahmoudi, M. Martin, W. Payne, A. Sheikh, T. Shelton, E. Sheppard, C. Strother, A. Tarr, M. Wilson, J. Young. ["Revisiting Critical GIS: Reflections from Friday Harbor"](assets/uploads/revisiting.pdf). Environment &amp; Planning A 48(5): 815-824.
 
 2015	Burns, Ryan, D. Meek. "Introduction: The Politics of Knowledge Production in the Geoweb." ACME: An International E-Journal for Critical Geographies.
 
@@ -314,6 +318,8 @@ In press	Burns, Ryan. "Synergies between Geoweb and Digital Humanitarian Researc
 
 <b>*Invited Lectures*</b>   
 
+2016 (invited)	Guest lecture in GEOG 340: Qualitative Methods in Human-Environment Research (UofC)   
+
 2016 (invited)	Guest lecture in GEOG 463: Cities, Poverty, and Development (UofC)   
 
 2016	Guest lecture in ENST 2097: Research Design in Environmental Studies (TU)   
@@ -370,7 +376,11 @@ In press	Burns, Ryan. "Synergies between Geoweb and Digital Humanitarian Researc
 
 ## Manuscript Reviews
 
-	GeoJournal
+	Philosophical Transactions
+	
+	New Media & Society
+	
+	GeoJournal \(x2\)
 
 	Cartographica
 
