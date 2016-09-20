@@ -9,7 +9,7 @@ I am a "public scholar", which for me means that I actively work to communicate 
 
 Before coming to Temple, I earned a Ph.D. at University of Washington, where I worked with Sarah Elwood, Mark Ellis, Vicky Lawson, and Jin-Kyu Jung. I did my master's degree research in Geography at San Diego State University (2009), where I worked with Andr&#233; Skupin to visualize people's perceptions of San Diego neighborhoods. Going even further back, in 2006 I graduated Magna Cum Laude from Eastern Kentucky University with a B.A. in Geography. 
 
-But most importantly, I am more than my academic interests. I write music reviews for [The Sights and Sounds](http://thesightsandsounds.com/), specializing in ambient, experimental, and minimal electronic music. I run a lot - I have recently mapped out an ambitious journey to the Badwater Ultramarathon within the next 5-7 years, including at least a half dozen 100-mile runs along the way. I have read a good number of the [Modern Library's 100 Best Novels](http://www.modernlibrary.com/top-100/100-best-novels/), and I'm still working my way through it. I love backpacking, tea, technology, and my wife (yes, really). I would like to climb Mt. Kilimanjaro before the permanent snow melts. If I could go back in history to meet someone, I wouldn't go far - probably mid-1920s and meet ee Cummings.
+But most importantly, I am more than my academic interests. I write music reviews for [The Sights and Sounds](http://thesightsandsounds.com/), specializing in ambient, experimental, and minimal electronic music. I run a lot - I have recently mapped out an ambitious journey to the Badwater Ultramarathon within the next 5-7 years, including at least a half dozen 100-mile runs along the way. I have read a good number of the [Modern Library's 100 Best Novels](http://www.modernlibrary.com/top-100/100-best-novels/), and I'm still working my way through it. I love backpacking, tea, technology, and photography. I would like to climb Mt. Kilimanjaro before the permanent snow melts. If I could go back in history to meet someone, I wouldn't go far - probably mid-1920s and meet ee Cummings.
 
 - -
 
@@ -17,7 +17,7 @@ But most importantly, I am more than my academic interests. I write music review
 
 **telly:**
 
-859\.582\.9125
+587\.500\.2494
 
 **gmail:**
 
