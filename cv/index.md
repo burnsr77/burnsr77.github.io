@@ -76,7 +76,7 @@ Member, Association of American Geographers \(AAG\)
 
 ## Grants, Fellowships, and Awards
 
-2016-2019 $150,000. University of Calgary, Human Dynamics Research Strategy. “The Social and Environmental Implications of Smart Cities: A Global Comparative Research Agenda”. PI: Byron Miller Co-PIs: Gwendolyn Blue, Ryan Burns, Dean Curran, Victoria Fast, Noel Keough, Jack Lucas, Greg Morrow, Elizabeth Paris, Matt Patterson, Marit Rosol, Alan Smart, Josephine Smart, Eliot Tretter, Kathryn Reese-Taylor, Melanie Rock, Frank Towers, Aaron Williams 
+2016-2019 $150,000. University of Calgary, Human Dynamics Research Strategy. "The Social and Environmental Implications of Smart Cities: A Global Comparative Research Agenda". PI: Byron Miller Co-PIs: Gwendolyn Blue, Ryan Burns, Dean Curran, Victoria Fast, Noel Keough, Jack Lucas, Greg Morrow, Elizabeth Paris, Matt Patterson, Marit Rosol, Alan Smart, Josephine Smart, Eliot Tretter, Kathryn Reese-Taylor, Melanie Rock, Frank Towers, Aaron Williams 
 
 2016 $1,500. University of Calgary, Vice President of Research Faculty Conference Travel Grant 
 
