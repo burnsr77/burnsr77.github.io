@@ -134,7 +134,7 @@ Member, Association of American Geographers \(AAG\)
 
 <b>*Peer-reviewed Articles and Book Chapters*</b>   
 
-In press	Burns, Ryan. "Synergizing Geoweb and Digital Humanitarian Research". In Thatcher, J., A. Shears, J. Eckert (eds.), The Geoweb and Geography: (Re)Thinking Research in the Advent of Big Data. Lincoln, NE: University of Nebraska Press. 
+In press	Burns, Ryan. "Synergizing Geoweb and Digital Humanitarian Research". In Thatcher, J., A. Shears, J. Eckert (eds.), Geographic Research in an Age of New (Big) Data. Lincoln, NE: University of Nebraska Press. 
 
 2016	Thatcher, Jim, L. Bergmann, B. Ricker, R. Rose-Redwood, D. O’Sullivan, T. Barnes, L. Barnesmoore, L. Beltz Imaoka, R. Burns, J. Cinnamon, C. Dalton, C. Davis, S. Dunn, F. Harvey, J.-K. Jung, E. Kersten, L. Knigge, N. Lally, W. Lin, D. Mahmoudi, M. Martin, W. Payne, A. Sheikh, T. Shelton, E. Sheppard, C. Strother, A. Tarr, M. Wilson, J. Young. ["Revisiting Critical GIS: Reflections from Friday Harbor"](/assets/uploads/revisiting.pdf). Environment &amp; Planning A 48(5): 815-824.
 
