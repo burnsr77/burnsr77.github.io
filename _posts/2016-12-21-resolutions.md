@@ -17,9 +17,9 @@ At the same time, this year, with my moving into a tenure-track position, I'm be
 ..* Murakami, Kafka on the Shore
 ..* Wright, Native Son
 ..* Morrison, Beloved
-..* Céline, Journey to the End of the Night
+..* CÃ©line, Journey to the End of the Night
 ..* Camus, The Stranger
-..* Rulfo, Pedro Páramo
+..* Rulfo, Pedro PÃ¡ramo
 ..* Proust, Swann's Way
 ..* Kingsolver, The Bean Trees
 ..* Achebe, Things Fall Apart
