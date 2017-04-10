@@ -4,19 +4,17 @@ author: rlburns
 layout: layout
 ---
 
-[Click here for the much neater, and up-to-date PDF version](/assets/uploads/Burns_CV.pdf)
+[Click here for my complete CV](/assets/uploads/Burns_CV.pdf)
 
-See below for HTML version, with links \(where available\).
+See below for selective HTML version, with links.
 
 go to:  
 [academic employment](#employment)   
-[education](#education)   
-[affiliations](#affiliations)   
+[education](#education)    
 [awards](#awards)   
 [research activities](#rsrch)   
 [publications](#pubs)   
 [presentations](#presentations)   
-[additional research](#addResearch)   
 [teaching](#teaching)     
 [service](#addProf)   
 [peer reviews](#review)   
@@ -46,7 +44,6 @@ Dissertation title: [Digital Humanitarianism and the Geospatial Web: Emerging Mo
 
 2010-2015 Work toward Graduate Certificate in Public Scholarship  
 Simpson Center for the Humanities, University of Washington  
-Capstone adviser: Kirsten Foot \(Communications\); Portfolio adviser: Tad Hirsch \(School of Art, Design Division\)
 
 2009 M.S. Geographic Information Science  
 San Diego State University  
@@ -56,25 +53,13 @@ Committee: André Skupin, Stuart Aitken, Eniko Csomay \(Linguistics\)
 Eastern Kentucky University  
 Adviser: David Zurick
 
-
-<a name="affiliations"> </a>
-
-## Affiliations
-
-HASTAC Scholar, Humanities, Arts, Science, and Technology Alliance and Collaboratory \(HASTAC\)
-
-Member, International Association of Emergency Managers
-
-Member, Standby Task Force \(digital humanitarian organization\)
-
-Member, Gamma Theta Upsilon \(international geographic honorary society\)
-
-Member, Association of American Geographers \(AAG\)
-
-
 <a name="awards"> </a>
 
 ## Grants, Fellowships, and Awards
+
+2017 $25,000. SSHRC Connection Grant. "The Social and Environmental Implications of Smart Cities: Toward a Global Comparative Research Agenda." PI: Byron Miller. Co-applicants: Ryan Burns, Victoria Fast, Jack Lucas, Matthew Patterson, Frank Towers, Eliot Tretter. Collaborators: Gwendolyn Blue, Dean Curran, Elizabeth Paris, Melanie Rock, Marit Rosol, Alan Smart, Aaron Williams 
+
+2017 Department of Geography Graduate Student Association Recognition Award 
 
 2016-2019 $150,000. University of Calgary, Human Dynamics Research Strategy. "The Social and Environmental Implications of Smart Cities: A Global Comparative Research Agenda". PI: Byron Miller Co-PIs: Gwendolyn Blue, Ryan Burns, Dean Curran, Victoria Fast, Noel Keough, Jack Lucas, Greg Morrow, Elizabeth Paris, Matt Patterson, Marit Rosol, Alan Smart, Josephine Smart, Eliot Tretter, Kathryn Reese-Taylor, Melanie Rock, Frank Towers, Aaron Williams 
 
@@ -86,27 +71,11 @@ Member, Association of American Geographers \(AAG\)
 
 2011-2012 $1,000. Simpson Center for the Humanities Graduate Interest Group Funding 
 
-2011 $750. Simpson Center for the Humanities Travel Funds 
-
-2011 $556. Howard Martin Research Grant 
-
-2011 $500. UW Graduate School Fund for Excellence and Innovation 
-
-2011 $250. UW Graduate &amp; Professional Student Senate Travel Fund 
-
-2009 $1,800. International Cartographic Association \(ICA\) Travel Scholarship 
-
 2009 $9,000. UW Geography Top Scholar Award \(1 year of funding\) 
 
 2009 $500. Cartography &amp; Geographic Information Society \(CaGIS\) Master's Award 
 
 2007 $6,600. SDSU McFarland Award
-
-2007 $50. SDSU Map Design Competition winner 
-
-2006 $150. EKU Milos Sebor Scholarship 
-
-2005 $200. EKU Milos Sebor Scholarship 
 
 2005 $5,000. School for International Training - "Culture, Language, and Development in Vietnam" research scholarship 
 
@@ -115,7 +84,9 @@ Member, Association of American Geographers \(AAG\)
 
 ## Research Activities
 
-2016 (invited) Ethics of Location-Based Technologies in Crisis Workshop. American Association for the Advancement of Science. Washington, DC. Invited as participant. 
+2017 (expected) Ethical Issues of Digital Humanitarianism. Invited as participant for one-day workshop. Montreal, QC. 
+
+2016-2017 Ethics of Location-Based Technologies in Crisis Workshop. American Association for the Advancement of Science. Washington, DC. Invited as participant. 
 
 2016 Participant, Summer Institute in Economic Geography. Lexington, KY, University of Kentucky. 
 
@@ -132,50 +103,36 @@ Member, Association of American Geographers \(AAG\)
 
 ## Publications
 
-<b>*Peer-reviewed Articles and Book Chapters*</b>   
+<b>*Articles and Book Chapters*</b>   
 
-In press	Burns, Ryan. "Synergizing Geoweb and Digital Humanitarian Research". In Thatcher, J., A. Shears, J. Eckert (eds.), Geographic Research in an Age of New (Big) Data. Lincoln, NE: University of Nebraska Press. 
+In press	Burns, Ryan. Synergizing Geoweb and Digital Humanitarian Research. In Thatcher, J., A. Shears, J. Eckert (eds.), *Geographic Research in an Age of New (Big) Data*. Lincoln, NE: University of Nebraska Press. 
 
-2016	Thatcher, Jim, L. Bergmann, B. Ricker, R. Rose-Redwood, D. O’Sullivan, T. Barnes, L. Barnesmoore, L. Beltz Imaoka, R. Burns, J. Cinnamon, C. Dalton, C. Davis, S. Dunn, F. Harvey, J.-K. Jung, E. Kersten, L. Knigge, N. Lally, W. Lin, D. Mahmoudi, M. Martin, W. Payne, A. Sheikh, T. Shelton, E. Sheppard, C. Strother, A. Tarr, M. Wilson, J. Young. ["Revisiting Critical GIS: Reflections from Friday Harbor"](/assets/uploads/revisiting.pdf). Environment &amp; Planning A 48(5): 815-824.
+Accepted	Burns, Ryan. Internet Mapping. In B. Warf (ed.), *The Sage Encyclopedia of the Internet*. 
 
-2015	Burns, Ryan, D. Meek. "Introduction: The Politics of Knowledge Production in the Geoweb." ACME: An International E-Journal for Critical Geographies.
+Accepted	Burns, Ryan. "Let the Private Sector Take Care of This": The Philanthro-capitalism of Digital Humanitarianism. In M. Graham (ed.), Digital Economies at the Global Margins. Cambridge, MA: MIT Press. 
 
-2015	Schwartz, B., B. Tellman, R. Burns, C. Andersson. Big Data, Satellites, and Disaster Monitoring. Incorporated into [Global Sustainable Development Report](https://sustainabledevelopment.un.org/content/documents/1758GSDR%202015%20Advance%20Unedited%20Version.pdf)
+2016	Thatcher, Jim, L. Bergmann, B. Ricker, R. Rose-Redwood, D. O’Sullivan, T. Barnes, L. Barnesmoore, L. Beltz Imaoka, R. Burns, J. Cinnamon, C. Dalton, C. Davis, S. Dunn, F. Harvey, J.-K. Jung, E. Kersten, L. Knigge, N. Lally, W. Lin, D. Mahmoudi, M. Martin, W. Payne, A. Sheikh, T. Shelton, E. Sheppard, C. Strother, A. Tarr, M. Wilson, J. Young. [Revisiting Critical GIS: Reflections from Friday Harbor](/assets/uploads/revisiting.pdf). *Environment &amp; Planning A* 48(5): 815-824.
 
-2014	Burns, Ryan, J. Thatcher. "[Guest Editorial: What's So Big about Big Data? Finding the Spaces and Perils of Big Data.](/assets/uploads/whats_big_data.pdf)" GeoJournal. http://link.springer.com/article/10.1007/s10708-014-9600-8 (last accessed 10/21/2014).
+2015	Schwartz, B., B. Tellman, R. Burns, C. Andersson. Big Data, Satellites, and Disaster Monitoring. Incorporated into [*UN Global Sustainable Development Report*](https://sustainabledevelopment.un.org/content/documents/1758GSDR%202015%20Advance%20Unedited%20Version.pdf)
 
-2014	Burns, Ryan. "[Rethinking Big Data in Digital Humanitarianism: Practices, Epistemologies, and Social Relations.](/assets/uploads/burns_rethinking_big_data.pdf)" GeoJournal. http://link.springer.com/article/10.1007/s10708-014-9599-x (last accessed 10/15/2014).
+2014	Burns, Ryan. [Rethinking Big Data in Digital Humanitarianism: Practices, Epistemologies, and Social Relations.](/assets/uploads/burns_rethinking_big_data.pdf) *GeoJournal*. http://link.springer.com/article/10.1007/s10708-014-9599-x (last accessed 10/15/2014).
 
-2014	Burns, Ryan. "[Moments of Closure in the Knowledge Politics of Digital Humanitarianism.](/assets/uploads/burns_moments_of_closure.pdf)" Geoforum 53 (2): 51-62.
+2014	Burns, Ryan. [Moments of Closure in the Knowledge Politics of Digital Humanitarianism.](/assets/uploads/burns_moments_of_closure.pdf) *Geoforum* 53 (2): 51-62.
 
-2013	Shanley, Lea, R. Burns, Z. Bastian, E. Robson. "[Tweeting Up a Storm: The Promise and Perils of Crisis Mapping.](/assets/uploads/shanley_burns_et_al_tweeting_up_storm.pdf)" Photogrammetric Engineering & Remote Sensing 79 (10): 865-879. 
+2013	Shanley, Lea, R. Burns, Z. Bastian, E. Robson. [Tweeting Up a Storm: The Promise and Perils of Crisis Mapping.](/assets/uploads/shanley_burns_et_al_tweeting_up_storm.pdf) *Photogrammetric Engineering & Remote Sensing* 79 (10): 865-879. 
 
-2013	Burns, Ryan, A. Skupin. "[Towards Qualitative Geovisual Analytics: A Case Study Involving Places, People, and Mediated Experience.](/assets/uploads/burns_skupin_qual_geoviz.pdf)" Cartographica 48(3): 157-176.
+2013	Burns, Ryan, A. Skupin. [Towards Qualitative Geovisual Analytics: A Case Study Involving Places, People, and Mediated Experience.](/assets/uploads/burns_skupin_qual_geoviz.pdf) *Cartographica* 48(3): 157-176.
+
+2013	Burns, Ryan, L. Shanley. [Connecting Grassroots to Government for Disaster Management: Workshop Summary](/assets/uploads/burns_shanley_workshop_report.pdf). Woodrow Wilson International Center for Scholars. http://www.scribd.com/doc/165813847/Connecting-Grassroots-to-Government-for-Disaster-Management-Workshop-Summary \(last accessed 3/7/2014\).
 
 
 <b>*Edited Journal Issues \(with Peer Review\)*</b>   
+
+In press	Burns, Ryan, C. Dalton, J. Thatcher. Making More out of Data: Advancing Critical Data Studies. Special Issue of *Professional Geographer*. 
+
 2015 Burns, Ryan, D. Meek. The Politics of Knowledge Production in the Geoweb. Special Issue of *ACME: An International E-Journal for Critical Geographies*. 
 
 2015 Burns, Ryan, J. Thatcher. What's So Big about Big Data? Finding the Spaces and Perils of Big Data. Special Issue of *GeoJournal*.
-
-
-<b>*Conference Proceedings and White Papers*</b>   
-2013	Burns, Ryan, L. Shanley. [Connecting Grassroots to Government for Disaster Management: Workshop Summary](/assets/uploads/burns_shanley_workshop_report.pdf). Woodrow Wilson International Center for Scholars. http://www.scribd.com/doc/165813847/Connecting-Grassroots-to-Government-for-Disaster-Management-Workshop-Summary \(last accessed 3/7/2014\).
-
-2012	Burns, Ryan. Connecting Grassroots to Government for Disaster Management. Woodrow Wilson International Center for Scholars. http://bit.ly/OC4kmD \(last accessed 9/18/2012\).
-
-2009	Burns, Ryan, A. Skupin. Mapping Places, People, and Utterances to Visualize the Experience of Place. In Proceedings of the 24th International Cartographic Conference, Santiago, Chile \(CD-ROM\). http://bit.ly/POhGuu \(last accessed 9/12/2012\). 
-
-
-<b>*Published Maps*</b>   
-
-2011	[Collection of 3 maps] In Ramamurthy, P., "Rearticulating Caste: The Global Cottonseed Commodity Chain and the Paradox of Smallholder Capitalism in South India," Environment and Planning A 43: 1035-1056.
-
-2011	[Collection of 5 maps/screenshots from the Mapping Youth Journeys project website] In K. Mitchell, S. Elwood, "Engaging Students through Mapping Local History," Journal of Geography 111\(4\): 148-157. 
-
-2010	[Collection of 6 maps about poverty in the Pacific Northwest] In V. Lawson, L. Jarosz and A. Bonds, "Articulations of Place, Poverty, and Race: Dumping Grounds and Unseen Grounds in the Rural American Northwest," Annals of the Association of American Geographers 100\(3\): 655-677.
-
-2007	Map of Ecuador, Including the Extension of Páramo Grasslands and the Location of the Aglomerados, S.A. \(ACOSA\) Plantation. In K. Farley, "Grasslands to Tree Plantations: Forest Transition in the Andes of Ecuador," Annals of the Association of American Geographers 97\(4\): 760.
 
 
 <a name="presentations"> </a>
@@ -184,11 +141,13 @@ In press	Burns, Ryan. "Synergizing Geoweb and Digital Humanitarian Research". In
 
 <b>*Papers presented*</b>   
 
-2016 (invited) "Big Data, digital humanitarianism, and smart cities: New directions for GIScience research". Invited presentation at San Diego State University Department of Geography: San Diego, CA.   
+2017 (accepted) "Knowledge Politics and Representational Inequalities in Open Calgary". Nordic Geographers Meeting: Stockholm, Sweden. 
 
-2016 (accepted) "Smart cities, open data, and knowledge politics: Blank spots in cartographic representations". NACIS 2016: Colorado Springs, CO. Withdrew due to scheduling conflicts.   
+2017 "Data Absences and Strategies: Community Tactics for Self-representation". Annual Meeting of the AAG: Boston, MA. 
 
-2016 (accepted) "The inequalities of economic and representational inclusion in digital ‘solutions’ to urban crisis". Regional Studies Association: Smart City-Regional Governance for Sustainability. Dresden, Germany.   
+2016 "Big Data, digital humanitarianism, and smart cities: New directions for GIScience research". Invited presentation at San Diego State University Department of Geography: San Diego, CA.  
+
+2016 "The inequalities of economic and representational inclusion in digital ‘solutions’ to urban crisis". Regional Studies Association: Smart City-Regional Governance for Sustainability. Dresden, Germany.   
 
 2016 "Everyday disruptions, digital restorations: Community engagement and resistance to digital humanitarianism". Annual Meeting of the AAG: San Francisco, CA.   
 
@@ -198,32 +157,11 @@ In press	Burns, Ryan. "Synergizing Geoweb and Digital Humanitarian Research". In
 
 2014 "The Digital Humanitarian Moment: New Practices, Knowledge Politics, and Philanthro-capitalism." University of Washington Department of Geography Colloquium. Seattle, WA.   
 
-2014 "Rethinking Knowledge Politics through Digital Humanitarianism." Annual meeting of the AAG. Tampa, FL.
-
 2012 "Digital Public Scholarship: Mapping Youth Journeys." College of Arts &amp; Sciences Dean's Showcase. HuskyFest 2012. Seattle, WA.
-
-2012 "Beyond Inclusion and Empowerment: Inequality in the Geoweb." Annual meeting of the AAG. New York, NY.
-
-2011 "Software-sorted Geographies of the Urban Global South." Annual meeting of the AAG. Seattle WA.
 
 2010 Mitchell, K. &amp; R. Burns [equal contribution] "Mapping Engagement: Using Basic Geovisualization Technologies to Help Children Become Better Geographers and Better Citizens." Plenary session, Fall meeting of the Association of Washington Geographers.
 
-2010 "'Exploring Geovisualization': Reflections, Ideas, and Questions." Annual meeting of the AAG. Washington, D.C.
-
 2009 "Visualization of Attribute Spaces Involving Places, People and Utterances." International Cartographic Conference. Santiago, Chile.
-
-2009 "Spatializing Places, People, and Utterances- A Case Study Involving San Diego Neighborhoods." Annual meeting of the AAG. Las Vegas, NV.
-
-2008 "Landscapes of Participatory Dialogue: Participation and Geovisualization in AgoraXchange." Annual Meeting of the AAG. Boston, MA.
-
-2008 Verutes, G., R. Burns "Visualizing Linguistic Variation within University Classroom Discourse." Annual Meeting of the AAG. Boston, MA.
-
-2007 "...things seen are temporal, things unseen are eternal." Association of Pacific Coast Geographers. Long Beach, CA. Co-presenters: Christopher Moreno, Sean Crotty, Steven Jareb, Mike Beland, Jenny Duncan, Karen Stahl.
-
-2006 "Globalization and the Cultural Significance of Bookstores in Viet Nam." Undergraduate Presentation Showcase, Eastern Kentucky University. Poster presentation.
-
-2005 "Is Small-town Kentucky Ready to Grow? Community Readiness for Growth and Development Along the I-75 Corridor." Posters-at-the-Capitol, Frankfort, KY. Poster presentation. Co-presented with Ricardo Hernandez. 
-
 
 <b>*Panel Participation &amp; Sessions Organized*</b>   
 
@@ -233,19 +171,11 @@ In press	Burns, Ryan. "Synergizing Geoweb and Digital Humanitarian Research". In
 
 2015	Consultant. "Academic Partnerships with HOT". Humanitarian OpenStreetMap Team Summit. Organizer: Robert Soden.
 
-2015	Organizer. "Critical Data, Critical Technology: in Theory." Annual meeting of the AAG. Chicago, IL. Organizer with Jim Thatcher and Craig Dalton. 2 sessions.
-
-2015	Organizer. "Critical Data, Critical Technology: in Praxis." Annual meeting of the AAG. Chicago, IL. Organizer with Jim Thatcher and Craig Dalton. 2 sessions.
-
-2015	Organizer. "On the Political Economy of Geospatial Technologies."  Annual meeting of the AAG. Chicago, IL. Organizer with Jim Thatcher and Craig Dalton.
-
-2014	Participant. "Revisiting Critical GIS". Friday Harbor Laboratories, Friday Harbor, WA. 
+2015	Organizer. "Critical Data, Critical Technology: in Theory/Praxis" and "On the Political Economy of Geospatial Technologies." Annual meeting of the AAG. Chicago, IL. Organizer with Jim Thatcher and Craig Dalton. 5 total sessions.
 
 2014	Panelist. "Publishing, not Perishing: A Student's Guide to Academic Publishing." Annual meeting of the AAG. Tampa, FL.
 
-2014	Panelist. "alt.conference on Big Data: Lightning Panel." Annual meeting of the AAG. Tampa, FL.
-
-2013	Organizer. "Whither Small Data?: The Limits of ‘Big Data' and the Value of ‘Small Data' Studies." Organizer with Jim Thatcher. Annual meeting of the AAG. Los Angeles, CA. Presenting panelists: Rob Kitchin, Jim Thatcher, Ralph Schroeder \(Oxford Internet Institute, Oxford University\), Taylor Shelton. Discussant: Andrés Monroy-Hernández \(Microsoft Research\).
+2013	Organizer. "Whither Small Data?: The Limits of 'Big Data' and the Value of 'Small Data' Studies." Organizer with Jim Thatcher. Annual meeting of the AAG. Los Angeles, CA. Presenting panelists: Rob Kitchin, Jim Thatcher, Ralph Schroeder \(Oxford Internet Institute, Oxford University\), Taylor Shelton. Discussant: Andrés Monroy-Hernández \(Microsoft Research\).
 
 2013	Organizer. "Critical Interventions into Gender &amp; the Geoweb." Organizer with Monica Stephens. Annual meeting of the AAG. Los Angeles, CA. Presenting panelists: Brent Hecht, Monica Stephens, Michele Masucci, Adrianne Wadewitz \(Center of Digital Learning and Research, Occidental College\).
 
@@ -255,99 +185,25 @@ In press	Burns, Ryan. "Synergizing Geoweb and Digital Humanitarian Research". In
 
 2011	Organizer. "Critical Perspectives on Software &amp; Space." Organizer with Joe Eckert. Annual meeting of the AAG. Seattle, WA. Presenting panelists: Mark Graham, Matt Zook, Rob Kitchin, Wendy Chun \(Modern Culture and Media, Brown University\). Chair: Sarah Elwood. Discussant: Matt Wilson.
 
-
-<b>*Discussant*</b>   
-
-2014	"Disaster Time: Critical Perspectives on Crisis Informatics and the Temporal Aspects of Disasters." Annual meeting of the AAG. Tampa, FL.
-
-2013	"Critical Interventions into Gender &amp; the Geoweb." Annual meeting of the AAG. Los Angeles, CA. Presenting panelists: Brent Hecht, Monica Stephens, Michele Masucci, Adrianne Wadewitz \(Center of Digital Learning and Research, Occidental College\).
-
-2013	"Crowdsourcing Crisis in the GeoWeb: A Critical Look." Annual meeting of the AAG. Los Angeles, CA. Organized by Barbara Poore and Sophia Liu. Presenters: Katrina Petersen \(Communication, University of California - Santa Barbara\), Andrés Monroy-Hernández \(Microsoft Research\), Megan Finn \(Microsoft Research\), Cameran Ashraf \(University of California - Los Angeles\).
-
-
-<a name="addResearch"> </a>
-
-## Additional Research Activities
-
-2014 Research Assistant: Dr. Matt Dunbar, Center for Studies in Demography and Ecology
-
-2009-2012 Research Assistant: Dr. Sarah Elwood, Mapping Youth Journeys
-
-2009-2010 Assistant: Dr. Katharyne Mitchell, Top This Parenting
-
-2008-2009 GIS Specialist: Helix Environmental Planning, Inc.
-
-2007 GIS Analyst/Cartographer: Baja Directions \(bathymetric cartography company\)
-
-2006-2007 SDSU Geography Graduate Assistant: Dr. Kathleen Farley
-
-2006-2007 GIS Analyst: IGIS Technologies, Inc. \(GIS services consulting company\)
-
-2005 Volunteer Assistant: Dr. Dan Weir, mapping a derelict cemetery for future renovation and restoration. My particular involvement was to map the gathered GPS coordinates.
-
-2003-2006 Assistant: Dr. David Zurick, researching culture change in the Himalayas based on US-based travel agencies there.
-
-2003-2006 Assistant: Dr. Bruce Davis, producing an online atlas of the South Pacific using ArcScan and ArcIMS.
-
-2006 GIS Intern: City of Berea, KY. Supervised by Paul Schraeder.
-
-2005 Independent study in Viet Nam. Used MapInfo and ArcMap to map bookstores in Ho Chi Minh City. I combined this with 30 interviews, delving into bookstores' cultural significance to Viet Nam.
-
-2005 Senior thesis, expanding on the independent study, but focusing on how cultural globalization is affecting the influence of bookstores in Viet Nam. Presented at EKU in December, 2005.
-
-
 <a name="teaching"> </a>
 
 ## Teaching Experience
 
-<b>*Full Courses*</b>   
+Advanced Research and Applications in GIS, Urban and Environmental GIS (U of Calgary)
 
-2016 GUS 8068: "Web and Mobile GIS" (Temple U)   
+Web and Mobile GIS, Digital Mapping, Fundamentals of GIS (Temple U)   
 
-2015 GUS 0821: "Digital Mapping" (Temple U)   
-
-2015 GUS 3062/5062: "Fundamentals of GIS" (Temple U)   
-
-2015 GEOG 465: "GIS Databases and Programming" (UW)   
-
-2014 GEOG 301: "Cultural Geography" (UW)   
-
-2013 GEOG 102: "The Making of World Regions" (UW)   
-
-2012 GEOG 461: "Urban GIS" (UW)   
-
-<b>*Invited Lectures*</b>   
-
-2016 (invited)	Guest lecture in GEOG 340: Qualitative Methods in Human-Environment Research (UofC)   
-
-2016 (invited)	Guest lecture in GEOG 463: Cities, Poverty, and Development (UofC)   
-
-2016	Guest lecture in ENST 2097: Research Design in Environmental Studies (TU)   
-
-2015 Seminar host in Data Science for Social Good program.
-
-2014 Guest lecture in GEOG 360: "Introduction to GIS"   
-
-2014 Guest lecture in GEOG 277: "Geographies of Cities"
-
-2012 Guest lecture in GEOG 469/569: "GIS Workshop"
-
-2012 Guest lecture in GEOG 461/561: "Urban GIS"
-
-2010 "Participatory Mapping" Imagining America Site Visit
-
-<b>*Teaching Assistant*</b>   
-
-2014 UW Geography Teaching Assistant: Introduction to GIS
-
-2012 UW Geography Teaching Assistant: Urban GIS, GIS Workshop
-
-2007-2008 SDSU Geography Teaching Assistant: Introduction to GIS \(twice\), Map Investigation, and Animated Cartographic Design
-
+2015 GEOG 465: "GIS Databases and Programming, Cultural Geography, The Making of World Regions, Urban GIS (U Washington)   
 
 <a name="addProf"> </a>
 
 ## Professional Service
+
+2017	Judge for the Department of Geography’s 54th Annual Conference   
+
+2017	College of Reviewers applicant - reviewer   
+
+2016	Program Committee for Spatial Knowledge and Information – Canada 2017   
 
 2015-2016	Professional Science Master’s in GIS Steering Committee   
 
@@ -360,38 +216,6 @@ In press	Burns, Ryan. "Synergizing Geoweb and Digital Humanitarian Research". In
 2008-2012	Webmaster, *"Socialist &amp; Critical Geography" Specialty Group of the AAG*
 
 2011-2012	Primary Project Liaison, *"Making the University Public" Graduate Interest Group*
-
-2011-2012	Graduate Policy Committee Representative, Department of Geography, UW
-
-2010-2011	Co-president \(with Chris Lizotte\) of the Geography Dept Graduate Student Association
-
-2007-2008	SDSU Geography Colloquium Planning Committee
-
-2002-2006	EKU Honors Program scholar
-
-2002-2004	EKU Geography Club President once and Secretary twice
-
-
-<a name="review"> </a>
-
-## Manuscript Reviews
-
-	Philosophical Transactions
-	
-	New Media & Society
-	
-	GeoJournal \(x2\)
-
-	Cartographica
-
-	Geography Compass \(x3\)
-
-	Plenum: A Journal of Geography \(x2\)
-
-	International Journal of Applied Geospatial Research
-
-	US National Report to the International Cartographic Association
-
 
 <a name="press"> </a>
 
