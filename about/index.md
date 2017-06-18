@@ -15,9 +15,9 @@ But most importantly, I am more than my academic interests. I write music review
 
 ## contact details
 
-**telly:**
 
-587\.500\.2494
+
+
 
 **gmail:**
 
