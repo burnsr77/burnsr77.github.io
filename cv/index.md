@@ -84,19 +84,19 @@ Adviser: David Zurick
 
 ## Research Activities
 
-2017 (expected) Ethical Issues of Digital Humanitarianism. Invited as participant for one-day workshop. Montreal, QC. 
+2017	Ethical Issues of Digital Humanitarianism. Invited as participant for one-day workshop. Montreal, QC. 
 
-2016-2017 Ethics of Location-Based Technologies in Crisis Workshop. American Association for the Advancement of Science. Washington, DC. Invited as participant. 
+2016-2017	Ethics of Location-Based Technologies in Crisis Workshop. American Association for the Advancement of Science. Washington, DC. Invited as participant. 
 
-2016 Participant, Summer Institute in Economic Geography. Lexington, KY, University of Kentucky. 
+2016	Participant, Summer Institute in Economic Geography. Lexington, KY, University of Kentucky. 
 
-2015 Fellow, [Data Science for Social Good Fellowship](http://escience.washington.edu/what-we-do/data-science-for-social-good). eScience Institute, University of Washington. 
+2015	Fellow, [Data Science for Social Good Fellowship](http://escience.washington.edu/what-we-do/data-science-for-social-good). eScience Institute, University of Washington. 
 
-2014 Participant, "Revisiting Critical GIS". Friday Harbor Laboratories, Friday Harbor, WA. 
+2014	Participant, "Revisiting Critical GIS". Friday Harbor Laboratories, Friday Harbor, WA. 
 
-2013 Oxford Internet Institute Summer Doctoral Programme. i-School, University of Toronto, Canada 
+2013	Oxford Internet Institute Summer Doctoral Programme. i-School, University of Toronto, Canada 
 
-2011 Bergen Summer Research School University of Bergen, Norway 
+2011	Bergen Summer Research School University of Bergen, Norway 
 
 
 <a name="pubs"> </a>
@@ -107,9 +107,13 @@ Adviser: David Zurick
 
 In press	Burns, Ryan. Synergizing Geoweb and Digital Humanitarian Research. In Thatcher, J., A. Shears, J. Eckert (eds.), *Geographic Research in an Age of New (Big) Data*. Lincoln, NE: University of Nebraska Press. 
 
+In press	Burns, Ryan. [Datafying Disaster: Institutional Framings of Data Production following Superstorm Sandy](/assets/uploads/burns_datafying_disaster.pdf). Annals of the American Association of Geographers. 
+
 Accepted	Burns, Ryan. Internet Mapping. In B. Warf (ed.), *The Sage Encyclopedia of the Internet*. 
 
 Accepted	Burns, Ryan. "Let the Private Sector Take Care of This": The Philanthro-capitalism of Digital Humanitarianism. In M. Graham (ed.), Digital Economies at the Global Margins. Cambridge, MA: MIT Press. 
+
+2017	Burns, Ryan, C. Dalton, J. Thatcher (alphabetical). [Introduction: Critical Data, Critical Technology Focus Issue](/assets/uploads/burns_dalton_thatcher_critical_data.pdf). Professional Geographer. 
 
 2016	Thatcher, Jim, L. Bergmann, B. Ricker, R. Rose-Redwood, D. O’Sullivan, T. Barnes, L. Barnesmoore, L. Beltz Imaoka, R. Burns, J. Cinnamon, C. Dalton, C. Davis, S. Dunn, F. Harvey, J.-K. Jung, E. Kersten, L. Knigge, N. Lally, W. Lin, D. Mahmoudi, M. Martin, W. Payne, A. Sheikh, T. Shelton, E. Sheppard, C. Strother, A. Tarr, M. Wilson, J. Young. [Revisiting Critical GIS: Reflections from Friday Harbor](/assets/uploads/revisiting.pdf). *Environment &amp; Planning A* 48(5): 815-824.
 
@@ -128,7 +132,7 @@ Accepted	Burns, Ryan. "Let the Private Sector Take Care of This": The Philanthro
 
 <b>*Edited Journal Issues \(with Peer Review\)*</b>   
 
-In press	Burns, Ryan, C. Dalton, J. Thatcher. Making More out of Data: Advancing Critical Data Studies. Special Issue of *Professional Geographer*. 
+2017	Burns, Ryan, C. Dalton, J. Thatcher. Making More out of Data: Advancing Critical Data Studies. Special Issue of *Professional Geographer*. 
 
 2015 Burns, Ryan, D. Meek. The Politics of Knowledge Production in the Geoweb. Special Issue of *ACME: An International E-Journal for Critical Geographies*. 
 
@@ -141,7 +145,7 @@ In press	Burns, Ryan, C. Dalton, J. Thatcher. Making More out of Data: Advancing
 
 <b>*Papers presented*</b>   
 
-2017 (accepted) "Knowledge Politics and Representational Inequalities in Open Calgary". Nordic Geographers Meeting: Stockholm, Sweden. 
+2017 "Knowledge Politics and Representational Inequalities in Open Calgary". Nordic Geographers Meeting: Stockholm, Sweden. 
 
 2017 "Data Absences and Strategies: Community Tactics for Self-representation". Annual Meeting of the AAG: Boston, MA. 
 
