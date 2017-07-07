@@ -16,12 +16,12 @@ At the same time, this year, with my moving into a tenure-track position, I'm be
 1. Read and thoroughly enjoy more books than last year, at least 20, including:
   - ~~Murakami, Kafka on the Shore~~  
   - Wright, Native Son  
-  - Morrison, Beloved  
+  - ~~Morrison, Beloved~~  
   - Céline, Journey to the End of the Night  
   - ~~Camus, The Stranger~~  
   - Rulfo, Pedro Páramo  
   - Proust, Swann's Way  
-  - Kingsolver, The Bean Trees  
+  - ~~Kingsolver, The Bean Trees~~  
   - ~~Achebe, Things Fall Apart~~  
   - Knausgaard, My Struggle  
 2. Run a sub-3 hour marathon
