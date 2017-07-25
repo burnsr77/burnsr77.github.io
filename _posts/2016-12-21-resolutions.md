@@ -19,7 +19,7 @@ At the same time, this year, with my moving into a tenure-track position, I'm be
   - ~~Morrison, Beloved~~  
   - Céline, Journey to the End of the Night  
   - ~~Camus, The Stranger~~  
-  - Rulfo, Pedro Páramo  
+  - ~~Rulfo, Pedro Páramo~~  
   - Proust, Swann's Way  
   - ~~Kingsolver, The Bean Trees~~  
   - ~~Achebe, Things Fall Apart~~  
