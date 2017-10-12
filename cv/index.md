@@ -100,7 +100,7 @@ In press	Burns, Ryan. [Datafying Disaster: Institutional Framings of Data Produc
 
 Accepted	Burns, Ryan. Internet Mapping. In B. Warf (ed.), *The Sage Encyclopedia of the Internet*. 
 
-Accepted	Burns, Ryan. "Let the Private Sector Take Care of This": The Philanthro-capitalism of Digital Humanitarianism. In M. Graham (ed.), Digital Economies at the Global Margins. Cambridge, MA: MIT Press. 
+Accepted	Burns, Ryan. ["Let the Private Sector Take Care of This": The Philanthro-capitalism of Digital Humanitarianism](/assets/uploads/burns-philanthro-capitalism). In M. Graham (ed.), Digital Economies at the Global Margins. Cambridge, MA: MIT Press. 
 
 2017	Burns, Ryan, C. Dalton, J. Thatcher (alphabetical). [Introduction: Critical Data, Critical Technology Focus Issue](/assets/uploads/burns_dalton_thatcher_critical_data.pdf). Professional Geographer. 
 
