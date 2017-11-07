@@ -9,7 +9,7 @@ layout: layout
 See below for *selective* HTML version, with links.
 
 go to:  
-[academic employment](#employment)   
+[academic positions](#positions)   
 [education](#education)    
 [awards](#awards)   
 [research activities](#rsrch)   
@@ -22,12 +22,15 @@ go to:
 [technology proficiencies](#tech)   
 
 
-<a name="employment"> </a>
+<a name="positions"> </a>
 
-## Academic Employment 
+## Academic Positions 
 
 2016-present Assistant Professor  
 Department of Geography, University of Calgary
+
+2017-present Faculty Member  
+O'Brien Institute for Public Health
 
 2015-2016 Assistant Professor of Instruction  
 Department of Geography and Urban Studies, Temple University
@@ -50,11 +53,19 @@ Dissertation title: [Digital Humanitarianism and the Geospatial Web: Emerging Mo
 
 ## Grants, Fellowships, and Awards
 
-2017 $25,000. SSHRC Connection Grant. "The Social and Environmental Implications of Smart Cities: Toward a Global Comparative Research Agenda." PI: Byron Miller. Co-applicants: Ryan Burns, Victoria Fast, Jack Lucas, Matthew Patterson, Frank Towers, Eliot Tretter. Collaborators: Gwendolyn Blue, Dean Curran, Elizabeth Paris, Melanie Rock, Marit Rosol, Alan Smart, Aaron Williams 
+2016-2019 $150,000. University of Calgary, Human Dynamics Research Strategy. "The Social and Environmental Implications of Smart Cities: A Global Comparative Research Agenda". PI: Byron Miller Co-PIs: Ryan Burns, et al /(see [PDF CV](/assets/uploads/Burns_CV.pdf)/)
 
-2017 Department of Geography Graduate Student Association Recognition Award 
+2017 $25,000. SSHRC Connection Grant. "The Social and Environmental Implications of Smart Cities: Toward a Global Comparative Research Agenda." PI: Byron Miller. Co-applicants: Ryan Burns, et al /(see [PDF CV](/assets/uploads/Burns_CV.pdf)/)
 
-2016-2019 $150,000. University of Calgary, Human Dynamics Research Strategy. "The Social and Environmental Implications of Smart Cities: A Global Comparative Research Agenda". PI: Byron Miller Co-PIs: Gwendolyn Blue, Ryan Burns, Dean Curran, Victoria Fast, Noel Keough, Jack Lucas, Greg Morrow, Elizabeth Paris, Matt Patterson, Marit Rosol, Alan Smart, Josephine Smart, Eliot Tretter, Kathryn Reese-Taylor, Melanie Rock, Frank Towers, Aaron Williams 
+2017	$28,000. University of Calgary, funded by Andrew W Mellon Foundation. Academic Research and University Libraries: Creating a New Model for Collaboration. "Open Data for a Smarter City: Creating A Data Infrastructure Pilot Initiative". PI: Ryan Burns.
+
+2017	$5,000. University of Calgary, Partnership Development Seed Grant
+
+2017	Department of Geography Graduate Student Association Recognition Award
+
+2017	$3,422. University of Calgary, SSHRC Insight Development Enhancement Grant
+
+2017	$3,000. Calgary Institute for the Humanities Working Group. "Social Justice and the Smart City". Conveners: Anthony Levenda, Ryan Burns, Victoria Fast, Dean Curran, Noel Keough, Elizabeth Paris, Frank Towers
 
 2013 $4,000. United Nations Office for the Coordination of Humanitarian Affairs: "Humanitarian Research and Innovation Grant" 
 
