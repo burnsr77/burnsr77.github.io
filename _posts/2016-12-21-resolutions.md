@@ -17,7 +17,7 @@ At the same time, this year, with my moving into a tenure-track position, I'm be
   - ~~Murakami, Kafka on the Shore~~  
   - Wright, Native Son  
   - ~~Morrison, Beloved~~  
-  - Céline, Journey to the End of the Night  
+  - ~~Céline, Journey to the End of the Night~~  
   - ~~Camus, The Stranger~~  
   - ~~Rulfo, Pedro Páramo~~  
   - Proust, Swann's Way  
@@ -26,7 +26,7 @@ At the same time, this year, with my moving into a tenure-track position, I'm be
   - Knausgaard, My Struggle  
 2. Run a sub-3 hour marathon
 3. Run in a 100-mile race, *and* finish within 24 hours
-4. Submit 4 substantive pieces of scholarly writing
-5. Record listening to at least 12,000 tracks, my third-highest year
-6. Visit a new national park 
+4. ~~Submit 4 substantive pieces of scholarly writing~~
+5. ~~Record listening to at least 12,000 tracks, my third-highest year~~
+6. ~~Visit a new national park~~ 
 7. Don't work evenings or weekends
