@@ -33,11 +33,17 @@ Department of Geography, University of Calgary
 2017-present Faculty Member  
 O'Brien Institute for Public Health
 
+2017-present Mentor  
+Scholars Academy
+
 2019-2021 Instructor  
 Arts & Sciences Honours Academy, University of Calgary
 
 2015-2016 Assistant Professor of Instruction  
 Department of Geography and Urban Studies, Temple University
+
+2021 Visiting Scholar  
+Department of Geography, University of British Columbia (by invitation)
 
 
 <a name="education"> </a>
@@ -59,21 +65,23 @@ Dissertation title: [Digital Humanitarianism and the Geospatial Web: Emerging Mo
 
 2019	Eyes High Postdoctoral Scholars Competition. 2 years of funding, total value of $110,000. Post-doc will start July 1, 2019. Co-PIs: Ryan Burns, Victoria Fast.
 
+2019	$525,000. Canadian Institutes of Health Research \(CIHR\). "Artificial Intelligence for Public Health \(AI4PH\): A Focus on Equity and Prevention". Collaborator. 
+
+2019	Graduate Student Association Excellence Award in Graduate Supervision
+
 2018	$53,655. SSHRC Insight Development Grant. "The Politics of Knowledge Representation in Open Data and Smart Cities" PI: Ryan Burns.  
 
 2018	$16,500. Urban Alliance: City of Calgary and University of Calgary. "Exploring North American Municipal Data Sharing Agreements". PI: Ryan Burns. City of Calgary Collaborators: Nichole Wyatt, Cameron Stark.  
 
-2016-2019 $150,000. University of Calgary, Human Dynamics Research Strategy. "The Social and Environmental Implications of Smart Cities: A Global Comparative Research Agenda". PI: Byron Miller Co-PIs: Ryan Burns, et al /(see [PDF CV](/assets/uploads/Burns_CV.pdf)/)
+2016-2019 $150,000. University of Calgary, Human Dynamics Research Strategy. "The Social and Environmental Implications of Smart Cities: A Global Comparative Research Agenda". PI: Byron Miller Co-PIs: Ryan Burns, et al \(see [PDF CV](/assets/uploads/Burns_CV.pdf)\)
 
-2017 $25,000. SSHRC Connection Grant. "The Social and Environmental Implications of Smart Cities: Toward a Global Comparative Research Agenda." PI: Byron Miller. Co-applicants: Ryan Burns, et al /(see [PDF CV](/assets/uploads/Burns_CV.pdf)/)
+2017 $25,000. SSHRC Connection Grant. "The Social and Environmental Implications of Smart Cities: Toward a Global Comparative Research Agenda." PI: Byron Miller. Co-applicants: Ryan Burns, et al \(see [PDF CV](/assets/uploads/Burns_CV.pdf)\)
 
 2017	$28,000. Mellon Foundation, through University of Calgary. Academic Research and University Libraries: Creating a New Model for Collaboration. "Open Data for a Smarter City: Creating A Data Infrastructure Pilot Initiative". PI: Ryan Burns.
 
-2017	$5,000. University of Calgary, Partnership Development Seed Grant
-
 2017	Department of Geography Graduate Student Association Recognition Award
 
-2017	$3,000. Calgary Institute for the Humanities Working Group. "Social Justice and the Smart City". Conveners: Ryan Burns, et al  
+2017, 2019	$3,000. Calgary Institute for the Humanities Working Group. "Social Justice and the Smart City". Conveners: Ryan Burns, et al  
 
 2013 $4,000. United Nations Office for the Coordination of Humanitarian Affairs: "Humanitarian Research and Innovation Grant"  
 
@@ -111,11 +119,17 @@ Dissertation title: [Digital Humanitarianism and the Geospatial Web: Emerging Mo
 
 ## Publications
 
-<b>*Articles and Book Chapters*</b> 
+<b>*Select Articles and Book Chapters*</b> 
 
-In press	Burns, Ryan. [A City of Digital Engagement](/assets/uploads/burns_city_digital_engagement.pdf). In R. Kitchin, J. Shaw, M. Graham, S. Mattern (eds.), *How to Run the City Like A Corporation, and Other Fables*. Meatspace Press.  
+2019	Burns, Ryan, G. Wark. [Where’s the Database in Digital Ethnography? Exploring Database Ethnography for Open Data Research](/assets/uploads/burns_wark_database_ethnography.pdf). Qualitative Research. https://doi.org/10.1177/1468794119885040.
+
+2019	Burns, Ryan. [New Frontiers of Philanthro-capitalism: Digital Technologies and Humanitarianism](/assets/uploads/burns_new_frontiers.pdf). *Antipode* 51(4):1101-1122. https://doi.org/10.1111/anti.12534.
+
+2019	Burns, Ryan. [A City of Digital Engagement](/assets/uploads/burns_city_digital_engagement.pdf). In R. Kitchin, J. Shaw, M. Graham, S. Mattern (eds.), *How to Run the City Like A Corporation, and Other Fables*. Meatspace Press.  
  
 2019	Burns, Ryan. ["Let the Private Sector Take Care of This": The Philanthro-capitalism of Digital Humanitarianism](/assets/uploads/burns-philanthro-capitalism.pdf). In M. Graham (ed.), Digital Economies at the Global Margins. Cambridge, MA: MIT Press.  
+
+2019	Burns, Ryan. Review of S. Noble, “Algorithms of Oppression”. Antipode. Review symposium including J. Thatcher, B. Hawkins, O. Igbinedion, with Safiya Noble’s response. https://antipodeonline.org/wp-content/uploads/2019/11/2.-Ryan-Burns.pdf.
 
 2018	Burns, Ryan. [Datafying Disaster: Institutional Framings of Data Production following Superstorm Sandy](/assets/uploads/burns_datafying_disaster.pdf). Annals of the American Association of Geographers.  
 
@@ -142,6 +156,8 @@ In press	Burns, Ryan. [A City of Digital Engagement](/assets/uploads/burns_city_
 
 Accepted	Miller, Byron, R. Burns, V. Fast, A. Levenda. "Between Provincializing and Worlding Smart Cities". Special Issue of *Urban Studies*. (Manuscripts due 1/31/2019)  
 
+Accepted	Thatcher, Jim, R. Burns, C. Dalton. "Regional Approaches to data, environment, and society". Special issue of *Regional Studies*.
+
 2018	Burns, Ryan, C. Dalton, J. Thatcher. "Critical Data, Critical Technology in Theory and Practice." Special Issue of *Professional Geographer*.  
 
 2017	Burns, Ryan, N. Lally. "Toward a Geographical Software Studies." Special Section of *Computational Culture*.  
@@ -153,15 +169,15 @@ Accepted	Miller, Byron, R. Burns, V. Fast, A. Levenda. "Between Provincializing 
 
 <a name="presentations"> </a>
 
-## Conference Presentations
+## Select Conference Presentations
 
-<b>*Select papers presented*</b>   
+<b>*Papers presented*</b>   
 
-2019 (expected) "Between Provincializing and Worlding: Theoretical and Epistemological Dilemmas of Comparative Smart City Research". Comparative Urbanism: Global Perspectives. Urban Studies Institute, Georgia State University.  
+2019 "\(Digital\) Neocolonialism in the Smart City". 4S 2019 \(Society for Social Studies of Science\). New Orleans. Presented with Morgan Mouton.
 
-2018 (expected) "The Taming of Knowledge: Digital Infrastructures of Humanitarianism" Invited presentation at University of Toronto, Toronto, ON. Part of the "Infrastructures of Development" speaker series.  
+2019 "A Data Story in Two Parts: Smart Cities, Open Data, and Their Inequalities". Invited presentation at Data for Good - Calgary. June 27, 2019.
 
-2018 "Open Data Portals for Community & Ecology: Convening for Common Good". Canadian Open Data Summit '18: Niagara Falls, ON. Primary presenter: Victoria Fast.  
+2018 "The Taming of Knowledge: Digital Infrastructures of Humanitarianism" Invited presentation at University of Toronto, Toronto, ON. Part of the "Infrastructures of Development" speaker series.  
 
 2018 "Where’s the Database in Digital Ethnography? Exploring Database Ethnography for Open Data and Smart Cities Research". EASST (European Association for the Study of Science & Technology) 2018. Lancaster, UK. Co-authored with Grace Wark.  
 
@@ -175,70 +191,55 @@ Accepted	Miller, Byron, R. Burns, V. Fast, A. Levenda. "Between Provincializing 
 
 2016 "Big Data, digital humanitarianism, and smart cities: New directions for GIScience research". Invited presentation at San Diego State University Department of Geography: San Diego, CA.  
 
-2016 "The inequalities of economic and representational inclusion in digital ‘solutions’ to urban crisis". Regional Studies Association: Smart City-Regional Governance for Sustainability. Dresden, Germany.   
+2016 "The inequalities of economic and representational inclusion in digital 'solutions' to urban crisis". Regional Studies Association: Smart City-Regional Governance for Sustainability. Dresden, Germany.   
 
 2014 "Crisis Mapping as Social Process: Research and Policy Implications of New Digital Technologies". Keynote presentation at Crisis Mapping Seminar, Heidelberg University, Germany.   
 
-2014 "The Digital Humanitarian Moment: New Practices, Knowledge Politics, and Philanthro-capitalism." University of Washington Department of Geography Colloquium. Seattle, WA.   
 
-2012 "Digital Public Scholarship: Mapping Youth Journeys." College of Arts &amp; Sciences Dean's Showcase. HuskyFest 2012. Seattle, WA.
+<b>*Conference Sessions Organized*</b>   
 
-2010 Mitchell, K. &amp; R. Burns [equal contribution] "Mapping Engagement: Using Basic Geovisualization Technologies to Help Children Become Better Geographers and Better Citizens." Plenary session, Fall meeting of the Association of Washington Geographers.
+2019 Organizer. "Gendering the Smart City: Towards Just and Feminist Urban Futures". Annual Meeting of the AAG. Washington, DC. Organized with Ayona Datta, Nabeela Ahmed, and Max Andrucki.  
 
-2009 "Visualization of Attribute Spaces Involving Places, People and Utterances." International Cartographic Conference. Santiago, Chile.
+2018 Panelist and Organizer. "Interdisciplinary Critical Data Studies". Annual Meeting of the Association for Information Science and Technology (57% acceptance rate). Vancouver, BC.  
 
-<b>*Panel Participation &amp; Sessions Organized*</b>   
+2018 Organizer and panelist. "My City Is Smarter than Yours: Deconstructing the Buzzwords". Annual Meeting of the AAG. New Orleans, LA. Organizer with Victoria Fast.  
 
-2019 (expected)	Organizer. "Critical New Media and the Urban: Productive Tensions, or Conflicted Antagonisms?". Annual Meeting of the AAG. Washington, DC. Organized with Eliot Tretter.  
+2018 Organizer. "Making Smarter Environments: The Environmental Politics and Practices of Smart Cities". Annual Meeting of the AAG. New Orleans, LA. Organizer with Anthony Levenda.  
 
-2019 (expected)	Organizer. "Gendering the Smart City: Towards Just and Feminist Urban Futures". Annual Meeting of the AAG. Washington, DC. Organized with Ayona Datta, Nabeela Ahmed, and Max Andrucki.  
+2017 Organizer. "Urban-economic Perspectives on Technology". Annual Meeting of the AAG. Boston, MA. Organizer with Daniel Cockayne.  
 
-2019 (expected)	Panelist. "Realizing the value of interdisciplinary research: How can critical theory be 'applied' to smart cities?" Annual Meeting of the AAG. Washington, DC.  
+2016 Organizer. "Hipster Geographies: Socio-spatial Practices, Politics, and Economies of Culture’s Most Maligned Figure". Annual Meeting of the AAG. San Francisco, CA. Organizer with Cristina Temenos and Jesse McClelland. (2 sessions)  
 
-2018	Panelist and Organizer. "Interdisciplinary Critical Data Studies". Annual Meeting of the Association for Information Science and Technology (57% acceptance rate). Vancouver, BC.  
+2016 Organizer. "Toward a Geographical Software Studies". Annual meeting of the AAG. San Francisco, CA. Organizer with Nick Lally. (4 sessions)  
 
-2018	Organizer and panelist. "My City Is Smarter than Yours: Deconstructing the Buzzwords". Annual Meeting of the AAG. New Orleans, LA. Organizer with Victoria Fast.  
-
-2018	Organizer. "Making Smarter Environments: The Environmental Politics and Practices of Smart Cities". Annual Meeting of the AAG. New Orleans, LA. Organizer with Anthony Levenda.  
-
-2017	Organizer. "Urban-economic Perspectives on Technology". Annual Meeting of the AAG. Boston, MA. Organizer with Daniel Cockayne.  
-
-2017	Panelist. "Documenting Evidence for Human Rights Tribunals and Litigation Using Geographic Research and Tools." Annual Meeting of the AAG. Boston, MA.  
-
-2016	Organizer. "Hipster Geographies: Socio-spatial Practices, Politics, and Economies of Culture’s Most Maligned Figure". Annual Meeting of the AAG. San Francisco, CA. Organizer with Cristina Temenos and Jesse McClelland. (2 sessions)  
-
-2016	Organizer. "Toward a Geographical Software Studies". Annual meeting of the AAG. San Francisco, CA. Organizer with Nick Lally. (4 sessions)  
-
-2013	Organizer. "Whither Small Data?: The Limits of 'Big Data' and the Value of 'Small Data' Studies." Organizer with Jim Thatcher. Annual meeting of the AAG. Los Angeles, CA. Presenting panelists: Rob Kitchin, Jim Thatcher, Ralph Schroeder \(Oxford Internet Institute, Oxford University\), Taylor Shelton. Discussant: Andrés Monroy-Hernández \(Microsoft Research\).  
+2013 Organizer. "Whither Small Data?: The Limits of 'Big Data' and the Value of 'Small Data' Studies." Organizer with Jim Thatcher. Annual meeting of the AAG. Los Angeles, CA. 
 
 2013	Organizer. "Critical Interventions into Gender &amp; the Geoweb." Organizer with Monica Stephens. Annual meeting of the AAG. Los Angeles, CA. Presenting panelists: Brent Hecht, Monica Stephens, Michele Masucci, Adrianne Wadewitz \(Center of Digital Learning and Research, Occidental College\).  
-
-2012	Organizer. "Connecting Grassroots to Government for Disaster Management: A Policy Roundtable." Organizer with Lea Shanley, John Crowley, and Alyson Lyons. Washington, DC. For list of panelists, see: http://www.wilsoncenter.org/sites/default/files/GrassrootstoGovernmentAgenda-9.9.12_0.pdf  
-
-2011	Organizer. "Critical Perspectives on Software &amp; Space." Organizer with Joe Eckert. Annual meeting of the AAG. Seattle, WA. Presenting panelists: Mark Graham, Matt Zook, Rob Kitchin, Wendy Chun \(Modern Culture and Media, Brown University\). Chair: Sarah Elwood. Discussant: Matt Wilson.  
 
 
 
 <a name="conference"> </a>
 
 ## Conference organizing
-2018	Organizer. 13th Annual Critical Geographies Mini-conference. University of Calgary.  
+2018 Organizer. 13th Annual Critical Geographies Mini-conference. University of Calgary.  
 
-2017	Co-organizer. "Emerging Theories in Critical Cartography and GIS". Workshop concurrent with the North American Cartographic Information Society. Montreal, QC.  
+2017 Co-organizer. "Emerging Theories in Critical Cartography and GIS". Workshop concurrent with the North American Cartographic Information Society. Montreal, QC.  
 
-2017	Co-organizer. "The Social and Environmental Implications of Smart Cities: a Global Comparative Research Agenda". Workshop at University of Calgary. 
+2017 Co-organizer. "The Social and Environmental Implications of Smart Cities: a Global Comparative Research Agenda". Workshop at University of Calgary. 
 
 
 
 <a name="teaching"> </a>
 
-## Teaching Experience
+## Select Teaching Experience
 
-Advanced Research and Applications in GIS; Urban and Environmental GIS; Introduction to Geospatial Methods (U of Calgary)  
+Advanced Research and Applications in GIS; Urban and Environmental GIS; Introduction to Geospatial Methods; Urban Studies Capstone; Spaces of Urban Politics (U of Calgary)  
 
 Smart Cities Asia: Geography Field School (UofC study abroad)  
 
 Capstone Seminar (UofC Arts & Sciences Honours Academy)  
+
+Representation (UofC Arts & Sciences Honours Academy)  
 
 Web and Mobile GIS; Digital Mapping; Fundamentals of GIS (Temple U)   
 
@@ -248,7 +249,7 @@ GIS Databases and Programming; Cultural Geography; The Making of World Regions; 
 
 <a name="addProf"> </a>
 
-## Professional Service
+## Select Professional Service
 
 2018-present	Book review editor, *The Canadian Geographer*  
 
@@ -270,19 +271,17 @@ GIS Databases and Programming; Cultural Geography; The Making of World Regions; 
 
 <a name="advising"> </a>
 
-## Advising
+## Select Advising
 
-Post-docs: Morgan Mouton, Anthony Levenda (2017-2018)
+Post-docs: Debra Mackinnon (2019-present), Morgan Mouton (2018-2019), Anthony Levenda (2017-2018)
 
 PhD: Joyce Percel
 
-MA & MGIS: Dare Adeyemi, Angela Ambrose, Prakash Gautam, Karina Oliveira
+MA & MGIS: Preston Welker, Dare Adeyemi, Angela Ambrose, Prakash Gautam
 
 Undergraduate: Brian Lau (Health & Society Honours project), Grace Wark (2017-2018; honours thesis project)
 
 Extracurricular: Duncan Lucas (undergrad; UofC Scholars Academy), Dante Bencivenga (2017-2018; undergrad; UofC Scholars Academy), Jessica Waldinger (2016; Temple U undergrad; CARAS project grant), Jing-Huei Huang (2015-2016; Temple U MA; Community Service GIS project), Blake Hawkins (PhD, UBC, HASTAC project)
-
-Committees: Kristy Myles (MA, UofC)
 
 
 
