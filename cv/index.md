@@ -30,20 +30,20 @@ go to:
 2016-present Assistant Professor  
 Department of Geography, University of Calgary
 
+2021 Visiting Scholar  
+Department of Geography, University of British Columbia (by invitation)
+
 2017-present Faculty Member  
 O'Brien Institute for Public Health
 
 2017-present Mentor  
 Scholars Academy
 
-2019-2021 Instructor  
+2019-present Instructor  
 Arts & Sciences Honours Academy, University of Calgary
 
 2015-2016 Assistant Professor of Instruction  
 Department of Geography and Urban Studies, Temple University
-
-2021 Visiting Scholar  
-Department of Geography, University of British Columbia (by invitation)
 
 
 <a name="education"> </a>
@@ -129,7 +129,7 @@ Dissertation title: [Digital Humanitarianism and the Geospatial Web: Emerging Mo
  
 2019	Burns, Ryan. ["Let the Private Sector Take Care of This": The Philanthro-capitalism of Digital Humanitarianism](/assets/uploads/burns-philanthro-capitalism.pdf). In M. Graham (ed.), Digital Economies at the Global Margins. Cambridge, MA: MIT Press.  
 
-2019	Burns, Ryan. Review of S. Noble, “Algorithms of Oppression”. Antipode. Review symposium including J. Thatcher, B. Hawkins, O. Igbinedion, with Safiya Noble’s response. https://antipodeonline.org/wp-content/uploads/2019/11/2.-Ryan-Burns.pdf.
+2019	Burns, Ryan. Review of S. Noble, "Algorithms of Oppression". Antipode. Review symposium including J. Thatcher, B. Hawkins, O. Igbinedion, with Safiya Noble’s response. https://antipodeonline.org/wp-content/uploads/2019/11/2.-Ryan-Burns.pdf.
 
 2018	Burns, Ryan. [Datafying Disaster: Institutional Framings of Data Production following Superstorm Sandy](/assets/uploads/burns_datafying_disaster.pdf). Annals of the American Association of Geographers.  
 
@@ -281,7 +281,7 @@ MA & MGIS: Preston Welker, Dare Adeyemi, Angela Ambrose, Prakash Gautam
 
 Undergraduate: Brian Lau (Health & Society Honours project), Grace Wark (2017-2018; honours thesis project)
 
-Extracurricular: Duncan Lucas (undergrad; UofC Scholars Academy), Dante Bencivenga (2017-2018; undergrad; UofC Scholars Academy), Jessica Waldinger (2016; Temple U undergrad; CARAS project grant), Jing-Huei Huang (2015-2016; Temple U MA; Community Service GIS project), Blake Hawkins (PhD, UBC, HASTAC project)
+Extracurricular: Catherine Tran (undergrad; UofC Scholars Academy), Duncan Lucas (undergrad; UofC Scholars Academy), Dante Bencivenga (2017-2018; undergrad; UofC Scholars Academy), Jessica Waldinger (2016; Temple U undergrad; CARAS project grant), Jing-Huei Huang (2015-2016; Temple U MA; Community Service GIS project), Blake Hawkins (PhD, UBC, HASTAC project)
 
 
 
@@ -289,11 +289,11 @@ Extracurricular: Duncan Lucas (undergrad; UofC Scholars Academy), Dante Benciven
 
 ## Community and Public Scholarship
 
-2018	Inaugural lecture, “Social and Technological Humanitarian Studies” program, University of Calgary. A lecture I organized to report to my department the research I’ve been doing.
+2018	Inaugural lecture, "Social and Technological Humanitarian Studies" program, University of Calgary. A lecture I organized to report to my department the research I've been doing.
 
-2018	Keynote presenter, “Open Data Community of Practice” workshop. City of Calgary, AB.
+2018	Keynote presenter, "Open Data Community of Practice" workshop. City of Calgary, AB.
 
-2018	Organizer, “YYC Data Collective Launch Workshop”. Community engagement session for YYC Data Collective, in collaboration with local volunteer and research organizations.
+2018	Organizer, "YYC Data Collective Launch Workshop". Community engagement session for YYC Data Collective, in collaboration with local volunteer and research organizations.
 
 2017 	2-day University of Calgary map-a-thon for Geography Awareness Week and GIS Day, contributing to Building Canada 2020.
 
