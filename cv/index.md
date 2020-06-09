@@ -30,16 +30,22 @@ go to:
 2016-present Assistant Professor  
 Department of Geography, University of Calgary
 
-2021 Visiting Scholar  
-Department of Geography, University of British Columbia (by invitation)
-
 2017-present Faculty Member  
 O'Brien Institute for Public Health
 
 2017-present Mentor  
 Scholars Academy
 
-2019-present Instructor  
+2021 Visiting Scholar  
+Department of Geography, University of British Columbia
+
+2021 Visiting Teaching Fellow 
+Department of Sociology, University of Antwerp (Belgium)
+
+2021 Visiting Scholar  
+Institute of Geography, University of Erlangen-Nuremberg
+
+2019 Instructor  
 Arts & Sciences Honours Academy, University of Calgary
 
 2015-2016 Assistant Professor of Instruction  
@@ -120,6 +126,8 @@ Dissertation title: [Digital Humanitarianism and the Geospatial Web: Emerging Mo
 ## Publications
 
 <b>*Select Articles and Book Chapters*</b> 
+
+2020	Burns, Ryan. [A COVID-19 Panacea in Digital Technologies? Challenges for Democracy and Higher Education](/assets/uploads/burns_covid.pdf). *Dialogues in Human Geography*, Sepcial COVID-19 Commentary Collection. OnlineFirst.
 
 2019	Burns, Ryan, G. Wark. [Where’s the Database in Digital Ethnography? Exploring Database Ethnography for Open Data Research](/assets/uploads/burns_wark_database_ethnography.pdf). Qualitative Research. https://doi.org/10.1177/1468794119885040.
 
