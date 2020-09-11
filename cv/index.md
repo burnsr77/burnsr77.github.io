@@ -56,9 +56,8 @@ Department of Geography and Urban Studies, Temple University
 
 ## Education 
 
-2015 Ph.D. Geography  
-University of Washington  
-Committee: Sarah Elwood, Mark Ellis, Victoria Lawson, Jin-Kyu Jung \(Interdisciplinary Arts and Sciences, UW-Bothell\)
+2015 Ph.D. Geography, University of Washington  
+Committee: Sarah Elwood, Mark Ellis, Victoria Lawson, Jin-Kyu Jung 
 Dissertation title: [Digital Humanitarianism and the Geospatial Web: Emerging Modes of Mapping and the Transformation of Humanitarian Practices](/assets/uploads/burns_dissertation.pdf)
 
 2009 M.S. Geographic Information Science, San Diego State University  
@@ -67,13 +66,13 @@ Dissertation title: [Digital Humanitarianism and the Geospatial Web: Emerging Mo
 
 <a name="awards"> </a>
 
-## Grants, Fellowships, and Awards
-
-2019	Eyes High Postdoctoral Scholars Competition. 2 years of funding, total value of $110,000. Post-doc will start July 1, 2019. Co-PIs: Ryan Burns, Victoria Fast.
-
-2019	$525,000. Canadian Institutes of Health Research \(CIHR\). "Artificial Intelligence for Public Health \(AI4PH\): A Focus on Equity and Prevention". Collaborator. 
+## Select Grants, Fellowships, and Awards
 
 2019	Graduate Student Association Excellence Award in Graduate Supervision
+
+2019	Eyes High Postdoctoral Scholars Competition. 2 years of funding, total value of $110,000. Co-PIs: Ryan Burns, Victoria Fast.
+
+2019	$525,000. Canadian Institutes of Health Research \(CIHR\). "Artificial Intelligence for Public Health \(AI4PH\): A Focus on Equity and Prevention". Collaborator. 
 
 2018	$53,655. SSHRC Insight Development Grant. "The Politics of Knowledge Representation in Open Data and Smart Cities" PI: Ryan Burns.  
 
@@ -87,7 +86,7 @@ Dissertation title: [Digital Humanitarianism and the Geospatial Web: Emerging Mo
 
 2017	Department of Geography Graduate Student Association Recognition Award
 
-2017, 2019	$3,000. Calgary Institute for the Humanities Working Group. "Social Justice and the Smart City". Conveners: Ryan Burns, et al  
+2017, 2019, 2020	$3,000. Calgary Institute for the Humanities Working Group. "Social Justice and the Smart City". Conveners: Ryan Burns, et al  
 
 2013 $4,000. United Nations Office for the Coordination of Humanitarian Affairs: "Humanitarian Research and Innovation Grant"  
 
@@ -100,7 +99,9 @@ Dissertation title: [Digital Humanitarianism and the Geospatial Web: Emerging Mo
 
 <a name="rsrch"> </a>
 
-## Research Activities
+## Research Institutes
+
+2021 (expected)	Knowledge and Digital Technology; 19th symposium of the Klaus Tschira Symposia on Knowledge and Space. Heidelberg University, Heidelberg, Germany.
 
 2018	Technology, Law, and Society Summer Institute. University of California - Irvine. Competitive application.  
 
@@ -127,9 +128,13 @@ Dissertation title: [Digital Humanitarianism and the Geospatial Web: Emerging Mo
 
 <b>*Select Articles and Book Chapters*</b> 
 
-2020	Burns, Ryan. [A COVID-19 Panacea in Digital Technologies? Challenges for Democracy and Higher Education](/assets/uploads/burns_covid.pdf). *Dialogues in Human Geography*, Sepcial COVID-19 Commentary Collection. OnlineFirst.
+2020	Burns, Ryan, M. Andrucki. [Smart Cities: Who Cares?](/assets/uploads/burns_andrucki_-smart_cities_who_cares.pdf). Environment & Planning A. OnlineFirst. https://doi.org/10.1177/0308518X20941516.
 
-2019	Burns, Ryan, G. Wark. [Where’s the Database in Digital Ethnography? Exploring Database Ethnography for Open Data Research](/assets/uploads/burns_wark_database_ethnography.pdf). Qualitative Research. https://doi.org/10.1177/1468794119885040.
+2020	Burns, Ryan. [A COVID-19 Panacea in Digital Technologies? Challenges for Democracy and Higher Education](/assets/uploads/burns_covid.pdf). *Dialogues in Human Geography* 10(2): 246–249. https://doi.org/10.1177%2F2043820620930832.
+
+2020	Burns, Ryan, P. Welker. [Moral Economies of Open Data Platforms](/assets/uploads/burns_welker_moral_economies.pdf). Association of Internet Researchers 2020: Virtual conference. (Peer reviewed)
+
+2019	Burns, Ryan, G. Wark. [Where’s the Database in Digital Ethnography? Exploring Database Ethnography for Open Data Research](/assets/uploads/burns_wark_database_ethnography.pdf). Qualitative Research 20(5): 598-616. https://doi.org/10.1177/1468794119885040.
 
 2019	Burns, Ryan. [New Frontiers of Philanthro-capitalism: Digital Technologies and Humanitarianism](/assets/uploads/burns_new_frontiers.pdf). *Antipode* 51(4):1101-1122. https://doi.org/10.1111/anti.12534.
 
@@ -139,15 +144,13 @@ Dissertation title: [Digital Humanitarianism and the Geospatial Web: Emerging Mo
 
 2019	Burns, Ryan. Review of S. Noble, "Algorithms of Oppression". Antipode. Review symposium including J. Thatcher, B. Hawkins, O. Igbinedion, with Safiya Noble’s response. https://antipodeonline.org/wp-content/uploads/2019/11/2.-Ryan-Burns.pdf.
 
-2018	Burns, Ryan. [Datafying Disaster: Institutional Framings of Data Production following Superstorm Sandy](/assets/uploads/burns_datafying_disaster.pdf). Annals of the American Association of Geographers.  
+2018	Burns, Ryan. [Datafying Disaster: Institutional Framings of Data Production following Superstorm Sandy](/assets/uploads/burns_datafying_disaster.pdf). Annals of the American Association of Geographers 108(2): 569-578. https://doi.org/10.1080/24694452.2017.1402673.
 
 2018	Burns, Ryan. Synergizing Geoweb and Digital Humanitarian Research. In Thatcher, J., A. Shears, J. Eckert (eds.), *Geographic Research in an Age of New (Big) Data*. Lincoln, NE: University of Nebraska Press.  
 
 2017	Burns, Ryan, C. Dalton, J. Thatcher (alphabetical). [Introduction: Critical Data, Critical Technology Focus Issue](/assets/uploads/burns_dalton_thatcher_critical_data.pdf). Professional Geographer.  
 
-2016	Thatcher, Jim, L. Bergmann, B. Ricker, R. Rose-Redwood, D. O’Sullivan, T. Barnes, L. Barnesmoore, L. Beltz Imaoka, R. Burns, J. Cinnamon, C. Dalton, C. Davis, S. Dunn, F. Harvey, J.-K. Jung, E. Kersten, L. Knigge, N. Lally, W. Lin, D. Mahmoudi, M. Martin, W. Payne, A. Sheikh, T. Shelton, E. Sheppard, C. Strother, A. Tarr, M. Wilson, J. Young. [Revisiting Critical GIS: Reflections from Friday Harbor](/assets/uploads/revisiting.pdf). *Environment &amp; Planning A* 48(5): 815-824.  
-
-2015	Schwartz, B., B. Tellman, R. Burns, C. Andersson. Big Data, Satellites, and Disaster Monitoring. Incorporated into [*UN Global Sustainable Development Report*](https://sustainabledevelopment.un.org/content/documents/1758GSDR%202015%20Advance%20Unedited%20Version.pdf)  
+2016	Thatcher, Jim, ... R. Burns \(9th author\), *et al*. [Revisiting Critical GIS: Reflections from Friday Harbor](/assets/uploads/revisiting.pdf). *Environment &amp; Planning A* 48(5): 815-824. 
 
 2014	Burns, Ryan. [Rethinking Big Data in Digital Humanitarianism: Practices, Epistemologies, and Social Relations.](/assets/uploads/burns_rethinking_big_data.pdf) *GeoJournal*. http://link.springer.com/article/10.1007/s10708-014-9599-x (last accessed 10/15/2014).  
 
@@ -180,6 +183,10 @@ Accepted	Thatcher, Jim, R. Burns, C. Dalton. "Regional Approaches to data, envir
 ## Select Conference Presentations
 
 <b>*Papers presented*</b>   
+
+2020 "Moral Economies of Open Data Platforms". [Association of Internet Researchers 2020](https://aoir.org/). Virtual conference (40% acceptance rate), formerly Dublin, Ireland. Presentation with Preston Welker. 
+
+2020 "Moral Economies of Open Data Platforms". [4S/EASST](https://www.easst4s2020prague.org/) 2020. Virtual conference, formerly Prague, Czech Republic. Presentation with Preston Welker. 
 
 2019 "\(Digital\) Neocolonialism in the Smart City". 4S 2019 \(Society for Social Studies of Science\). New Orleans. Presented with Morgan Mouton.
 
@@ -243,6 +250,8 @@ Accepted	Thatcher, Jim, R. Burns, C. Dalton. "Regional Approaches to data, envir
 
 Advanced Research and Applications in GIS; Urban and Environmental GIS; Introduction to Geospatial Methods; Urban Studies Capstone; Spaces of Urban Politics (U of Calgary)  
 
+Artificial 	Intelligence for Community Public Health (UofC study abroad)
+
 Smart Cities Asia: Geography Field School (UofC study abroad)  
 
 Capstone Seminar (UofC Arts & Sciences Honours Academy)  
@@ -258,6 +267,8 @@ GIS Databases and Programming; Cultural Geography; The Making of World Regions; 
 <a name="addProf"> </a>
 
 ## Select Professional Service
+
+2020-present	Editorial Board, *Digital Geography & Society*
 
 2018-present	Book review editor, *The Canadian Geographer*  
 
@@ -285,7 +296,9 @@ Post-docs: Debra Mackinnon (2019-present), Morgan Mouton (2018-2019), Anthony Le
 
 PhD: Joyce Percel
 
-MA & MGIS: Preston Welker, Dare Adeyemi, Angela Ambrose, Prakash Gautam
+MA & MGIS: Preston Welker, Angela Ambrose
+
+Graduated: Dare Adeyemi (2020), Prakash Gautam (2019)
 
 Undergraduate: Brian Lau (Health & Society Honours project), Grace Wark (2017-2018; honours thesis project)
 
