@@ -25,7 +25,10 @@ burnsr77\[at\]gmail\[dot\]com
 
 **social & scholarly media:**
 
-[twitter] (https://twitter.com/burnsr77)
-[linkedIn](http://linkedin.com/in/ryanlburns)
-[orcid](https://orcid.org/0000-0001-5025-4947)
+[twitter] (https://twitter.com/burnsr77) 
+
+[linkedIn](http://linkedin.com/in/ryanlburns) 
+
+[orcid](https://orcid.org/0000-0001-5025-4947) 
+
 [my geog dept homepage](https://arts.ucalgary.ca/geography/contact/ryanburns)
