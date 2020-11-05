@@ -67,23 +67,22 @@
   </script>
   
   <script>
-	var unirest = require("unirest");
+const data = null;
 
-	var req = unirest("GET", "https://restcountries-v1.p.rapidapi.com/all");
+const xhr = new XMLHttpRequest();
+xhr.withCredentials = true;
 
-	req.headers({
-		"x-rapidapi-key": "a2a2e9673amshe9cd17053ffdf04p1ce896jsn075e1fbe3ab4",
-		"x-rapidapi-host": "restcountries-v1.p.rapidapi.com",
-		"useQueryString": true
-	});
+xhr.addEventListener("readystatechange", function () {
+	if (this.readyState === this.DONE) {
+		console.log(this.responseText);
+	}
+});
 
+xhr.open("GET", "https://the-cocktail-db.p.rapidapi.com/list.php?c=list");
+xhr.setRequestHeader("x-rapidapi-key", "a2a2e9673amshe9cd17053ffdf04p1ce896jsn075e1fbe3ab4");
+xhr.setRequestHeader("x-rapidapi-host", "the-cocktail-db.p.rapidapi.com");
 
-	req.end(function (res) {
-		if (res.error) throw new Error(res.error);
-
-		console.log(res.body);
-		alert(res.body);
-	});
+xhr.send(data);
   
   </script>
   
