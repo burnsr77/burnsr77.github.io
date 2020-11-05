@@ -65,6 +65,30 @@
 		} else {return "This geometry is encoded differently than the rest, and Ryan's currently writing a script to handle it. Stay tuned!"};
 };
   </script>
+  
+  <script>
+	var unirest = require("unirest");
+
+	var req = unirest("GET", "https://restcountries-v1.p.rapidapi.com/all");
+
+	req.headers({
+		"x-rapidapi-key": "a2a2e9673amshe9cd17053ffdf04p1ce896jsn075e1fbe3ab4",
+		"x-rapidapi-host": "restcountries-v1.p.rapidapi.com",
+		"useQueryString": true
+	});
+
+
+	req.end(function (res) {
+		if (res.error) throw new Error(res.error);
+
+		console.log(res.body);
+		alert(res.body);
+	});
+  
+  
+  
+  
+  
 </head>
 
 <body>
