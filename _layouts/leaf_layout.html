@@ -66,31 +66,7 @@
 };
 </script>
 
-<script>
-  window.fbAsyncInit = function() {
-    FB.init({
-      appId      : '2573525282939554',
-      cookie     : true,
-      xfbml      : true,
-      version    : 'v8.0'
-    });
-      
-    FB.AppEvents.logPageView();   
-      
-  };
 
-  (function(d, s, id){
-     var js, fjs = d.getElementsByTagName(s)[0];
-     if (d.getElementById(id)) {return;}
-     js = d.createElement(s); js.id = id;
-     js.src = "https://connect.facebook.net/en_US/sdk.js";
-     fjs.parentNode.insertBefore(js, fjs);
-   }(document, 'script', 'facebook-jssdk'));
-   
-   var testVar = FB.getLoginStatus(function(response) {
-    statusChangeCallback(response);
-	});
-</script>
 </head>
 
 <body>
@@ -125,6 +101,30 @@
   <section class="container content">
   {{ content }}
   <script>
+  window.fbAsyncInit = function() {
+    FB.init({
+      appId      : '2573525282939554',
+      cookie     : true,
+      xfbml      : true,
+      version    : 'v8.0'
+    });
+      
+    FB.AppEvents.logPageView();   
+      
+  };
+
+  (function(d, s, id){
+     var js, fjs = d.getElementsByTagName(s)[0];
+     if (d.getElementById(id)) {return;}
+     js = d.createElement(s); js.id = id;
+     js.src = "https://connect.facebook.net/en_US/sdk.js";
+     fjs.parentNode.insertBefore(js, fjs);
+   }(document, 'script', 'facebook-jssdk'));
+   
+   var testVar = FB.getLoginStatus(function(response) {
+    statusChangeCallback(response);
+	});
+	
 	alert(testVar);</script>
   </section>
 </body>
