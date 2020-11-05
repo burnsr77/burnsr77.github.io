@@ -10,7 +10,7 @@ xhr.addEventListener("readystatechange", function () {
 });
 
 xhr.open("GET", "https://restcountries-v1.p.rapidapi.com/all");
-xhr.setRequestHeader("x-rapidapi-key", "a2a2e9673amshe9cd17053ffdf04p1ce896jsn075e1fbe3ab4");
+xhr.setRequestHeader("x-rapidapi-key", "7729987a28msh7e4c5c175d516d0p111a14jsn850b3afc91cd");
 xhr.setRequestHeader("x-rapidapi-host", "restcountries-v1.p.rapidapi.com");
 
 xhr.send(data);
