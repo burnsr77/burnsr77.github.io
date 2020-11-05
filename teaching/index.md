@@ -25,13 +25,34 @@ Finally, interdisciplinarity factors strongly into my overall pedagogical approa
 
 <a name="current"></a>
 
-## Current courses
-[GEOG 457 - Urban and Environmental GIS](/UrbanGIS)   
-[GEOG 647: Advanced Research and Applications in GIS](/AdvRsrchGIS)
+## Current courses (AY 2019-2020)
+
+UBST 591 - Urban Studies Capstone
+
+ASHA 231 - Arts & Sciences Honours Academy - Representation
+
+GEOG 565 - Spaces of Urban Politics
+
+In this course, we will grapple with tough, age-old questions about what by thinking about the politics of urban space. We will contend with how groups – and to a lesser extent, individuals – carve out spaces for belonging, for prosperity, for exerting power, for oppression, for creating relations, and for economic advantage. In each of these cases, one might argue that cities provide sufficient material, human, and economic resources to transform the above questions into unique manifestations: that urban spaces draw into stark relief how power translates into territory, into ideology, and into social relations. In this course we will consider a range of ways that scholars have approached these concerns, and will use them to explain how the (urban) world works. We will creatively evaluate multiple frameworks against each other, to see their strengths and weaknesses, always with an eye toward the diverse audiences for our inquiries.
 
 <a name="courses"></a>
 
 ## Courses taught
+
+*University of Calgary*
+
+New Digital Geographies (graduate seminar)
+
+Smart Cities Asia: Geography Field School (study abroad)
+
+Arts & Sciences Honours Academy – Capstone Course
+
+Introduction to Geospatial Methods	
+
+GEOG 457 - Urban and Environmental GIS  
+
+GEOG 647: Advanced Research and Applications in GIS
+
 
 *Temple University*
 
@@ -51,25 +72,6 @@ GEOG 301: Cultural Geography<br>Description: This course delves into how the ide
 
 GEOG 102: The Making of World Regions (online)<br>Description: Why do we divide the world up as we do? How have these divisions changed over time? Who controls and defines these divisions and to what end \(for whose benefit\)? This course will both familiarize you with different regions of the world, and help to expand your understanding of the socially constructed nature of these divisions. We often take these divisions for granted as natural or pre-given (e.g., we all know where "Latin America" is, right?), but we often overlook the fact that these have changed dramatically over time, due to social and political circumstances. In this course we will critically examine the formation, adaptation, and conflict over the division of the world into distinctive regions as we know them today. In effect, we will be engaging in a critical geography of the world. In addition to the course textbook, which takes a relatively traditional approach to studying the regions of the world, you will watch films, listen to speeches, and analyze art and maps, all of which encourage you to question these divisions. 
 
-*Teaching assistant at SDSU and UW*
-
-University of Washington Department of Geography. Winter 2012-Spring 2012, Autumn 2014. Taught the lab portions of "Introduction to GIS", "Urban GIS", and "GIS Workshop" 
-
-San Diego State University Department of Geography. Fall 2007-Spring 2008. Taught a total of four laboratory sections: "Introduction to GIS" (twice), "Map Investigation", and "Animated Cartographic Design".  
-
-*Guest lectures*
-
-ENST 2097 (2016): "Research Design in Environmental Studies". Discussed the use of GIS for environmental research.
-
-GEOG 360 (2014): "Introduction to GIS". Discussed qualitative GIS: how it is conducted, its advantages and drawbacks, and the way qualitative data can be collected and visualized.
-
-GEOG 277 (2014): "Geographies of Cities". Discussed the implications of digital humanitarianism on urban processes, including policy, resource allocation, and representations of the city.
-
-GEOG 469/569 (2012): "GIS Workshop". Introduced the use of Python for GIS analysis.
-
-GEOG 461/561 (2012): "Urban GIS". Discussed urban administration and policymaking using GIS, with a particular focus on urban politics and community organizations. 
-
-"Participatory Mapping" Imagining America Site Visit (2011). Discussed how data is collected, managed, and visualized using GIS. The audience were humanists, scholars, and activists. 
 
 <a name="training"></a>
 
