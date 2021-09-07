@@ -4,7 +4,7 @@ author: rlburns
 layout: layout
 ---
 
-[Click here for my complete CV](/assets/uploads/Burns_CV.pdf)
+## [Click here for my complete CV](/assets/uploads/Burns_CV.pdf)
 
 See below for *selective* HTML version, with links.
 
@@ -30,16 +30,10 @@ go to:
 2016-present Assistant Professor  
 Department of Geography, University of Calgary
 
-2017-present Faculty Member  
-O'Brien Institute for Public Health
-
-2017-present Mentor  
-Scholars Academy
-
-2021 Visiting Scholar  
+2022 Visiting Scholar  
 Department of Geography, University of British Columbia
 
-2021 Visiting Teaching Fellow 
+2022 Visiting Teaching Fellow 
 Department of Sociology, University of Antwerp (Belgium)
 
 2021 Visiting Scholar  
@@ -51,6 +45,12 @@ Arts & Sciences Honours Academy, University of Calgary
 2015-2016 Assistant Professor of Instruction  
 Department of Geography and Urban Studies, Temple University
 
+
+2017-present Faculty Member  
+O'Brien Institute for Public Health
+
+2017-present Mentor  
+Scholars Academy
 
 <a name="education"> </a>
 
@@ -67,6 +67,10 @@ Dissertation title: [Digital Humanitarianism and the Geospatial Web: Emerging Mo
 <a name="awards"> </a>
 
 ## Select Grants, Fellowships, and Awards
+
+2021	$97,265. SSHRC Insight Grant. "Digitizing Carbon Capitalism". PIs: Ryan Burns, Eliot Tretter
+
+2021	$500 (USD). American Association of Geographers, Research Grant. PI: Ryan Burns. "Spatializing Digital Labor". 
 
 2019	Graduate Student Association Excellence Award in Graduate Supervision
 
@@ -86,7 +90,7 @@ Dissertation title: [Digital Humanitarianism and the Geospatial Web: Emerging Mo
 
 2017	Department of Geography Graduate Student Association Recognition Award
 
-2017, 2019, 2020	$3,000. Calgary Institute for the Humanities Working Group. "Social Justice and the Smart City". Conveners: Ryan Burns, et al  
+2017, 2019, 2020, 2021	$3,000. Calgary Institute for the Humanities Working Group. "Social Justice and the Smart City". Conveners: Ryan Burns, and many others  
 
 2013 $4,000. United Nations Office for the Coordination of Humanitarian Affairs: "Humanitarian Research and Innovation Grant"  
 
@@ -101,7 +105,7 @@ Dissertation title: [Digital Humanitarianism and the Geospatial Web: Emerging Mo
 
 ## Research Institutes
 
-2021 (expected)	Knowledge and Digital Technology; 19th symposium of the Klaus Tschira Symposia on Knowledge and Space. Heidelberg University, Heidelberg, Germany.
+2022 (expected)	Knowledge and Digital Technology; 19th symposium of the Klaus Tschira Symposia on Knowledge and Space. Heidelberg University, Heidelberg, Germany.
 
 2018	Technology, Law, and Society Summer Institute. University of California - Irvine. Competitive application.  
 
@@ -128,6 +132,10 @@ Dissertation title: [Digital Humanitarianism and the Geospatial Web: Emerging Mo
 
 <b>*Select Articles and Book Chapters*</b> 
 
+2021	Mouton, Morgan, R. Burns. (Digital) Neo-colonialism and the Smart City. *Regional Studies*. OnlineFirst. https://doi.org/10.1080/00343404.2021.1915974. 
+
+2021	Miller, B., K. Ward, R. Burns, V. Fast, A. Levenda. Worlding and Provincialising Smart Cities: From Individual Case Studies to a Global Comparative Research Agenda. *Urban Studies*. OnlineFirst. https://doi.org/10.1177/0042098020976086.
+
 2020	Burns, Ryan, M. Andrucki. [Smart Cities: Who Cares?](/assets/uploads/burns_andrucki_-smart_cities_who_cares.pdf). Environment & Planning A. OnlineFirst. https://doi.org/10.1177/0308518X20941516.
 
 2020	Burns, Ryan. [A COVID-19 Panacea in Digital Technologies? Challenges for Democracy and Higher Education](/assets/uploads/burns_covid.pdf). *Dialogues in Human Geography* 10(2): 246–249. https://doi.org/10.1177%2F2043820620930832.
@@ -142,13 +150,7 @@ Dissertation title: [Digital Humanitarianism and the Geospatial Web: Emerging Mo
  
 2019	Burns, Ryan. ["Let the Private Sector Take Care of This": The Philanthro-capitalism of Digital Humanitarianism](/assets/uploads/burns-philanthro-capitalism.pdf). In M. Graham (ed.), Digital Economies at the Global Margins. Cambridge, MA: MIT Press.  
 
-2019	Burns, Ryan. Review of S. Noble, "Algorithms of Oppression". Antipode. Review symposium including J. Thatcher, B. Hawkins, O. Igbinedion, with Safiya Noble’s response. https://antipodeonline.org/wp-content/uploads/2019/11/2.-Ryan-Burns.pdf.
-
 2018	Burns, Ryan. [Datafying Disaster: Institutional Framings of Data Production following Superstorm Sandy](/assets/uploads/burns_datafying_disaster.pdf). Annals of the American Association of Geographers 108(2): 569-578. https://doi.org/10.1080/24694452.2017.1402673.
-
-2018	Burns, Ryan. Synergizing Geoweb and Digital Humanitarian Research. In Thatcher, J., A. Shears, J. Eckert (eds.), *Geographic Research in an Age of New (Big) Data*. Lincoln, NE: University of Nebraska Press.  
-
-2017	Burns, Ryan, C. Dalton, J. Thatcher (alphabetical). [Introduction: Critical Data, Critical Technology Focus Issue](/assets/uploads/burns_dalton_thatcher_critical_data.pdf). Professional Geographer.  
 
 2016	Thatcher, Jim, ... R. Burns \(9th author\), *et al*. [Revisiting Critical GIS: Reflections from Friday Harbor](/assets/uploads/revisiting.pdf). *Environment &amp; Planning A* 48(5): 815-824. 
 
@@ -158,16 +160,16 @@ Dissertation title: [Digital Humanitarianism and the Geospatial Web: Emerging Mo
 
 2013	Shanley, Lea, R. Burns, Z. Bastian, E. Robson. [Tweeting Up a Storm: The Promise and Perils of Crisis Mapping.](/assets/uploads/shanley_burns_et_al_tweeting_up_storm.pdf) *Photogrammetric Engineering & Remote Sensing* 79 (10): 865-879.  
 
-2013	Burns, Ryan, A. Skupin. [Towards Qualitative Geovisual Analytics: A Case Study Involving Places, People, and Mediated Experience.](/assets/uploads/burns_skupin_qual_geoviz.pdf) *Cartographica* 48(3): 157-176.
+2013	Burns, Ryan, L. Shanley. [Connecting Grassroots to Government for Disaster Management: Workshop Summary](/assets/uploads/burns_shanley_workshop_report.pdf). Woodrow Wilson International Center for Scholars. http://www.scribd.com/doc/165813847/Connecting-Grassroots-to-Government-for-Disaster-Management-Workshop-Summary \(last accessed 3/7/2014\).  
 
-2013	Burns, Ryan, L. Shanley. [Connecting Grassroots to Government for Disaster Management: Workshop Summary](/assets/uploads/burns_shanley_workshop_report.pdf). Woodrow Wilson International Center for Scholars. http://www.scribd.com/doc/165813847/Connecting-Grassroots-to-Government-for-Disaster-Management-Workshop-Summary \(last accessed 3/7/2014\).
+2013	Burns, Ryan, A. Skupin. [Towards Qualitative Geovisual Analytics: A Case Study Involving Places, People, and Mediated Experience.](/assets/uploads/burns_skupin_qual_geoviz.pdf) *Cartographica* 48(3): 157-176.  
 
 
 <b>*Edited Journal Issues \(with Peer Review\)*</b> 
 
-Accepted	Miller, Byron, R. Burns, V. Fast, A. Levenda. "Between Provincializing and Worlding Smart Cities". Special Issue of *Urban Studies*. (Manuscripts due 1/31/2019)  
-
 Accepted	Thatcher, Jim, R. Burns, C. Dalton. "Regional Approaches to data, environment, and society". Special issue of *Regional Studies*.
+
+2021	Miller, Byron, R. Burns, V. Fast, A. Levenda. "Between Provincializing and Worlding Smart Cities". Special Issue of *Urban Studies*.
 
 2018	Burns, Ryan, C. Dalton, J. Thatcher. "Critical Data, Critical Technology in Theory and Practice." Special Issue of *Professional Geographer*.  
 
@@ -204,11 +206,7 @@ Accepted	Thatcher, Jim, R. Burns, C. Dalton. "Regional Approaches to data, envir
 
 2017 "Knowledge Politics and Representational Inequalities in Open Calgary". Nordic Geographers Meeting: Stockholm, Sweden.  
 
-2016 "Big Data, digital humanitarianism, and smart cities: New directions for GIScience research". Invited presentation at San Diego State University Department of Geography: San Diego, CA.  
-
 2016 "The inequalities of economic and representational inclusion in digital 'solutions' to urban crisis". Regional Studies Association: Smart City-Regional Governance for Sustainability. Dresden, Germany.   
-
-2014 "Crisis Mapping as Social Process: Research and Policy Implications of New Digital Technologies". Keynote presentation at Crisis Mapping Seminar, Heidelberg University, Germany.   
 
 
 <b>*Conference Sessions Organized*</b>   
@@ -226,10 +224,7 @@ Accepted	Thatcher, Jim, R. Burns, C. Dalton. "Regional Approaches to data, envir
 2016 Organizer. "Hipster Geographies: Socio-spatial Practices, Politics, and Economies of Culture’s Most Maligned Figure". Annual Meeting of the AAG. San Francisco, CA. Organizer with Cristina Temenos and Jesse McClelland. (2 sessions)  
 
 2016 Organizer. "Toward a Geographical Software Studies". Annual meeting of the AAG. San Francisco, CA. Organizer with Nick Lally. (4 sessions)  
-
-2013 Organizer. "Whither Small Data?: The Limits of 'Big Data' and the Value of 'Small Data' Studies." Organizer with Jim Thatcher. Annual meeting of the AAG. Los Angeles, CA. 
-
-2013	Organizer. "Critical Interventions into Gender &amp; the Geoweb." Organizer with Monica Stephens. Annual meeting of the AAG. Los Angeles, CA. Presenting panelists: Brent Hecht, Monica Stephens, Michele Masucci, Adrianne Wadewitz \(Center of Digital Learning and Research, Occidental College\).  
+ 
 
 
 
@@ -274,17 +269,13 @@ GIS Databases and Programming; Cultural Geography; The Making of World Regions; 
 
 2017-present	International Advisory Board for *ACME: An International Journal for Critical Geographies*  
 
-2016-present	Masters in GIS Renewal Committee, University of Calgary
+2020-present	Secretary &amp; Treasurer, *Digital Geographies* Specialty Group of the AAG*
 
-2017, 2019	Program Committee for Spatial Knowledge and Information – Canada 2017   
-
-2015-2016	Professional Science Master’s in GIS Steering Committee   
+2016-2019	Masters in GIS Renewal Committee, University of Calgary 
 
 2013-2014	Secretary and Treasurer, *"Geographic Information Systems and Science" Specialty Group of the AAG*
 
-2012-2013	Leadership Collective Member, *"Socialist &amp; Critical Geography" Specialty Group of the AAG*
-
-2008-2012	Webmaster, *"Socialist &amp; Critical Geography" Specialty Group of the AAG*
+2008-2013	Webmaster, Leadership Collective Member, *"Socialist &amp; Critical Geography" Specialty Group of the AAG*
 
 
 
@@ -292,7 +283,7 @@ GIS Databases and Programming; Cultural Geography; The Making of World Regions; 
 
 ## Select Advising
 
-Post-docs: Debra Mackinnon (2019-present), Morgan Mouton (2018-2019), Anthony Levenda (2017-2018)
+Post-docs: Debra Mackinnon (2019-2021), Morgan Mouton (2018-2019), Anthony Levenda (2017-2018)
 
 PhD: Joyce Percel
 
@@ -300,15 +291,14 @@ MA & MGIS: Preston Welker, Angela Ambrose
 
 Graduated: Dare Adeyemi (2020), Prakash Gautam (2019)
 
-Undergraduate: Brian Lau (Health & Society Honours project), Grace Wark (2017-2018; honours thesis project)
-
-Extracurricular: Catherine Tran (undergrad; UofC Scholars Academy), Duncan Lucas (undergrad; UofC Scholars Academy), Dante Bencivenga (2017-2018; undergrad; UofC Scholars Academy), Jessica Waldinger (2016; Temple U undergrad; CARAS project grant), Jing-Huei Huang (2015-2016; Temple U MA; Community Service GIS project), Blake Hawkins (PhD, UBC, HASTAC project)
-
-
 
 <a name="press"> </a>
 
 ## Community and Public Scholarship
+
+2019-2020	Co-chair, Alberta Non-profit Data Strategy – Data Hubs Task Group.  (stewardship of PolicyWise, Edmonton, AB).
+
+2019	Organizer. "Working with Open Data". Cyber Summit. Kananaskis Country, AB. Co-organized by personal invitation with David Chan and Byron Chu of Cybera.
 
 2018	Inaugural lecture, "Social and Technological Humanitarian Studies" program, University of Calgary. A lecture I organized to report to my department the research I've been doing.
 
@@ -319,12 +309,6 @@ Extracurricular: Catherine Tran (undergrad; UofC Scholars Academy), Duncan Lucas
 2017 	2-day University of Calgary map-a-thon for Geography Awareness Week and GIS Day, contributing to Building Canada 2020.
 
 2015	Formatting and Sharing Your Syllabus with Markdown and Github. Invited workshop at Temple University, 10/30/2015.
-
-2013 Interview for the Digital Humanitarian Network, "Guidance for Collaborating with Formal Humanitarian Organizations." http://app.box.com/s/w25sqotkg4qc2f2ch1ii.
-
-2012 Interview for Simpson Center for the Humanities News, "Doctoral Student Ryan Burns Selected to Present on Digital Scholarship at UW HuskyFest 2012." http://bit.ly/HUCIQS.
-
-2012 Interview for UW Today, "UW Leads in Connecting Scholarship with Community." http://bit.ly/yQ77sX.  
 
 
 <a name="tech"> </a>
