@@ -25,7 +25,7 @@ go to:
 
 <a name="positions"> </a>
 
-## Academic Positions 
+## Current Academic Positions 
 
 2016-present Assistant Professor  
 Department of Geography, University of Calgary
@@ -36,29 +36,15 @@ Department of Geography, University of British Columbia
 2022 Visiting Teaching Fellow 
 Department of Sociology, University of Antwerp (Belgium)
 
-2021 Visiting Scholar  
-Institute of Geography, University of Erlangen-Nuremberg
+2021 Visiting Professor  
+Department of Sociology, Katholische Universität Eichstätt-Ingolstadt
 
-2019 Instructor  
-Arts & Sciences Honours Academy, University of Calgary
-
-2015-2016 Assistant Professor of Instruction  
-Department of Geography and Urban Studies, Temple University
-
-
-2017-present Faculty Member  
-O'Brien Institute for Public Health
-
-2017-present Mentor  
-Scholars Academy
 
 <a name="education"> </a>
 
 ## Education 
 
 2015 Ph.D. Geography, University of Washington  
-Committee: Sarah Elwood, Mark Ellis, Victoria Lawson, Jin-Kyu Jung 
-Dissertation title: [Digital Humanitarianism and the Geospatial Web: Emerging Modes of Mapping and the Transformation of Humanitarian Practices](/assets/uploads/burns_dissertation.pdf)
 
 2009 M.S. Geographic Information Science, San Diego State University  
 
@@ -92,14 +78,6 @@ Dissertation title: [Digital Humanitarianism and the Geospatial Web: Emerging Mo
 
 2017, 2019, 2020, 2021	$3,000. Calgary Institute for the Humanities Working Group. "Social Justice and the Smart City". Conveners: Ryan Burns, and many others  
 
-2013 $4,000. United Nations Office for the Coordination of Humanitarian Affairs: "Humanitarian Research and Innovation Grant"  
-
-2009 $9,000. UW Geography Top Scholar Award \(1 year of funding\)  
-
-2009 $500. Cartography &amp; Geographic Information Society \(CaGIS\) Master's Award  
-
-2007 $6,600. SDSU McFarland Award  
-
 
 <a name="rsrch"> </a>
 
@@ -128,15 +106,19 @@ Dissertation title: [Digital Humanitarianism and the Geospatial Web: Emerging Mo
 
 <a name="pubs"> </a>
 
-## Publications
+## Recent Publications
 
 <b>*Select Articles and Book Chapters*</b> 
 
-2021	Mouton, Morgan, R. Burns. (Digital) Neo-colonialism and the Smart City. *Regional Studies*. OnlineFirst. https://doi.org/10.1080/00343404.2021.1915974. 
+In press	Mackinnon, Debra, R. Burns, V. Fast (Eds.). *Digital (In)Justice in the Smart City*. University of Toronto Press.
+
+2021	Mouton, Morgan, R. Burns. [(Digital) Neo-colonialism and the Smart City](/assets/uploads/digitalNeocolonialism.pdf). *Regional Studies* 55(12): 1890-1901. https://doi.org/10.1080/00343404.2021.1915974. 
 
 2021	Miller, B., K. Ward, R. Burns, V. Fast, A. Levenda. Worlding and Provincialising Smart Cities: From Individual Case Studies to a Global Comparative Research Agenda. *Urban Studies*. OnlineFirst. https://doi.org/10.1177/0042098020976086.
 
-2020	Burns, Ryan, M. Andrucki. [Smart Cities: Who Cares?](/assets/uploads/burns_andrucki_-smart_cities_who_cares.pdf). Environment & Planning A. OnlineFirst. https://doi.org/10.1177/0308518X20941516.
+2021	Burns, Ryan. Transgressions: Reflecting on Critical GIS and Digital Geographies. *Digital Geography & Society* 2: 1-3. https://doi.org/10.1016/j.diggeo.2021.100011 (open access).
+
+2020	Burns, Ryan, M. Andrucki. [Smart Cities: Who Cares?](/assets/uploads/burns_andrucki_-smart_cities_who_cares.pdf). Environment & Planning A 53(1): 12-30. https://doi.org/10.1177/0308518X20941516.
 
 2020	Burns, Ryan. [A COVID-19 Panacea in Digital Technologies? Challenges for Democracy and Higher Education](/assets/uploads/burns_covid.pdf). *Dialogues in Human Geography* 10(2): 246–249. https://doi.org/10.1177%2F2043820620930832.
 
@@ -152,22 +134,11 @@ Dissertation title: [Digital Humanitarianism and the Geospatial Web: Emerging Mo
 
 2018	Burns, Ryan. [Datafying Disaster: Institutional Framings of Data Production following Superstorm Sandy](/assets/uploads/burns_datafying_disaster.pdf). Annals of the American Association of Geographers 108(2): 569-578. https://doi.org/10.1080/24694452.2017.1402673.
 
-2016	Thatcher, Jim, ... R. Burns \(9th author\), *et al*. [Revisiting Critical GIS: Reflections from Friday Harbor](/assets/uploads/revisiting.pdf). *Environment &amp; Planning A* 48(5): 815-824. 
-
-2014	Burns, Ryan. [Rethinking Big Data in Digital Humanitarianism: Practices, Epistemologies, and Social Relations.](/assets/uploads/burns_rethinking_big_data.pdf) *GeoJournal*. http://link.springer.com/article/10.1007/s10708-014-9599-x (last accessed 10/15/2014).  
-
-2014	Burns, Ryan. [Moments of Closure in the Knowledge Politics of Digital Humanitarianism.](/assets/uploads/burns_moments_of_closure.pdf) *Geoforum* 53 (2): 51-62.  
-
-2013	Shanley, Lea, R. Burns, Z. Bastian, E. Robson. [Tweeting Up a Storm: The Promise and Perils of Crisis Mapping.](/assets/uploads/shanley_burns_et_al_tweeting_up_storm.pdf) *Photogrammetric Engineering & Remote Sensing* 79 (10): 865-879.  
-
-2013	Burns, Ryan, L. Shanley. [Connecting Grassroots to Government for Disaster Management: Workshop Summary](/assets/uploads/burns_shanley_workshop_report.pdf). Woodrow Wilson International Center for Scholars. http://www.scribd.com/doc/165813847/Connecting-Grassroots-to-Government-for-Disaster-Management-Workshop-Summary \(last accessed 3/7/2014\).  
-
-2013	Burns, Ryan, A. Skupin. [Towards Qualitative Geovisual Analytics: A Case Study Involving Places, People, and Mediated Experience.](/assets/uploads/burns_skupin_qual_geoviz.pdf) *Cartographica* 48(3): 157-176.  
 
 
 <b>*Edited Journal Issues \(with Peer Review\)*</b> 
 
-Accepted	Thatcher, Jim, R. Burns, C. Dalton. "Regional Approaches to data, environment, and society". Special issue of *Regional Studies*.
+2021	Thatcher, Jim, R. Burns, C. Dalton. "Regional Approaches to data, environment, and society". Special issue of *Regional Studies*.
 
 2021	Miller, Byron, R. Burns, V. Fast, A. Levenda. "Between Provincializing and Worlding Smart Cities". Special Issue of *Urban Studies*.
 
@@ -202,12 +173,6 @@ Accepted	Thatcher, Jim, R. Burns, C. Dalton. "Regional Approaches to data, envir
 
 2018 "Development, Normativity, and Criticality: Three Points of Coalescence in Open Data Research and Practice". Invited presentation (by video) at University of Lagos, Lagos, Nigeria.  
 
-2017 "Open Data and Smart Cities: Promises, Questions, Pitfalls, and Hopes". Invited presentation at Macalester College, Minneapolis, MN.  
-
-2017 "Knowledge Politics and Representational Inequalities in Open Calgary". Nordic Geographers Meeting: Stockholm, Sweden.  
-
-2016 "The inequalities of economic and representational inclusion in digital 'solutions' to urban crisis". Regional Studies Association: Smart City-Regional Governance for Sustainability. Dresden, Germany.   
-
 
 <b>*Conference Sessions Organized*</b>   
 
@@ -219,13 +184,6 @@ Accepted	Thatcher, Jim, R. Burns, C. Dalton. "Regional Approaches to data, envir
 
 2018 Organizer. "Making Smarter Environments: The Environmental Politics and Practices of Smart Cities". Annual Meeting of the AAG. New Orleans, LA. Organizer with Anthony Levenda.  
 
-2017 Organizer. "Urban-economic Perspectives on Technology". Annual Meeting of the AAG. Boston, MA. Organizer with Daniel Cockayne.  
-
-2016 Organizer. "Hipster Geographies: Socio-spatial Practices, Politics, and Economies of Culture’s Most Maligned Figure". Annual Meeting of the AAG. San Francisco, CA. Organizer with Cristina Temenos and Jesse McClelland. (2 sessions)  
-
-2016 Organizer. "Toward a Geographical Software Studies". Annual meeting of the AAG. San Francisco, CA. Organizer with Nick Lally. (4 sessions)  
- 
-
 
 
 <a name="conference"> </a>
@@ -233,7 +191,7 @@ Accepted	Thatcher, Jim, R. Burns, C. Dalton. "Regional Approaches to data, envir
 ## Conference organizing
 2018 Organizer. 13th Annual Critical Geographies Mini-conference. University of Calgary.  
 
-2017 Co-organizer. "Emerging Theories in Critical Cartography and GIS". Workshop concurrent with the North American Cartographic Information Society. Montreal, QC.  
+2017 Co-organizer. "Emerging Theories in Critical Cartography and GIS". Workshop concurrent with the North American Cartographic Information Society. Montreal, QC.
 
 2017 Co-organizer. "The Social and Environmental Implications of Smart Cities: a Global Comparative Research Agenda". Workshop at University of Calgary. 
 
@@ -245,13 +203,11 @@ Accepted	Thatcher, Jim, R. Burns, C. Dalton. "Regional Approaches to data, envir
 
 Advanced Research and Applications in GIS; Urban and Environmental GIS; Introduction to Geospatial Methods; Urban Studies Capstone; Spaces of Urban Politics (U of Calgary)  
 
-Artificial 	Intelligence for Community Public Health (UofC study abroad)
+Artificial Intelligence for Community Public Health (UofC study abroad)
 
 Smart Cities Asia: Geography Field School (UofC study abroad)  
 
-Capstone Seminar (UofC Arts & Sciences Honours Academy)  
-
-Representation (UofC Arts & Sciences Honours Academy)  
+Representation, Capstone Seminar (UofC Arts & Sciences Honours Academy)  
 
 Web and Mobile GIS; Digital Mapping; Fundamentals of GIS (Temple U)   
 
@@ -261,7 +217,7 @@ GIS Databases and Programming; Cultural Geography; The Making of World Regions; 
 
 <a name="addProf"> </a>
 
-## Select Professional Service
+## Current Professional Service
 
 2020-present	Editorial Board, *Digital Geography & Society*
 
@@ -270,12 +226,6 @@ GIS Databases and Programming; Cultural Geography; The Making of World Regions; 
 2017-present	International Advisory Board for *ACME: An International Journal for Critical Geographies*  
 
 2020-present	Secretary &amp; Treasurer, *Digital Geographies* Specialty Group of the AAG*
-
-2016-2019	Masters in GIS Renewal Committee, University of Calgary 
-
-2013-2014	Secretary and Treasurer, *"Geographic Information Systems and Science" Specialty Group of the AAG*
-
-2008-2013	Webmaster, Leadership Collective Member, *"Socialist &amp; Critical Geography" Specialty Group of the AAG*
 
 
 
@@ -287,14 +237,14 @@ Post-docs: Debra Mackinnon (2019-2021), Morgan Mouton (2018-2019), Anthony Leven
 
 PhD: Joyce Percel
 
-MA & MGIS: Preston Welker, Angela Ambrose
+MA & MGIS: Preston Welker (2021), Angela Ambrose (2021)
 
 Graduated: Dare Adeyemi (2020), Prakash Gautam (2019)
 
 
 <a name="press"> </a>
 
-## Community and Public Scholarship
+## Recent Community and Public Scholarship
 
 2019-2020	Co-chair, Alberta Non-profit Data Strategy – Data Hubs Task Group.  (stewardship of PolicyWise, Edmonton, AB).
 
@@ -307,8 +257,6 @@ Graduated: Dare Adeyemi (2020), Prakash Gautam (2019)
 2018	Organizer, "YYC Data Collective Launch Workshop". Community engagement session for YYC Data Collective, in collaboration with local volunteer and research organizations.
 
 2017 	2-day University of Calgary map-a-thon for Geography Awareness Week and GIS Day, contributing to Building Canada 2020.
-
-2015	Formatting and Sharing Your Syllabus with Markdown and Github. Invited workshop at Temple University, 10/30/2015.
 
 
 <a name="tech"> </a>
