@@ -110,6 +110,8 @@ Department of Sociology, Katholische Universität Eichstätt-Ingolstadt
 
 <b>*Select Articles and Book Chapters*</b> 
 
+In press	Burns, R., P. Welker. [Interstitiality in the Smart City: Beyond Top-down and Bottom-up Smartness](/assets/uploads/BurnsWelker-InterstitialActors.pdf). *Urban Studies*. 
+
 In press	Mackinnon, Debra, R. Burns, V. Fast (Eds.). *Digital (In)Justice in the Smart City*. University of Toronto Press.
 
 2021	Mouton, Morgan, R. Burns. [(Digital) Neo-colonialism and the Smart City](/assets/uploads/digitalNeocolonialism.pdf). *Regional Studies* 55(12): 1890-1901. https://doi.org/10.1080/00343404.2021.1915974. 
