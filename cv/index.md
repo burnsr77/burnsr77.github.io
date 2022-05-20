@@ -110,6 +110,8 @@ Department of Sociology, Katholische Universität Eichstätt-Ingolstadt
 
 <b>*Select Articles and Book Chapters*</b> 
 
+In press	Burns, R., P. Welker. ["Make our communities better through data": The Moral Economy of Smart City Labor] (/assets/uploads/BurnsWelkerMoralEconomy.pdf). *Big Data & Society*. 
+
 In press	Burns, R., P. Welker. [Interstitiality in the Smart City: Beyond Top-down and Bottom-up Smartness](/assets/uploads/BurnsWelker-InterstitialActors.pdf). *Urban Studies*. 
 
 In press	Mackinnon, Debra, R. Burns, V. Fast (Eds.). *Digital (In)Justice in the Smart City*. University of Toronto Press.
