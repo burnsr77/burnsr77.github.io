@@ -116,6 +116,8 @@ In press	Burns, R., P. Welker. [Interstitiality in the Smart City: Beyond Top-do
 
 In press	Mackinnon, Debra, R. Burns, V. Fast (Eds.). *Digital (In)Justice in the Smart City*. University of Toronto Press.
 
+In press	Burns, Ryan, A Lauren-Hoffman, P Welker. Toward Intimate Data: Re-thinking digital, social, political relations. Association of Internet Researchers 2022: Dublin, Ireland. (Peer reviewed)
+
 2021	Mouton, Morgan, R. Burns. [(Digital) Neo-colonialism and the Smart City](/assets/uploads/digitalNeocolonialism.pdf). *Regional Studies* 55(12): 1890-1901. https://doi.org/10.1080/00343404.2021.1915974. 
 
 2021	Miller, B., K. Ward, R. Burns, V. Fast, A. Levenda. Worlding and Provincialising Smart Cities: From Individual Case Studies to a Global Comparative Research Agenda. *Urban Studies*. OnlineFirst. https://doi.org/10.1177/0042098020976086.
