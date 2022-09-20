@@ -13,13 +13,13 @@ markdown: kramdown
 #
 title : ryan burns - university of calgary
 tagline: digressions on technology and society
-description : ryan burns is assistant professor at university of calgary studying technology, society, digital humanitarianism, smart cities, poverty, and inequality
+description : ryan burns is associate professor at university of calgary studying digital geographies, science & technology studies, urban studies, smart cities, technology & society, gender, geocomputation, digital humanitarianism
 author :
   name : ryan burns
   email : ryan.burns1@ucalgary.ca
   github : burnsr77
   twitter : burnsr77
-  gravatar_url : http://www.gravatar.com/avatar/88ca2927dab21eacddc9fba3c3341f29.png
+  gravatar_url : https://www.gravatar.com/avatar/88ca2927dab21eacddc9fba3c3341f29.png
 
 
 # The production_url is only used when full-domain names are needed
@@ -30,7 +30,7 @@ author :
 # Else if you are pushing to username.github.io, replace with your username.
 # Finally if you are pushing to a GitHub project page, include the project name at the end.
 #
-production_url : http://burnsr77.github.io
+production_url : https://burnsr77.github.io
 
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
 #

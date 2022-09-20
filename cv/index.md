@@ -27,7 +27,8 @@ go to:
 
 ## Current Academic Positions 
 
-2016-present Assistant Professor  
+2022-present Associate Professor  
+2016-2022 Assistant Professor  
 Department of Geography, University of Calgary
 
 2022 Visiting Scholar  
@@ -36,7 +37,10 @@ Department of Geography, University of British Columbia
 2022 Visiting Teaching Fellow 
 Department of Sociology, University of Antwerp (Belgium)
 
-2021 Visiting Professor  
+2021-2022 Visiting Professor
+Department of Geography, University of California Berkeley
+
+2021-2022 Visiting Professor  
 Department of Sociology, Katholische Universität Eichstätt-Ingolstadt
 
 
