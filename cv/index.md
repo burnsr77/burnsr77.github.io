@@ -58,6 +58,8 @@ Department of Sociology, Katholische Universität Eichstätt-Ingolstadt
 
 ## Select Grants, Fellowships, and Awards
 
+2022	Fellow, Royal Canadian Geographic Society.
+
 2021	$97,265. SSHRC Insight Grant. "Digitizing Carbon Capitalism". PIs: Ryan Burns, Eliot Tretter
 
 2021	$500 (USD). American Association of Geographers, Research Grant. PI: Ryan Burns. "Spatializing Digital Labor". 
