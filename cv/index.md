@@ -31,6 +31,9 @@ go to:
 2016-2022 Assistant Professor  
 Department of Geography, University of Calgary
 
+2023 Visiting Scholar  
+Institute of Geography, University of Erlangen-Nuremberg
+
 2022 Visiting Scholar  
 Department of Geography, University of British Columbia
 
@@ -57,6 +60,8 @@ Department of Sociology, Katholische Universität Eichstätt-Ingolstadt
 <a name="awards"> </a>
 
 ## Select Grants, Fellowships, and Awards
+
+2023-2024	Science & Technology Policy Fellow, American Assocation for the Advancement of Science.
 
 2022	Fellow, Royal Canadian Geographic Society.
 
