@@ -94,7 +94,7 @@ Department of Sociology, Katholische Universität Eichstätt-Ingolstadt
 
 ## Research Institutes
 
-2022 (expected)	Knowledge and Digital Technology; 19th symposium of the Klaus Tschira Symposia on Knowledge and Space. Heidelberg University, Heidelberg, Germany.
+2022 Knowledge and Digital Technology; 19th symposium of the Klaus Tschira Symposia on Knowledge and Space. Heidelberg University, Heidelberg, Germany.
 
 2018	Technology, Law, and Society Summer Institute. University of California - Irvine. Competitive application.  
 
@@ -121,13 +121,15 @@ Department of Sociology, Katholische Universität Eichstätt-Ingolstadt
 
 <b>*Select Articles and Book Chapters*</b> 
 
-In press	Burns, R., P. Welker. ["Make our communities better through data": The Moral Economy of Smart City Labor](/assets/uploads/BurnsWelkerMoralEconomies.pdf). *Big Data & Society*. 
+2023 Tretter, E., R. Burns. [Digital Transformations of the Urban – Carbon – Labor Nexus: A Research Agenda](https://doi.org/10.1016/j.diggeo.2023.100062). Digital Geography & Society 5: 1-9.
 
-In press	Burns, R., P. Welker. [Interstitiality in the Smart City: Beyond Top-down and Bottom-up Smartness](/assets/uploads/BurnsWelker-InterstitialActors.pdf). *Urban Studies*. 
+2023	Burns, R., P. Welker. [Interstitiality in the Smart City: Beyond Top-down and Bottom-up Smartness](/assets/uploads/BurnsWelker-InterstitialActors.pdf). *Urban Studies*. 
 
-In press	Mackinnon, Debra, R. Burns, V. Fast (Eds.). *Digital (In)Justice in the Smart City*. University of Toronto Press.
+2023	Mackinnon, Debra, R. Burns, V. Fast (Eds.). *Digital (In)Justice in the Smart City*. University of Toronto Press.
 
-In press	Burns, Ryan, A Lauren-Hoffman, P Welker. Toward Intimate Data: Re-thinking digital, social, political relations. Association of Internet Researchers 2022: Dublin, Ireland. (Peer reviewed)
+2022	Burns, Ryan, A Lauren-Hoffman, P Welker. [Toward Intimate Data: Re-thinking digital, social, political relations](https://doi.org/10.5210/spir.v2022i0.12981). Association of Internet Researchers 2022: Dublin, Ireland. (Peer reviewed)  
+
+2022	Burns, R., P. Welker. ["Make our communities better through data": The Moral Economy of Smart City Labor](https://doi.org/10.1177/20539517221106381). *Big Data & Society* 9(1). 
 
 2021	Mouton, Morgan, R. Burns. [(Digital) Neo-colonialism and the Smart City](/assets/uploads/digitalNeocolonialism.pdf). *Regional Studies* 55(12): 1890-1901. https://doi.org/10.1080/00343404.2021.1915974. 
 
@@ -205,7 +207,10 @@ In press	Burns, Ryan, A Lauren-Hoffman, P Welker. Toward Intimate Data: Re-think
 
 <a name="conference"> </a>
 
-## Conference organizing
+## Conference organizing 
+
+2023 Organizer. Digital Geographic Movements and Methods. University of Calgary.  
+
 2018 Organizer. 13th Annual Critical Geographies Mini-conference. University of Calgary.  
 
 2017 Co-organizer. "Emerging Theories in Critical Cartography and GIS". Workshop concurrent with the North American Cartographic Information Society. Montreal, QC.
@@ -236,13 +241,15 @@ GIS Databases and Programming; Cultural Geography; The Making of World Regions; 
 
 ## Current Professional Service
 
-2020-present	Editorial Board, *Digital Geography & Society*
+2023-present Associate Editor, *GeoJournal*
 
-2018-present	Book review editor, *The Canadian Geographer*  
+2020-present	Editorial Board, *Digital Geography & Society*
 
 2017-present	International Advisory Board for *ACME: An International Journal for Critical Geographies*  
 
 2020-present	Secretary &amp; Treasurer, *Digital Geographies* Specialty Group of the AAG*
+
+2018-2022	Book review editor, *The Canadian Geographer*  
 
 
 
