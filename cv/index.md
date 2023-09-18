@@ -245,7 +245,7 @@ GIS Databases and Programming; Cultural Geography; The Making of World Regions; 
 
 2020-present	Editorial Board, *Digital Geography & Society*
 
-2017-present	International Advisory Board for *ACME: An International Journal for Critical Geographies*  
+2017-present	Editorial Board for *ACME: An International Journal for Critical Geographies*  
 
 2020-present	Secretary &amp; Treasurer, *Digital Geographies* Specialty Group of the AAG*
 

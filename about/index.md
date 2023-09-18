@@ -27,7 +27,7 @@ burnsr77\[at\]gmail\[dot\]com
 
 [twitter] (https://twitter.com/burnsr77) 
 
-[linkedIn](http://linkedin.com/in/ryanlburns) 
+[linkedIn](https://linkedin.com/in/ryanlburns) 
 
 [orcid](https://orcid.org/0000-0001-5025-4947) 
 
