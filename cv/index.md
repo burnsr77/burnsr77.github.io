@@ -31,6 +31,9 @@ go to:
 2016-2022 Assistant Professor  
 Department of Geography, University of Calgary
 
+2023 Visiting Scholar
+Department of Geography, George Washington University
+
 2023 Visiting Scholar  
 Institute of Geography, University of Erlangen-Nuremberg
 

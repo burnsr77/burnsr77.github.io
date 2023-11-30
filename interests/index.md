@@ -41,8 +41,8 @@ While teaching at Temple University, my goal was to run every street in my neigh
 <script>
 		var map = L.map('map',{center:[39.92149,-75.1625],zoom:14});
 
-		L.tileLayer('http://{s}.tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&copy; <a href="http://osm.org/copyright">OpenStreetMap</a> contributors'
+		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+			attribution: '&copy; <a href="https://osm.org/copyright">OpenStreetMap</a> contributors'
 		}).addTo(map);
 
 
