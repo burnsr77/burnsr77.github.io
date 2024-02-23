@@ -28,17 +28,13 @@ Finally, interdisciplinarity factors strongly into my overall pedagogical approa
 
 ## Awards
 
-UBST 591 - Urban Studies Capstone
+1. Graduate Student Association Excellence Award in Graduate Supervision (nominated, competitively adjudicated, and awarded). 2019.
+2. Department of Geography Graduate Student Association Recognition Award: “Significant Contributions to the Graduate Student Experience” (anonymously nominated and awarded). 2017.
 
-ASHA 231 - Arts & Sciences Honours Academy - Representation
-
-GEOG 565 - Spaces of Urban Politics
-
-In this course, we will grapple with tough, age-old questions about what by thinking about the politics of urban space. We will contend with how groups – and to a lesser extent, individuals – carve out spaces for belonging, for prosperity, for exerting power, for oppression, for creating relations, and for economic advantage. In each of these cases, one might argue that cities provide sufficient material, human, and economic resources to transform the above questions into unique manifestations: that urban spaces draw into stark relief how power translates into territory, into ideology, and into social relations. In this course we will consider a range of ways that scholars have approached these concerns, and will use them to explain how the (urban) world works. We will creatively evaluate multiple frameworks against each other, to see their strengths and weaknesses, always with an eye toward the diverse audiences for our inquiries.
 
 <a name="evidence"></a>
 
-##Evidence of teaching effectiveness
+## Evidence of teaching effectiveness
 
 In my pedagogical strategy, student learning and student success are not directly measurable through standardized tests. This is because each student, ideally, internalizes course material in independent and often in unexpected ways. Standardized test questions and answers imply that there are single "answers" to questions that must be memorized, rather than new ways of thinking that must be cultivated. Instead, my courses usually require students to engage course material in creative and self-directed ways. Most simply, this often takes the form of short answer quizzes, taken in pairs, that both test students on their comprehension of course readings, and create space to collectively discuss key lessons from course discussions. In upper-division courses, I often task students with large term projects, which they undertake in groups, and again, often in collaboration with community partners. In all of these assignments, I look to see that students grapple with the key affordances and limitations of conceptual and technical tools. That is, the "successful" student will be able to undertake a conceptual or technical analysis, but more importantly, be able to identify the assumptions and limitations of those analytical tools—to think critically, in other words.    
 
