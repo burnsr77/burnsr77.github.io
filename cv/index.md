@@ -272,7 +272,7 @@ GIS Databases and Programming; Cultural Geography; The Making of World Regions; 
 
 Post-docs: Debra Mackinnon (2019-2021), Morgan Mouton (2018-2019), Anthony Levenda (2017-2018)
 
-PhD: Joyce Percel
+PhD: Joyce Percel, Xinyu Deng, Dafne da Silva Araujo 
 
 MA & MGIS: Preston Welker (2021), Angela Ambrose (2021)
 
