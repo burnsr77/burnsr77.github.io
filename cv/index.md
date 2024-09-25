@@ -27,6 +27,9 @@ go to:
 
 ## Current Academic Positions 
 
+2024-present Lecturer
+Interdisciplinary Arts & Sciences, University of Washington Bothell
+
 2022-present Associate Professor  
 2016-2022 Assistant Professor  
 Department of Geography, University of Calgary
@@ -95,23 +98,23 @@ Department of Sociology, Katholische Universität Eichstätt-Ingolstadt
 
 <a name="rsrch"> </a>
 
-## Research Institutes
+## Select Research Institutes
+
+2025	3rd U.S.-Africa Frontiers of Science, Engineering, and Medicine Symposium. "Session V: Smart and Connected Cities”. National Academies of Sciences, Engineering, and Medicine; and the Republic of Rwanda. Kigali, Rwanda.  
+
+2024	Institute for Critical Social Inquiry Summer Seminar. “Politics in the Age of Sensory Reproducibility” section with Susan Buck-Morss. The New School of Social Research, New York City.
 
 2022 Knowledge and Digital Technology; 19th symposium of the Klaus Tschira Symposia on Knowledge and Space. Heidelberg University, Heidelberg, Germany.
 
-2018	Technology, Law, and Society Summer Institute. University of California - Irvine. Competitive application.  
+2018	Technology, Law, and Society Summer Institute. University of California - Irvine.   
 
-2018	Globalization and Digitization - (New) Geoinformation Relationships in the World. Forum for the Study of the Global Condition: Jena, Germany. Personal invitation as participant and keynote speaker in 4-day workshop.  
+2018	Globalization and Digitization - (New) Geoinformation Relationships in the World. Forum for the Study of the Global Condition: Jena, Germany. Personal invitation as participant and keynote speaker in 4-day workshop. 
 
-2017	Ethical Issues of Digital Humanitarianism. Invited as participant for one-day workshop. Montreal, QC. 
-
-2016-2017	Ethics of Location-Based Technologies in Crisis Workshop. American Association for the Advancement of Science. Washington, DC. Invited as participant. 
+2016-2017	Ethics of Location-Based Technologies in Crisis Workshop. American Association for the Advancement of Science. Washington, DC. 
 
 2016	Participant, Summer Institute in Economic Geography. Lexington, KY, University of Kentucky. 
 
 2015	Fellow, [Data Science for Social Good Fellowship](http://escience.washington.edu/what-we-do/data-science-for-social-good). eScience Institute, University of Washington. 
-
-2014	Participant, "Revisiting Critical GIS". Friday Harbor Laboratories, Friday Harbor, WA. 
 
 2013	Oxford Internet Institute Summer Doctoral Programme. i-School, University of Toronto, Canada 
 
@@ -179,32 +182,37 @@ Department of Sociology, Katholische Universität Eichstätt-Ingolstadt
 
 <b>*Papers presented*</b>   
 
-2020 "Moral Economies of Open Data Platforms". [Association of Internet Researchers 2020](https://aoir.org/). Virtual conference (40% acceptance rate), formerly Dublin, Ireland. Presentation with Preston Welker. 
+2024	"Futuring smart cities and smart petroleum futures: The dual melding smartness of extraction and urbanization". International Geographical Conference: Dublin, Ireland. Presented with Eliot Tretter.
 
-2020 "Moral Economies of Open Data Platforms". [4S/EASST](https://www.easst4s2020prague.org/) 2020. Virtual conference, formerly Prague, Czech Republic. Presentation with Preston Welker. 
+2024	"All that is urban melts into data: Circulations of matter and energy in the digital city". Annual meeting of the Royal Geographical Society – Institute of British Geographers: London, UK. Presented with Morgan Mouton.
 
-2019 "\(Digital\) Neocolonialism in the Smart City". 4S 2019 \(Society for Social Studies of Science\). New Orleans. Presented with Morgan Mouton.
+2024	"Futuring the (Urban) Necrosphere: Anticipations of the Digitalizing Petroleum". Annual meeting of the Urban Affairs Association: New York, NY. Presented with Eliot Tretter.  
 
-2019 "A Data Story in Two Parts: Smart Cities, Open Data, and Their Inequalities". Invited presentation at Data for Good - Calgary. June 27, 2019.
+2023	"A River of Data Runs through It: Examining Urban Circulations in the Digital Age". Association of Internet Researchers 2023: Philadelphia, PA. Presented with Morgan Mouton.  
 
-2018 "The Taming of Knowledge: Digital Infrastructures of Humanitarianism" Invited presentation at University of Toronto, Toronto, ON. Part of the "Infrastructures of Development" speaker series.  
+2023	"Digital Transformations of the Urban – Carbon – Labor Nexus: A Research Agenda". Annual meeting of the American Association of Geographers. Denver, CO. Presented with Eliot Tretter.  
 
-2018 "Where’s the Database in Digital Ethnography? Exploring Database Ethnography for Open Data and Smart Cities Research". EASST (European Association for the Study of Science & Technology) 2018. Lancaster, UK. Co-authored with Grace Wark.  
+2023	"'Make our communities better through data': The moral economy of smart city labor". Annual meeting of the American Association of Geographers. Denver, CO.  
 
-2018 "From government to community: ethnographic insights into the political dimension of data production." Invited presentation at University of Exeter, Exeter, UK. Co-authored with Grace Wark. Presented with Morgan Mouton.  
+2022	"Toward Intimate Data: Re-thinking digital, social, political relations". Association of Internet Researchers. Dublin, Ireland. Presented with Preston Welker and Anna Lauren Hoffman.  
 
-2018 "Development, Normativity, and Criticality: Three Points of Coalescence in Open Data Research and Practice". Invited presentation (by video) at University of Lagos, Lagos, Nigeria.  
+2022	"Speculations toward a machinic justice". Royal Geographic Society – Institute of British Geographers (RGS-IBG) annual conference. Virtual. Presentation with Gwendolyn Blue.  
+
 
 
 <b>*Conference Sessions Organized*</b>   
 
-2019 Organizer. "Gendering the Smart City: Towards Just and Feminist Urban Futures". Annual Meeting of the AAG. Washington, DC. Organized with Ayona Datta, Nabeela Ahmed, and Max Andrucki.  
+2025	"AI and the Global Climate Crisis". Annual meeting of the American Association of Geographers. Detroit, MI.
 
-2018 Panelist and Organizer. "Interdisciplinary Critical Data Studies". Annual Meeting of the Association for Information Science and Technology (57% acceptance rate). Vancouver, BC.  
+2024	"GeoAI Symposium". Annual meeting of the American Association of Geographers. Honolulu, HI. Program Committee member. 
 
-2018 Organizer and panelist. "My City Is Smarter than Yours: Deconstructing the Buzzwords". Annual Meeting of the AAG. New Orleans, LA. Organizer with Victoria Fast.  
+2023	"Digitalizing Extractive Economies: New Practices, New Questions?" Annual meeting of the American Association of Geographers. Denver, CO. Organized with Eliot Tretter.  
 
-2018 Organizer. "Making Smarter Environments: The Environmental Politics and Practices of Smart Cities". Annual Meeting of the AAG. New Orleans, LA. Organizer with Anthony Levenda.  
+2021	"\(Im\)material streams in the city: ecologies, economies, electrons". Open Panel, 4S 2021 (Society for Social Studies of Science). Toronto and virtual. Organizer with Morgan Mouton. 
+
+2021	"Re-spatializing Digital Labor". Annual meeting of the American Association of Geographers. Virtual conference. Organized with Luke Bergmann (University of British Columbia). 
+
+2019	"Gendering the Smart City: Towards Just and Feminist Urban Futures". Annual Meeting of the AAG. Washington, DC. Organized with Ayona Datta, Nabeela Ahmed, and Max Andrucki.  
 
 
 
@@ -212,13 +220,15 @@ Department of Sociology, Katholische Universität Eichstätt-Ingolstadt
 
 ## Conference organizing 
 
-2023 Organizer. Digital Geographic Movements and Methods. University of Calgary.  
+2024	Local organizing committee. Society for the Social Study of Science (4S). Seattle, WA.
 
-2018 Organizer. 13th Annual Critical Geographies Mini-conference. University of Calgary.  
+2023	Organizer. Digital Geographic Movements and Methods. University of Calgary.  
 
-2017 Co-organizer. "Emerging Theories in Critical Cartography and GIS". Workshop concurrent with the North American Cartographic Information Society. Montreal, QC.
+2018	Organizer. 13th Annual Critical Geographies Mini-conference. University of Calgary.  
 
-2017 Co-organizer. "The Social and Environmental Implications of Smart Cities: a Global Comparative Research Agenda". Workshop at University of Calgary. 
+2017	Co-organizer. "Emerging Theories in Critical Cartography and GIS". Workshop concurrent with the North American Cartographic Information Society. Montreal, QC.
+
+2017	Co-organizer. "The Social and Environmental Implications of Smart Cities: a Global Comparative Research Agenda". Workshop at University of Calgary. 
 
 
 
