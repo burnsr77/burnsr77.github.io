@@ -295,3 +295,11 @@ h1 {
   border: none;
   padding: 0;
 }
+
+.row {
+  display: flex;
+}
+
+.column {
+  flex: 50%;
+}
