@@ -9,7 +9,6 @@ layout: layout
 See below for *selective* HTML version, with links.
 
 go to:  
-[academic positions](#positions)   
 [education](#education)    
 [awards](#awards)   
 [research activities](#rsrch)   
@@ -22,35 +21,6 @@ go to:
 [public scholarship](#press)   
 [technology proficiencies](#tech)   
 
-
-<a name="positions"> </a>
-
-## Current Academic Positions 
-
-2024-present Lecturer
-Interdisciplinary Arts & Sciences, University of Washington Bothell
-
-2022-present Associate Professor  
-2016-2022 Assistant Professor  
-Department of Geography, University of Calgary
-
-2023 Visiting Scholar
-Department of Geography, George Washington University
-
-2023 Visiting Scholar  
-Institute of Geography, University of Erlangen-Nuremberg
-
-2022 Visiting Scholar  
-Department of Geography, University of British Columbia
-
-2022 Visiting Teaching Fellow 
-Department of Sociology, University of Antwerp (Belgium)
-
-2021-2022 Visiting Professor
-Department of Geography, University of California Berkeley
-
-2021-2022 Visiting Professor  
-Department of Sociology, Katholische Universität Eichstätt-Ingolstadt
 
 
 <a name="education"> </a>
@@ -67,7 +37,7 @@ Department of Sociology, Katholische Universität Eichstätt-Ingolstadt
 
 ## Select Grants, Fellowships, and Awards
 
-2023-2024	Science & Technology Policy Fellow, American Assocation for the Advancement of Science.
+2023-2024	Science & Technology Policy Fellow, American Association for the Advancement of Science.
 
 2022	Fellow, Royal Canadian Geographic Society.
 
