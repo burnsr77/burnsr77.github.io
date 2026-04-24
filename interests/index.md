@@ -39,10 +39,10 @@ I'm an ultra-marathon runner. I'm most proud of the 2025 100-mile Pigtails Chall
 While teaching at Temple University, my goal was to run every street in my neighborhood, South Philadelphia. Here's how I did:
 <div id='map' style='height:800px; width:1200px'></div>
 <script>
-		var map = L.map('map',{center:[39.92149,-75.1625],zoom:14});
+		var map = L.map('map').setView([39.92149,-75.1625], 14);
 
-		L.tileLayer('https://tile.osm.org/{z}/{x}/{y}.png', {
-			attribution: '&copy; <a href="https://osm.org/copyright">OpenStreetMap</a> contributors'
+		L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
+			attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
 		}).addTo(map);
 
 
