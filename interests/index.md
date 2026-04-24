@@ -16,7 +16,7 @@ go to:
 <a name="music"> </a>
 
 ## Music reviewer
-For a few years as a PhD student [I wrote music reviews](http://thesightsandsounds.com/author/burnsr77/) of experimental, minimalist, ambient, and generally "weird" electronic tunes over at [The Sights and Sounds](http://thesightsandsounds.com/). I enjoyed writing there for a number of reasons, including the fact that it forced me to stay current on the scene, and it was a productive non-academic outlet of creative expression.
+For a few years as a PhD student [I wrote music reviews](http://thesightsandsounds.com/author/burnsr77/) of experimental, minimalist, ambient, and generally "weird" electronic tunes over at *The Sights and Sounds*(now defunct, unfortunately!). I enjoyed writing there for a number of reasons, including the fact that it forced me to stay current on the scene, and it was a productive non-academic outlet of creative expression.
 
 Check out what I'm listening to here: [Last.fm](http://www.last.fm/user/east_west). Generally, while I listen to a lot of different genres, I'm most into weird, challenging electronic music: drone, glitch, and quiet ambient, for example. But I'm also likely to be playing acoustic indie, dub reggae, shoegaze, goth rock, and 90s college indie, and who doesn't have a soft spot for Lana del Rey?
 
@@ -34,14 +34,14 @@ Last year (2021) I listened through ["The Sound of Everything"](https://open.spo
 
 ## Ultra-marathon runner
 
-I'm an ultra-marathon runner. I can't wait to have time to run more, but to date I've run a 50km (30 miles) and a 50 mile race. Dropped out of my first 100-mile race at mile 65, due to undertraining, in 2021. Came in 3rd for my first marathon, 6th at the 50k, and 157th (out of 400) at the 50-mile. I don't get out as much as I would like, but running long distances has formed a large part of my identity since about 2013. 
+I'm an ultra-marathon runner. I'm most proud of the 2025 100-mile Pigtails Challenge race I won. I've also run 2 50km races and a 50 miler. Came in 3rd for my first marathon, 5th for my age group at the 2024 Seattle Marathon, 6th at the first 50k, and 157th (out of 400) at the 50-mile. I don't get out as much as I would like, but running long distances has formed a large part of my identity since about 2013. 
 
 While teaching at Temple University, my goal was to run every street in my neighborhood, South Philadelphia. Here's how I did:
 <div id='map' style='height:800px; width:1200px'></div>
 <script>
 		var map = L.map('map',{center:[39.92149,-75.1625],zoom:14});
 
-		L.tileLayer('https://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+		L.tileLayer('https://tile.osm.org/{z}/{x}/{y}.png', {
 			attribution: '&copy; <a href="https://osm.org/copyright">OpenStreetMap</a> contributors'
 		}).addTo(map);
 
