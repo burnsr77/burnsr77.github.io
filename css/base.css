@@ -303,3 +303,11 @@ h1 {
 .column {
   flex: 50%;
 }
+
+.leaflet-container img {
+  box-shadow: none !important;
+  border: none !important;
+  padding: 0 !important;
+  border-radius: 0 !important;
+  max-width: none !important;
+}
