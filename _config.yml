@@ -11,12 +11,12 @@ markdown: kramdown
 # Themes are encouraged to use these universal variables
 # so be sure to set them if your theme uses them.
 #
-title : ryan burns - university of calgary
+title : ryan burns - Responsible AI Washington
 tagline: digressions on technology and society
-description : ryan burns is associate professor at university of calgary studying digital geographies, science & technology studies, urban studies, smart cities, technology & society, gender, geocomputation, digital humanitarianism
+description : ryan burns is president of responsible AI washington, a non-profit promoting safe, transparent, and environmentally sustainable AI practices and policies through training/education, research, stakeholder coordination, and policy advocacy
 author :
   name : ryan burns
-  email : ryan.burns1@ucalgary.ca
+  email : burnsr77@gmail.com
   github : burnsr77
   twitter : burnsr77
   gravatar_url : https://www.gravatar.com/avatar/88ca2927dab21eacddc9fba3c3341f29.png

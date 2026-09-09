@@ -4,7 +4,7 @@ author: rlburns
 layout: layout
 ---
 
-## [Click here for my complete CV](/assets/uploads/Burns_CV.pdf)
+## [Click here for my complete academic CV](/assets/uploads/Burns_CV.pdf)
 
 See below for *selective* HTML version, with links.
 
@@ -265,9 +265,3 @@ Graduated: Dare Adeyemi (2020), Prakash Gautam (2019)
 
 2017 	2-day University of Calgary map-a-thon for Geography Awareness Week and GIS Day, contributing to Building Canada 2020.
 
-
-<a name="tech"> </a>
-
-## Technological Proficiency \(messy\)
-
-<img src="/assets/uploads/Digital-technology-proficiency.png" />
